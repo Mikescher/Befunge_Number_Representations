@@ -1,19 +1,6 @@
 BefunRep.exe ^
 -safe=safe.bin ^
--out=out.csv
+-log=log/ ^
+-out=output/out.csv ^
+-maxoutput=524288 ^
 -iterations=0
-
-
-BefunRep.exe ^
--safe=safe.bin ^
--out=out.json
--iterations=0
-
-
-BefunRep.exe ^
--safe=safe.bin ^
--out=out.xml
--iterations=0
-
-
-PAUSE
