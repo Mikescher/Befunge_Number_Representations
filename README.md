@@ -13,10 +13,10 @@ Unfortunately these are a lot of numbers and I scratched the [maximum repository
 
 > **Note:**
 >
-> This is **befunge-93** so I use only the original [befunge-93 command set](https://github.com/catseye/Befunge-93/blob/master/doc/Befunge-93.markdown). There are a few neat features in befunge-98 that I could probably use to improve some numbers, but:
-> A) Befunge-93 is more popular and there are more interpreters online and [offline](https://github.com/Mikescher/BefunExec).
-> B) It really doesn't improve that much, I kinda tested it.
-> C) I like befunge-93 more, it's just more *basic*.
+> This is **befunge-93** so I use only the original [befunge-93 command set](https://github.com/catseye/Befunge-93/blob/master/doc/Befunge-93.markdown). There are a few neat features in befunge-98 that I could probably use to improve some numbers, but:  
+> A) Befunge-93 is more popular and there are more interpreters online and [offline](https://github.com/Mikescher/BefunExec).  
+> B) It really doesn't improve that much, I kinda tested it.  
+> C) I like befunge-93 more, it's just more *basic*.  
 
 Files
 -----
@@ -72,3 +72,10 @@ OUTPUT (POSITIVE).bat | Output Numbers from `0` to `2^24` to the folder `output/
 
 Be aware that you calculate a lot of numbers here. All operations will take a good amount of time (I let it run for a **whole day** to calculate everything).  
 Also the safe file becomes pretty big **(around one gigabyte)** and when you output all numbers the textfiles are together around **1.8 gigabyte** big.
+
+
+Optimizations
+-------------
+
+If you find a better representation for a number tell me :D. Just open an issue on Github or something ...  
+Also do the same if you have another algorithm for BefunRep, that improves a bunch of numbers *(and has a reasonable runtime)*.
