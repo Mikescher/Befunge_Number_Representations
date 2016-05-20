@@ -1,3 +1,3 @@
 BefunRep.exe ^
--safe=safe.bin ^
+-safe=safe.bin.gz ^
 -iterations=-1

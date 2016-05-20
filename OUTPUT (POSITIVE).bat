@@ -1,5 +1,5 @@
 BefunRep.exe ^
--safe=safe.bin ^
+-safe=safe.bin.gz ^
 -out=output/out.csv ^
 -maxoutput=524288 ^
 -outmin=0 ^

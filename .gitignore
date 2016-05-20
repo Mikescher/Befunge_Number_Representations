@@ -2,5 +2,5 @@
 thumbs.db
 *.dll
 safe.bin
-safe.7z
+safe.bin.gz
 log/*
