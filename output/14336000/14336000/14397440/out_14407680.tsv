@@ -1,0 +1,2048 @@
+DBD800	"xC8 "***
+DBD801	"xC8 "***1+
+DBD802	"xC8 "***2+
+DBD803	"xC8 "***3+
+DBD804	"xC8 "***4+
+DBD805	"xC8 "***5+
+DBD806	"xC8 "***6+
+DBD807	"xC8 "***7+
+DBD808	"zzy"**3-8*
+DBD809	"xC8 "***9+
+DBD80A	"nvd%!"***\-
+DBD80B	"mvd%!"***\-
+DBD80C	"lvd%!"***\-
+DBD80D	"kvd%!"***\-
+DBD80E	"=,"*:*9-2*
+DBD80F	"7xts"**+9*
+DBD810	"=,"*:*8-2*
+DBD811	"gvd%!"***\-
+DBD812	"=,"*:*7-2*
+DBD813	"evd%!"***\-
+DBD814	"=,"*:*6-2*
+DBD815	"cvd%!"***\-
+DBD816	"=,"*:*5-2*
+DBD817	"y== "***9-
+DBD818	"=,"*:*4-2*
+DBD819	"y== "***7-
+DBD81A	"=,"*:*3-2*
+DBD81B	"y== "***5-
+DBD81C	"=,"*:*2-2*
+DBD81D	"y== "***3-
+DBD81E	"=,"*:*1-2*
+DBD81F	"y== "***1-
+DBD820	"=,"*:*2*
+DBD821	"y== "***1+
+DBD822	"=,"*:*1+2*
+DBD823	"y== "***3+
+DBD824	"=,"*:*2+2*
+DBD825	"y== "***5+
+DBD826	"=,"*:*3+2*
+DBD827	"y== "***7+
+DBD828	"=,"*:*4+2*
+DBD829	"y== "***9+
+DBD82A	"=,"*:*5+2*
+DBD82B	"Mvd%!"***\-
+DBD82C	"=,"*:*6+2*
+DBD82D	"Kvd%!"***\-
+DBD82E	"=,"*:*7+2*
+DBD82F	"Ivd%!"***\-
+DBD830	"=,"*:*8+2*
+DBD831	"m~M1#"**+*
+DBD832	"=,"*:*9+2*
+DBD833	";xts"**+9*
+DBD834	"Dvd%!"***\-
+DBD835	"Cvd%!"***\-
+DBD836	"Bvd%!"***\-
+DBD837	"Avd%!"***\-
+DBD838	"zzy"**3+8*
+DBD839	"?vd%!"***\-
+DBD83A	">vd%!"***\-
+DBD83B	"=vd%!"***\-
+DBD83C	"<xts"**+9*
+DBD83D	";vd%!"***\-
+DBD83E	":vd%!"***\-
+DBD83F	"g~y#!"**+*
+DBD840	"zzy"**4+8*
+DBD841	"7vd%!"***\-
+DBD842	"6vd%!"***\-
+DBD843	"5vd%!"***\-
+DBD844	"4vd%!"***\-
+DBD845	"=xts"**+9*
+DBD846	"2vd%!"***\-
+DBD847	"1vd%!"***\-
+DBD848	"zzy"**5+8*
+DBD849	"/vd%!"***\-
+DBD84A	".vd%!"***\-
+DBD84B	"U~e+'"**+*
+DBD84C	",vd%!"***\-
+DBD84D	"+vd%!"***\-
+DBD84E	">xts"**+9*
+DBD84F	")vd%!"***\-
+DBD850	"zzy"**6+8*
+DBD851	"'vd%!"***\-
+DBD852	"&vd%!"***\-
+DBD853	"%vd%!"***\-
+DBD854	"kb~ '"*+**
+DBD855	"#vd%!"***\-
+DBD856	"Hm:5+"***\-
+DBD857	"?xts"**+9*
+DBD858	"zzy"**7+8*
+DBD859	"Em:5+"***\-
+DBD85A	"Dm:5+"***\-
+DBD85B	"Cm:5+"***\-
+DBD85C	"Bm:5+"***\-
+DBD85D	"Am:5+"***\-
+DBD85E	"@m:5+"***\-
+DBD85F	"?m:5+"***\-
+DBD860	"zzy"**8+8*
+DBD861	"=m:5+"***\-
+DBD862	"<m:5+"***\-
+DBD863	";m:5+"***\-
+DBD864	":m:5+"***\-
+DBD865	"9m:5+"***\-
+DBD866	"8m:5+"***\-
+DBD867	"7m:5+"***\-
+DBD868	"zzy"**9+8*
+DBD869	"Axts"**+9*
+DBD86A	"4m:5+"***\-
+DBD86B	"3m:5+"***\-
+DBD86C	"2m:5+"***\-
+DBD86D	"1m:5+"***\-
+DBD86E	"0m:5+"***\-
+DBD86F	"x;7%"***9-
+DBD870	"x;7%"***8-
+DBD871	"x;7%"***7-
+DBD872	"x;7%"***6-
+DBD873	"x;7%"***5-
+DBD874	"x;7%"***4-
+DBD875	"x;7%"***3-
+DBD876	"x;7%"***2-
+DBD877	"x;7%"***1-
+DBD878	"x;7%"***
+DBD879	"x;7%"***1+
+DBD87A	"x;7%"***2+
+DBD87B	"x;7%"***3+
+DBD87C	"x;7%"***4+
+DBD87D	"x;7%"***5+
+DBD87E	"x;7%"***6+
+DBD87F	"x;7%"***7+
+DBD880	"x;7%"***8+
+DBD881	"x;7%"***9+
+DBD882	"by== "***+
+DBD883	"cy== "***+
+DBD884	"dy== "***+
+DBD885	"ey== "***+
+DBD886	"fy== "***+
+DBD887	"gy== "***+
+DBD888	"hy== "***+
+DBD889	"iy== "***+
+DBD88A	"jy== "***+
+DBD88B	"ky== "***+
+DBD88C	"ly== "***+
+DBD88D	"my== "***+
+DBD88E	"ny== "***+
+DBD88F	"oy== "***+
+DBD890	"py== "***+
+DBD891	"qy== "***+
+DBD892	"ry== "***+
+DBD893	"sy== "***+
+DBD894	"ty== "***+
+DBD895	"m:5+"***9-
+DBD896	"m:5+"***8-
+DBD897	"m:5+"***7-
+DBD898	"m:5+"***6-
+DBD899	"m:5+"***5-
+DBD89A	"m:5+"***4-
+DBD89B	"m:5+"***3-
+DBD89C	"m:5+"***2-
+DBD89D	"m:5+"***1-
+DBD89E	"m:5+"***
+DBD89F	"m:5+"***1+
+DBD8A0	"m:5+"***2+
+DBD8A1	"m:5+"***3+
+DBD8A2	"m:5+"***4+
+DBD8A3	"m:5+"***5+
+DBD8A4	"m:5+"***6+
+DBD8A5	"m:5+"***7+
+DBD8A6	"m:5+"***8+
+DBD8A7	"m:5+"***9+
+DBD8A8	"Hxts"**+9*
+DBD8A9	"kQQ=$"***\-
+DBD8AA	"jQQ=$"***\-
+DBD8AB	"iQQ=$"***\-
+DBD8AC	"hQQ=$"***\-
+DBD8AD	"gQQ=$"***\-
+DBD8AE	"fQQ=$"***\-
+DBD8AF	"eQQ=$"***\-
+DBD8B0	"dQQ=$"***\-
+DBD8B1	"Ixts"**+9*
+DBD8B2	"bQQ=$"***\-
+DBD8B3	"aQQ=$"***\-
+DBD8B4	"`QQ=$"***\-
+DBD8B5	"_QQ=$"***\-
+DBD8B6	"^QQ=$"***\-
+DBD8B7	"]QQ=$"***\-
+DBD8B8	"\QQ=$"***\-
+DBD8B9	"[QQ=$"***\-
+DBD8BA	"c~G @"**+*
+DBD8BB	"YQQ=$"***\-
+DBD8BC	"XQQ=$"***\-
+DBD8BD	"WQQ=$"***\-
+DBD8BE	"VQQ=$"***\-
+DBD8BF	"UQQ=$"***\-
+DBD8C0	"TQQ=$"***\-
+DBD8C1	"SQQ=$"***\-
+DBD8C2	"RQQ=$"***\-
+DBD8C3	"Kxts"**+9*
+DBD8C4	"PQQ=$"***\-
+DBD8C5	"OQQ=$"***\-
+DBD8C6	"NQQ=$"***\-
+DBD8C7	"MQQ=$"***\-
+DBD8C8	"LQQ=$"***\-
+DBD8C9	"C+~}'"*+**
+DBD8CA	"JQQ=$"***\-
+DBD8CB	"IQQ=$"***\-
+DBD8CC	"Lxts"**+9*
+DBD8CD	"GQQ=$"***\-
+DBD8CE	"FQQ=$"***\-
+DBD8CF	"EQQ=$"***\-
+DBD8D0	"DQQ=$"***\-
+DBD8D1	"CQQ=$"***\-
+DBD8D2	"sr} "+**7*
+DBD8D3	"AQQ=$"***\-
+DBD8D4	"@QQ=$"***\-
+DBD8D5	"Mxts"**+9*
+DBD8D6	">QQ=$"***\-
+DBD8D7	"=QQ=$"***\-
+DBD8D8	"<QQ=$"***\-
+DBD8D9	";QQ=$"***\-
+DBD8DA	":QQ=$"***\-
+DBD8DB	"9QQ=$"***\-
+DBD8DC	"8QQ=$"***\-
+DBD8DD	"7QQ=$"***\-
+DBD8DE	"Nxts"**+9*
+DBD8DF	"5QQ=$"***\-
+DBD8E0	"p~Y&&"**+*
+DBD8E1	"3QQ=$"***\-
+DBD8E2	"2QQ=$"***\-
+DBD8E3	"1QQ=$"***\-
+DBD8E4	"0QQ=$"***\-
+DBD8E5	"/QQ=$"***\-
+DBD8E6	".QQ=$"***\-
+DBD8E7	"Oxts"**+9*
+DBD8E8	",QQ=$"***\-
+DBD8E9	"+QQ=$"***\-
+DBD8EA	"*QQ=$"***\-
+DBD8EB	")QQ=$"***\-
+DBD8EC	"(QQ=$"***\-
+DBD8ED	"'QQ=$"***\-
+DBD8EE	"&QQ=$"***\-
+DBD8EF	"%QQ=$"***\-
+DBD8F0	"Pxts"**+9*
+DBD8F1	"#QQ=$"***\-
+DBD8F2	"XfI-+"***\-
+DBD8F3	"!QQ=$"***\-
+DBD8F4	" QQ=$"***\-
+DBD8F5	"UfI-+"***\-
+DBD8F6	"TfI-+"***\-
+DBD8F7	"SfI-+"***\-
+DBD8F8	"RfI-+"***\-
+DBD8F9	"Qxts"**+9*
+DBD8FA	"PfI-+"***\-
+DBD8FB	"OfI-+"***\-
+DBD8FC	"NfI-+"***\-
+DBD8FD	"MfI-+"***\-
+DBD8FE	"LfI-+"***\-
+DBD8FF	"KfI-+"***\-
+DBD900	"JfI-+"***\-
+DBD901	"IfI-+"***\-
+DBD902	"Rxts"**+9*
+DBD903	"GfI-+"***\-
+DBD904	"FfI-+"***\-
+DBD905	"EfI-+"***\-
+DBD906	"DfI-+"***\-
+DBD907	"CfI-+"***\-
+DBD908	"j^~(!"*+**
+DBD909	"AfI-+"***\-
+DBD90A	"@fI-+"***\-
+DBD90B	"m9~3+"*+**
+DBD90C	"QQ=$"***8-
+DBD90D	"QQ=$"***7-
+DBD90E	"QQ=$"***6-
+DBD90F	"QQ=$"***5-
+DBD910	"QQ=$"***4-
+DBD911	"QQ=$"***3-
+DBD912	"y:~/)"*+**
+DBD913	"QQ=$"***1-
+DBD914	"QQ=$"***
+DBD915	"QQ=$"***1+
+DBD916	"QQ=$"***2+
+DBD917	"QQ=$"***3+
+DBD918	"QQ=$"***4+
+DBD919	"QQ=$"***5+
+DBD91A	"QQ=$"***6+
+DBD91B	"QQ=$"***7+
+DBD91C	"QQ=$"***8+
+DBD91D	"QQ=$"***9+
+DBD91E	",fI-+"***\-
+DBD91F	"+fI-+"***\-
+DBD920	" zzy"**+8*
+DBD921	")fI-+"***\-
+DBD922	"(fI-+"***\-
+DBD923	"'fI-+"***\-
+DBD924	"&fI-+"***\-
+DBD925	"%fI-+"***\-
+DBD926	"Vxts"**+9*
+DBD927	"#fI-+"***\-
+DBD928	"!zzy"**+8*
+DBD929	"!fI-+"***\-
+DBD92A	" fI-+"***\-
+DBD92B	"Mm>4)"***\-
+DBD92C	"Lm>4)"***\-
+DBD92D	"Km>4)"***\-
+DBD92E	"Jm>4)"***\-
+DBD92F	"Wxts"**+9*
+DBD930	"Hm>4)"***\-
+DBD931	"Gm>4)"***\-
+DBD932	"Fm>4)"***\-
+DBD933	"Em>4)"***\-
+DBD934	"Dm>4)"***\-
+DBD935	"Cm>4)"***\-
+DBD936	"Bm>4)"***\-
+DBD937	"Am>4)"***\-
+DBD938	"#zzy"**+8*
+DBD939	"?m>4)"***\-
+DBD93A	">m>4)"***\-
+DBD93B	"=m>4)"***\-
+DBD93C	"<m>4)"***\-
+DBD93D	";m>4)"***\-
+DBD93E	":m>4)"***\-
+DBD93F	"9m>4)"***\-
+DBD940	"$zzy"**+8*
+DBD941	"fI-+"***9-
+DBD942	"fI-+"***8-
+DBD943	"fI-+"***7-
+DBD944	"fI-+"***6-
+DBD945	"fI-+"***5-
+DBD946	"fI-+"***4-
+DBD947	"fI-+"***3-
+DBD948	"fI-+"***2-
+DBD949	"fI-+"***1-
+DBD94A	"fI-+"***
+DBD94B	"fI-+"***1+
+DBD94C	"fI-+"***2+
+DBD94D	"fI-+"***3+
+DBD94E	"fI-+"***4+
+DBD94F	"fI-+"***5+
+DBD950	"fI-+"***6+
+DBD951	"fI-+"***7+
+DBD952	"fI-+"***8+
+DBD953	"fI-+"***9+
+DBD954	"$m>4)"***\-
+DBD955	"#m>4)"***\-
+DBD956	"BQQ=$"***+
+DBD957	"!m>4)"***\-
+DBD958	"'zzy"**+8*
+DBD959	"EQQ=$"***+
+DBD95A	"FQQ=$"***+
+DBD95B	"GQQ=$"***+
+DBD95C	"HQQ=$"***+
+DBD95D	"IQQ=$"***+
+DBD95E	"~jI1&"***\-
+DBD95F	"}jI1&"***\-
+DBD960	"(zzy"**+8*
+DBD961	"{jI1&"***\-
+DBD962	"zjI1&"***\-
+DBD963	"yjI1&"***\-
+DBD964	"xjI1&"***\-
+DBD965	"]xts"**+9*
+DBD966	"vjI1&"***\-
+DBD967	"ujI1&"***\-
+DBD968	")zzy"**+8*
+DBD969	"sjI1&"***\-
+DBD96A	"rjI1&"***\-
+DBD96B	"qjI1&"***\-
+DBD96C	"pjI1&"***\-
+DBD96D	"ojI1&"***\-
+DBD96E	"^xts"**+9*
+DBD96F	"m>4)"***9-
+DBD970	"m>4)"***8-
+DBD971	"m>4)"***7-
+DBD972	"m>4)"***6-
+DBD973	"m>4)"***5-
+DBD974	"m>4)"***4-
+DBD975	"m>4)"***3-
+DBD976	"m>4)"***2-
+DBD977	"m>4)"***1-
+DBD978	"m>4)"***
+DBD979	"m>4)"***1+
+DBD97A	"m>4)"***2+
+DBD97B	"m>4)"***3+
+DBD97C	"m>4)"***4+
+DBD97D	"m>4)"***5+
+DBD97E	"m>4)"***6+
+DBD97F	"m>4)"***7+
+DBD980	"m>4)"***8+
+DBD981	"m>4)"***9+
+DBD982	"ZjI1&"***\-
+DBD983	"YjI1&"***\-
+DBD984	"XjI1&"***\-
+DBD985	"WjI1&"***\-
+DBD986	"VjI1&"***\-
+DBD987	"UjI1&"***\-
+DBD988	"-zzy"**+8*
+DBD989	"axts"**+9*
+DBD98A	"RjI1&"***\-
+DBD98B	"QjI1&"***\-
+DBD98C	"PjI1&"***\-
+DBD98D	"OjI1&"***\-
+DBD98E	"NjI1&"***\-
+DBD98F	"MjI1&"***\-
+DBD990	".zzy"**+8*
+DBD991	"KjI1&"***\-
+DBD992	"bxts"**+9*
+DBD993	"IjI1&"***\-
+DBD994	"HjI1&"***\-
+DBD995	"k/~S!"*+**
+DBD996	"FjI1&"***\-
+DBD997	"EjI1&"***\-
+DBD998	"/zzy"**+8*
+DBD999	"CjI1&"***\-
+DBD99A	"BjI1&"***\-
+DBD99B	"cxts"**+9*
+DBD99C	"@jI1&"***\-
+DBD99D	"?jI1&"***\-
+DBD99E	">jI1&"***\-
+DBD99F	"U;~C)"*+**
+DBD9A0	"0zzy"**+8*
+DBD9A1	";jI1&"***\-
+DBD9A2	":jI1&"***\-
+DBD9A3	"9jI1&"***\-
+DBD9A4	"dxts"**+9*
+DBD9A5	"7jI1&"***\-
+DBD9A6	"6jI1&"***\-
+DBD9A7	"5jI1&"***\-
+DBD9A8	"1zzy"**+8*
+DBD9A9	"3jI1&"***\-
+DBD9AA	"2jI1&"***\-
+DBD9AB	"1jI1&"***\-
+DBD9AC	"0jI1&"***\-
+DBD9AD	"exts"**+9*
+DBD9AE	".jI1&"***\-
+DBD9AF	"-jI1&"***\-
+DBD9B0	"2zzy"**+8*
+DBD9B1	"+jI1&"***\-
+DBD9B2	"*jI1&"***\-
+DBD9B3	")jI1&"***\-
+DBD9B4	"(jI1&"***\-
+DBD9B5	"'jI1&"***\-
+DBD9B6	"r]w "+**9*
+DBD9B7	"%jI1&"***\-
+DBD9B8	"3zzy"**+8*
+DBD9B9	"#jI1&"***\-
+DBD9BA	"Bm>4)"***+
+DBD9BB	"!jI1&"***\-
+DBD9BC	" jI1&"***\-
+DBD9BD	"Em>4)"***+
+DBD9BE	"Fm>4)"***+
+DBD9BF	"Gm>4)"***+
+DBD9C0	"Hm>4)"***+
+DBD9C1	"Im>4)"***+
+DBD9C2	"Jm>4)"***+
+DBD9C3	"Km>4)"***+
+DBD9C4	"Lm>4)"***+
+DBD9C5	"Mm>4)"***+
+DBD9C6	"Nm>4)"***+
+DBD9C7	"Om>4)"***+
+DBD9C8	"Pm>4)"***+
+DBD9C9	"Qm>4)"***+
+DBD9CA	"Rm>4)"***+
+DBD9CB	"Sm>4)"***+
+DBD9CC	"Tm>4)"***+
+DBD9CD	"Um>4)"***+
+DBD9CE	"Vm>4)"***+
+DBD9CF	"Wm>4)"***+
+DBD9D0	"Xm>4)"***+
+DBD9D1	"Ym>4)"***+
+DBD9D2	"Zm>4)"***+
+DBD9D3	"jI1&"***9-
+DBD9D4	"jI1&"***8-
+DBD9D5	"jI1&"***7-
+DBD9D6	"jI1&"***6-
+DBD9D7	"jI1&"***5-
+DBD9D8	"jI1&"***4-
+DBD9D9	"jI1&"***3-
+DBD9DA	"jI1&"***2-
+DBD9DB	"jI1&"***1-
+DBD9DC	"jI1&"***
+DBD9DD	"jI1&"***1+
+DBD9DE	"jI1&"***2+
+DBD9DF	"jI1&"***3+
+DBD9E0	"x4~;%"*+**
+DBD9E1	"jI1&"***5+
+DBD9E2	"jI1&"***6+
+DBD9E3	"jI1&"***7+
+DBD9E4	"jI1&"***8+
+DBD9E5	"jI1&"***9+
+DBD9E6	"nm>4)"***+
+DBD9E7	"om>4)"***+
+DBD9E8	"pm>4)"***+
+DBD9E9	"qm>4)"***+
+DBD9EA	"rm>4)"***+
+DBD9EB	"sm>4)"***+
+DBD9EC	"tm>4)"***+
+DBD9ED	"um>4)"***+
+DBD9EE	"vm>4)"***+
+DBD9EF	"wm>4)"***+
+DBD9F0	":zzy"**+8*
+DBD9F1	"}SI:)"***\-
+DBD9F2	"|SI:)"***\-
+DBD9F3	"{SI:)"***\-
+DBD9F4	"zSI:)"***\-
+DBD9F5	"mxts"**+9*
+DBD9F6	"xSI:)"***\-
+DBD9F7	"wSI:)"***\-
+DBD9F8	";zzy"**+8*
+DBD9F9	"uSI:)"***\-
+DBD9FA	"tSI:)"***\-
+DBD9FB	"sSI:)"***\-
+DBD9FC	"rSI:)"***\-
+DBD9FD	"qSI:)"***\-
+DBD9FE	"nxts"**+9*
+DBD9FF	"oSI:)"***\-
+DBDA00	"k@~.+"*+**
+DBDA01	"mSI:)"***\-
+DBDA02	"lSI:)"***\-
+DBDA03	"kSI:)"***\-
+DBDA04	"jSI:)"***\-
+DBDA05	"iSI:)"***\-
+DBDA06	"hSI:)"***\-
+DBDA07	"oxts"**+9*
+DBDA08	"=zzy"**+8*
+DBDA09	"eSI:)"***\-
+DBDA0A	"dSI:)"***\-
+DBDA0B	"cSI:)"***\-
+DBDA0C	"bSI:)"***\-
+DBDA0D	"aSI:)"***\-
+DBDA0E	"`SI:)"***\-
+DBDA0F	"%~qA5"**+*
+DBDA10	">zzy"**+8*
+DBDA11	"]SI:)"***\-
+DBDA12	"\SI:)"***\-
+DBDA13	"[SI:)"***\-
+DBDA14	"ZSI:)"***\-
+DBDA15	"YSI:)"***\-
+DBDA16	"XSI:)"***\-
+DBDA17	"WSI:)"***\-
+DBDA18	"?zzy"**+8*
+DBDA19	"qxts"**+9*
+DBDA1A	"TSI:)"***\-
+DBDA1B	"SSI:)"***\-
+DBDA1C	"RSI:)"***\-
+DBDA1D	"QSI:)"***\-
+DBDA1E	"PSI:)"***\-
+DBDA1F	"OSI:)"***\-
+DBDA20	"@zzy"**+8*
+DBDA21	"A+~k/"*+**
+DBDA22	"rxts"**+9*
+DBDA23	"KSI:)"***\-
+DBDA24	"JSI:)"***\-
+DBDA25	"ISI:)"***\-
+DBDA26	"HSI:)"***\-
+DBDA27	"GSI:)"***\-
+DBDA28	"Azzy"**+8*
+DBDA29	"ESI:)"***\-
+DBDA2A	"DSI:)"***\-
+DBDA2B	"sxts"**+9*
+DBDA2C	"BSI:)"***\-
+DBDA2D	"ASI:)"***\-
+DBDA2E	"@SI:)"***\-
+DBDA2F	"?SI:)"***\-
+DBDA30	"Bzzy"**+8*
+DBDA31	"=SI:)"***\-
+DBDA32	">~g7)"**+*
+DBDA33	";SI:)"***\-
+DBDA34	"txts"**+9*
+DBDA35	"9SI:)"***\-
+DBDA36	"8SI:)"***\-
+DBDA37	"7SI:)"***\-
+DBDA38	"Czzy"**+8*
+DBDA39	"5SI:)"***\-
+DBDA3A	"4SI:)"***\-
+DBDA3B	"3SI:)"***\-
+DBDA3C	"2SI:)"***\-
+DBDA3D	"uxts"**+9*
+DBDA3E	"0SI:)"***\-
+DBDA3F	"/SI:)"***\-
+DBDA40	"Dzzy"**+8*
+DBDA41	"-SI:)"***\-
+DBDA42	"g.~75"*+**
+DBDA43	"+SI:)"***\-
+DBDA44	"*SI:)"***\-
+DBDA45	"=)~s1"*+**
+DBDA46	"vxts"**+9*
+DBDA47	"'SI:)"***\-
+DBDA48	"Ezzy"**+8*
+DBDA49	"%SI:)"***\-
+DBDA4A	"$SI:)"***\-
+DBDA4B	"#SI:)"***\-
+DBDA4C	"RUC7."***\-
+DBDA4D	"!SI:)"***\-
+DBDA4E	" SI:)"***\-
+DBDA4F	"wxts"**+9*
+DBDA50	"Fzzy"**+8*
+DBDA51	"MUC7."***\-
+DBDA52	"LUC7."***\-
+DBDA53	"KUC7."***\-
+DBDA54	"JUC7."***\-
+DBDA55	"IUC7."***\-
+DBDA56	"HUC7."***\-
+DBDA57	"GUC7."***\-
+DBDA58	"Gzzy"**+8*
+DBDA59	"EUC7."***\-
+DBDA5A	"DUC7."***\-
+DBDA5B	"aC~3)"*+**
+DBDA5C	"BUC7."***\-
+DBDA5D	"AUC7."***\-
+DBDA5E	"@UC7."***\-
+DBDA5F	"?UC7."***\-
+DBDA60	"Hzzy"**+8*
+DBDA61	"yxts"**+9*
+DBDA62	"A~n5&"**+*
+DBDA63	";UC7."***\-
+DBDA64	":UC7."***\-
+DBDA65	"SI:)"***9-
+DBDA66	"SI:)"***8-
+DBDA67	"SI:)"***7-
+DBDA68	"SI:)"***6-
+DBDA69	"SI:)"***5-
+DBDA6A	"SI:)"***4-
+DBDA6B	"SI:)"***3-
+DBDA6C	"SI:)"***2-
+DBDA6D	"SI:)"***1-
+DBDA6E	"SI:)"***
+DBDA6F	"SI:)"***1+
+DBDA70	"SI:)"***2+
+DBDA71	"SI:)"***3+
+DBDA72	"SI:)"***4+
+DBDA73	"SI:)"***5+
+DBDA74	"SI:)"***6+
+DBDA75	"SI:)"***7+
+DBDA76	"SI:)"***8+
+DBDA77	"SI:)"***9+
+DBDA78	"Kzzy"**+8*
+DBDA79	"%UC7."***\-
+DBDA7A	"$UC7."***\-
+DBDA7B	"#UC7."***\-
+DBDA7C	"|xts"**+9*
+DBDA7D	"!UC7."***\-
+DBDA7E	" UC7."***\-
+DBDA7F	"ARDD&"***\-
+DBDA80	"Lzzy"**+8*
+DBDA81	"?RDD&"***\-
+DBDA82	">RDD&"***\-
+DBDA83	"=RDD&"***\-
+DBDA84	"<RDD&"***\-
+DBDA85	"}xts"**+9*
+DBDA86	":RDD&"***\-
+DBDA87	"9RDD&"***\-
+DBDA88	"Mzzy"**+8*
+DBDA89	"7RDD&"***\-
+DBDA8A	"6RDD&"***\-
+DBDA8B	"5RDD&"***\-
+DBDA8C	"4RDD&"***\-
+DBDA8D	"3RDD&"***\-
+DBDA8E	"~xts"**+9*
+DBDA8F	"1RDD&"***\-
+DBDA90	"Nzzy"**+8*
+DBDA91	"/RDD&"***\-
+DBDA92	".RDD&"***\-
+DBDA93	"-RDD&"***\-
+DBDA94	",RDD&"***\-
+DBDA95	"UC7."***9-
+DBDA96	"UC7."***8-
+DBDA97	"UC7."***7-
+DBDA98	"UC7."***6-
+DBDA99	"UC7."***5-
+DBDA9A	"UC7."***4-
+DBDA9B	"UC7."***3-
+DBDA9C	"UC7."***2-
+DBDA9D	"UC7."***1-
+DBDA9E	"UC7."***
+DBDA9F	"UC7."***1+
+DBDAA0	"UC7."***2+
+DBDAA1	"UC7."***3+
+DBDAA2	"UC7."***4+
+DBDAA3	"UC7."***5+
+DBDAA4	"UC7."***6+
+DBDAA5	"UC7."***7+
+DBDAA6	"UC7."***8+
+DBDAA7	"UC7."***9+
+DBDAA8	":SI:)"***+
+DBDAA9	"gc~'!"*+**
+DBDAAA	"<SI:)"***+
+DBDAAB	"=SI:)"***+
+DBDAAC	">SI:)"***+
+DBDAAD	"?SI:)"***+
+DBDAAE	"@SI:)"***+
+DBDAAF	"3/~k7"*+**
+DBDAB0	"BSI:)"***+
+DBDAB1	"CSI:)"***+
+DBDAB2	"DSI:)"***+
+DBDAB3	"ESI:)"***+
+DBDAB4	"FSI:)"***+
+DBDAB5	"GSI:)"***+
+DBDAB6	"HSI:)"***+
+DBDAB7	"RDD&"***9-
+DBDAB8	"RDD&"***8-
+DBDAB9	"RDD&"***7-
+DBDABA	"RDD&"***6-
+DBDABB	"RDD&"***5-
+DBDABC	"RDD&"***4-
+DBDABD	"RDD&"***3-
+DBDABE	"RDD&"***2-
+DBDABF	"RDD&"***1-
+DBDAC0	"RDD&"***
+DBDAC1	"RDD&"***1+
+DBDAC2	"RDD&"***2+
+DBDAC3	"RDD&"***3+
+DBDAC4	"RDD&"***4+
+DBDAC5	"RDD&"***5+
+DBDAC6	"RDD&"***6+
+DBDAC7	"RDD&"***7+
+DBDAC8	"RDD&"***8+
+DBDAC9	"RDD&"***9+
+DBDACA	",UC7."***+
+DBDACB	"-UC7."***+
+DBDACC	".UC7."***+
+DBDACD	"]+~=9"*+**
+DBDACE	"0UC7."***+
+DBDACF	"1UC7."***+
+DBDAD0	"2UC7."***+
+DBDAD1	"w1~C#"*+**
+DBDAD2	"4UC7."***+
+DBDAD3	"5UC7."***+
+DBDAD4	"6UC7."***+
+DBDAD5	"7UC7."***+
+DBDAD6	"8UC7."***+
+DBDAD7	"9UC7."***+
+DBDAD8	":UC7."***+
+DBDAD9	";UC7."***+
+DBDADA	"<UC7."***+
+DBDADB	"=UC7."***+
+DBDADC	">UC7."***+
+DBDADD	"?UC7."***+
+DBDADE	"@UC7."***+
+DBDADF	"iO~C"+**9*
+DBDAE0	" RDD&"***+
+DBDAE1	"!RDD&"***+
+DBDAE2	"DUC7."***+
+DBDAE3	"#RDD&"***+
+DBDAE4	"$RDD&"***+
+DBDAE5	"%RDD&"***+
+DBDAE6	"&RDD&"***+
+DBDAE7	"'RDD&"***+
+DBDAE8	"(RDD&"***+
+DBDAE9	")RDD&"***+
+DBDAEA	"*RDD&"***+
+DBDAEB	"+RDD&"***+
+DBDAEC	",RDD&"***+
+DBDAED	"-RDD&"***+
+DBDAEE	".RDD&"***+
+DBDAEF	"/RDD&"***+
+DBDAF0	"0RDD&"***+
+DBDAF1	"1RDD&"***+
+DBDAF2	"2RDD&"***+
+DBDAF3	"3RDD&"***+
+DBDAF4	"4RDD&"***+
+DBDAF5	"5RDD&"***+
+DBDAF6	"6RDD&"***+
+DBDAF7	"7RDD&"***+
+DBDAF8	"8RDD&"***+
+DBDAF9	"9RDD&"***+
+DBDAFA	":RDD&"***+
+DBDAFB	";RDD&"***+
+DBDAFC	"<RDD&"***+
+DBDAFD	"=RDD&"***+
+DBDAFE	">RDD&"***+
+DBDAFF	"?RDD&"***+
+DBDB00	"@RDD&"***+
+DBDB01	"ARDD&"***+
+DBDB02	"BRDD&"***+
+DBDB03	"CRDD&"***+
+DBDB04	"DRDD&"***+
+DBDB05	"ERDD&"***+
+DBDB06	"FRDD&"***+
+DBDB07	"GRDD&"***+
+DBDB08	"HRDD&"***+
+DBDB09	"IRDD&"***+
+DBDB0A	"JRDD&"***+
+DBDB0B	"KRDD&"***+
+DBDB0C	"LRDD&"***+
+DBDB0D	"MRDD&"***+
+DBDB0E	"NRDD&"***+
+DBDB0F	"ORDD&"***+
+DBDB10	"PRDD&"***+
+DBDB11	"QRDD&"***+
+DBDB12	"RRDD&"***+
+DBDB13	"SRDD&"***+
+DBDB14	"TRDD&"***+
+DBDB15	"URDD&"***+
+DBDB16	"VRDD&"***+
+DBDB17	"WRDD&"***+
+DBDB18	"XRDD&"***+
+DBDB19	"YRDD&"***+
+DBDB1A	"ZRDD&"***+
+DBDB1B	"[RDD&"***+
+DBDB1C	"\RDD&"***+
+DBDB1D	"]RDD&"***+
+DBDB1E	"^RDD&"***+
+DBDB1F	"_RDD&"***+
+DBDB20	"`RDD&"***+
+DBDB21	"aRDD&"***+
+DBDB22	"bRDD&"***+
+DBDB23	"cRDD&"***+
+DBDB24	"dRDD&"***+
+DBDB25	"eRDD&"***+
+DBDB26	"fRDD&"***+
+DBDB27	"gRDD&"***+
+DBDB28	"hRDD&"***+
+DBDB29	"iRDD&"***+
+DBDB2A	"jRDD&"***+
+DBDB2B	"kRDD&"***+
+DBDB2C	"lRDD&"***+
+DBDB2D	"mRDD&"***+
+DBDB2E	"nRDD&"***+
+DBDB2F	"oRDD&"***+
+DBDB30	"pRDD&"***+
+DBDB31	"qRDD&"***+
+DBDB32	"rRDD&"***+
+DBDB33	"sRDD&"***+
+DBDB34	"tRDD&"***+
+DBDB35	"uRDD&"***+
+DBDB36	"vRDD&"***+
+DBDB37	"wRDD&"***+
+DBDB38	"X~;;/"**+*
+DBDB39	"yRDD&"***+
+DBDB3A	"zRDD&"***+
+DBDB3B	"{RDD&"***+
+DBDB3C	"|RDD&"***+
+DBDB3D	"}RDD&"***+
+DBDB3E	"~RDD&"***+
+DBDB3F	"X~;;/"**+*7+
+DBDB40	"dzzy"**+8*
+DBDB41	"X~;;/"**+*9+
+DBDB42	"yec "+**5-9*
+DBDB43	"zRDD&"***+9+
+DBDB44	"{RDD&"***+9+
+DBDB45	"|RDD&"***+9+
+DBDB46	"}RDD&"***+9+
+DBDB47	"~RDD&"***+9+
+DBDB48	"ezzy"**+8*
+DBDB49	"dzzy"**+8*9+
+DBDB4A	"ezzy"**+8*2+
+DBDB4B	"yec "+**4-9*
+DBDB4C	"ezzy"**+8*4+
+DBDB4D	"ezzy"**+8*5+
+DBDB4E	"sj~G"+**9-6*
+DBDB4F	"G5~~I1"*++**
+DBDB50	"fzzy"**+8*
+DBDB51	"ezzy"**+8*9+
+DBDB52	"Ivon"**+5*2*
+DBDB53	"fzzy"**+8*3+
+DBDB54	"qM."**9-9*4*
+DBDB55	"fzzy"**+8*5+
+DBDB56	"fzzy"**+8*6+
+DBDB57	"fzzy"**+8*7+
+DBDB58	"gzzy"**+8*
+DBDB59	"fzzy"**+8*9+
+DBDB5A	"sj~G"+**7-6*
+DBDB5B	"gzzy"**+8*3+
+DBDB5C	"Jvon"**+5*2*
+DBDB5D	"~_WS"**+7*3*
+DBDB5E	"gzzy"**+8*6+
+DBDB5F	"gzzy"**+8*7+
+DBDB60	"hzzy"**+8*
+DBDB61	"gzzy"**+8*9+
+DBDB62	"hzzy"**+8*2+
+DBDB63	"hzzy"**+8*3+
+DBDB64	"RM~%"+**7*2*
+DBDB65	"hzzy"**+8*5+
+DBDB66	"u~^V"*+*5*3*
+DBDB67	"yec "+**9*8-
+DBDB68	"izzy"**+8*
+DBDB69	"yec "+**9*6-
+DBDB6A	"yec "+**9*5-
+DBDB6B	"_/~~U#"*++**
+DBDB6C	"~vn~;"+**+6*
+DBDB6D	"yec "+**9*2-
+DBDB6E	"yec "+**9*1-
+DBDB6F	"yec "+**9*
+DBDB70	"jzzy"**+8*
+DBDB71	"|QC;-"***\-
+DBDB72	"{QC;-"***\-
+DBDB73	"zQC;-"***\-
+DBDB74	"yQC;-"***\-
+DBDB75	"xQC;-"***\-
+DBDB76	"wQC;-"***\-
+DBDB77	"vQC;-"***\-
+DBDB78	"kzzy"**+8*
+DBDB79	"tQC;-"***\-
+DBDB7A	"sQC;-"***\-
+DBDB7B	"rQC;-"***\-
+DBDB7C	"qQC;-"***\-
+DBDB7D	"pQC;-"***\-
+DBDB7E	"oQC;-"***\-
+DBDB7F	"nQC;-"***\-
+DBDB80	"lzzy"**+8*
+DBDB81	"lQC;-"***\-
+DBDB82	"kQC;-"***\-
+DBDB83	"jQC;-"***\-
+DBDB84	"sj~ !"*+**
+DBDB85	"hQC;-"***\-
+DBDB86	"gQC;-"***\-
+DBDB87	"fQC;-"***\-
+DBDB88	"mzzy"**+8*
+DBDB89	"dQC;-"***\-
+DBDB8A	"cQC;-"***\-
+DBDB8B	"bQC;-"***\-
+DBDB8C	"aQC;-"***\-
+DBDB8D	"`QC;-"***\-
+DBDB8E	"_QC;-"***\-
+DBDB8F	"^QC;-"***\-
+DBDB90	"nzzy"**+8*
+DBDB91	"\QC;-"***\-
+DBDB92	"[QC;-"***\-
+DBDB93	"ZQC;-"***\-
+DBDB94	"YQC;-"***\-
+DBDB95	"XQC;-"***\-
+DBDB96	"WQC;-"***\-
+DBDB97	"VQC;-"***\-
+DBDB98	"ozzy"**+8*
+DBDB99	"TQC;-"***\-
+DBDB9A	"SQC;-"***\-
+DBDB9B	"RQC;-"***\-
+DBDB9C	"QQC;-"***\-
+DBDB9D	"PQC;-"***\-
+DBDB9E	"OQC;-"***\-
+DBDB9F	"NQC;-"***\-
+DBDBA0	"pzzy"**+8*
+DBDBA1	"LQC;-"***\-
+DBDBA2	"KQC;-"***\-
+DBDBA3	"JQC;-"***\-
+DBDBA4	"IQC;-"***\-
+DBDBA5	"HQC;-"***\-
+DBDBA6	"GQC;-"***\-
+DBDBA7	"FQC;-"***\-
+DBDBA8	"qzzy"**+8*
+DBDBA9	"DQC;-"***\-
+DBDBAA	"CQC;-"***\-
+DBDBAB	"BQC;-"***\-
+DBDBAC	"AQC;-"***\-
+DBDBAD	"@QC;-"***\-
+DBDBAE	"?QC;-"***\-
+DBDBAF	">QC;-"***\-
+DBDBB0	"rzzy"**+8*
+DBDBB1	"<QC;-"***\-
+DBDBB2	";QC;-"***\-
+DBDBB3	":QC;-"***\-
+DBDBB4	"9QC;-"***\-
+DBDBB5	"8QC;-"***\-
+DBDBB6	"7QC;-"***\-
+DBDBB7	"6QC;-"***\-
+DBDBB8	"szzy"**+8*
+DBDBB9	"4QC;-"***\-
+DBDBBA	"3QC;-"***\-
+DBDBBB	"2QC;-"***\-
+DBDBBC	"1QC;-"***\-
+DBDBBD	"0QC;-"***\-
+DBDBBE	"/QC;-"***\-
+DBDBBF	".QC;-"***\-
+DBDBC0	"x~{y"*+*8*
+DBDBC1	",QC;-"***\-
+DBDBC2	"+QC;-"***\-
+DBDBC3	"*QC;-"***\-
+DBDBC4	")QC;-"***\-
+DBDBC5	"(QC;-"***\-
+DBDBC6	"'QC;-"***\-
+DBDBC7	"&QC;-"***\-
+DBDBC8	"uzzy"**+8*
+DBDBC9	"$QC;-"***\-
+DBDBCA	"#QC;-"***\-
+DBDBCB	"%zT&%"***\-
+DBDBCC	"!QC;-"***\-
+DBDBCD	" QC;-"***\-
+DBDBCE	"ZY;81"***\-
+DBDBCF	"!zT&%"***\-
+DBDBD0	"vzzy"**+8*
+DBDBD1	"WY;81"***\-
+DBDBD2	"VY;81"***\-
+DBDBD3	"UY;81"***\-
+DBDBD4	"TY;81"***\-
+DBDBD5	"SY;81"***\-
+DBDBD6	"RY;81"***\-
+DBDBD7	"QY;81"***\-
+DBDBD8	"wzzy"**+8*
+DBDBD9	"OY;81"***\-
+DBDBDA	"NY;81"***\-
+DBDBDB	"uI~s"+**7*
+DBDBDC	"LY;81"***\-
+DBDBDD	"KY;81"***\-
+DBDBDE	"JY;81"***\-
+DBDBDF	"IY;81"***\-
+DBDBE0	"xzzy"**+8*
+DBDBE1	"GY;81"***\-
+DBDBE2	"FY;81"***\-
+DBDBE3	"EY;81"***\-
+DBDBE4	"QC;-"***9-
+DBDBE5	"QC;-"***8-
+DBDBE6	"QC;-"***7-
+DBDBE7	"QC;-"***6-
+DBDBE8	"QC;-"***5-
+DBDBE9	"QC;-"***4-
+DBDBEA	"QC;-"***3-
+DBDBEB	"QC;-"***2-
+DBDBEC	"QC;-"***1-
+DBDBED	"QC;-"***
+DBDBEE	"QC;-"***1+
+DBDBEF	"QC;-"***2+
+DBDBF0	"zT&%"***
+DBDBF1	"QC;-"***4+
+DBDBF2	"QC;-"***5+
+DBDBF3	"QC;-"***6+
+DBDBF4	"QC;-"***7+
+DBDBF5	"QC;-"***8+
+DBDBF6	"QC;-"***9+
+DBDBF7	"zT&%"***7+
+DBDBF8	"zT&%"***8+
+DBDBF9	"zT&%"***9+
+DBDBFA	".Y;81"***\-
+DBDBFB	"-Y;81"***\-
+DBDBFC	",Y;81"***\-
+DBDBFD	"+Y;81"***\-
+DBDBFE	"*Y;81"***\-
+DBDBFF	")Y;81"***\-
+DBDC00	"|zzy"**+8*
+DBDC01	"'Y;81"***\-
+DBDC02	"&Y;81"***\-
+DBDC03	"%Y;81"***\-
+DBDC04	"$Y;81"***\-
+DBDC05	"#Y;81"***\-
+DBDC06	"Z|S(#"***\-
+DBDC07	"!Y;81"***\-
+DBDC08	"}zzy"**+8*
+DBDC09	"W|S(#"***\-
+DBDC0A	"V|S(#"***\-
+DBDC0B	"U|S(#"***\-
+DBDC0C	"T|S(#"***\-
+DBDC0D	"S|S(#"***\-
+DBDC0E	"R|S(#"***\-
+DBDC0F	"Q|S(#"***\-
+DBDC10	"~zzy"**+8*
+DBDC11	"O|S(#"***\-
+DBDC12	"N|S(#"***\-
+DBDC13	"M|S(#"***\-
+DBDC14	"L|S(#"***\-
+DBDC15	"K|S(#"***\-
+DBDC16	"J|S(#"***\-
+DBDC17	"I|S(#"***\-
+DBDC18	"H|S(#"***\-
+DBDC19	"G|S(#"***\-
+DBDC1A	"F|S(#"***\-
+DBDC1B	"E|S(#"***\-
+DBDC1C	"D|S(#"***\-
+DBDC1D	"C|S(#"***\-
+DBDC1E	"B|S(#"***\-
+DBDC1F	"Y;81"***9-
+DBDC20	"Y;81"***8-
+DBDC21	"Y;81"***7-
+DBDC22	"Y;81"***6-
+DBDC23	"Y;81"***5-
+DBDC24	"Y;81"***4-
+DBDC25	"Y;81"***3-
+DBDC26	"Y;81"***2-
+DBDC27	"Y;81"***1-
+DBDC28	"Y;81"***
+DBDC29	"_'~G5"*+**
+DBDC2A	"Y;81"***2+
+DBDC2B	"Y;81"***3+
+DBDC2C	"Y;81"***4+
+DBDC2D	"Y;81"***5+
+DBDC2E	"Y;81"***6+
+DBDC2F	"Y;81"***7+
+DBDC30	"Y;81"***8+
+DBDC31	"Y;81"***9+
+DBDC32	".|S(#"***\-
+DBDC33	"-|S(#"***\-
+DBDC34	",|S(#"***\-
+DBDC35	"+|S(#"***\-
+DBDC36	"*|S(#"***\-
+DBDC37	")|S(#"***\-
+DBDC38	"(|S(#"***\-
+DBDC39	"'|S(#"***\-
+DBDC3A	"&|S(#"***\-
+DBDC3B	"%|S(#"***\-
+DBDC3C	"$|S(#"***\-
+DBDC3D	"#|S(#"***\-
+DBDC3E	",OA=."***\-
+DBDC3F	"!|S(#"***\-
+DBDC40	"aX~U"+**8*
+DBDC41	")OA=."***\-
+DBDC42	"(OA=."***\-
+DBDC43	"'OA=."***\-
+DBDC44	"&OA=."***\-
+DBDC45	"%OA=."***\-
+DBDC46	"$OA=."***\-
+DBDC47	"#OA=."***\-
+DBDC48	"Pq\*!"***\-
+DBDC49	"!OA=."***\-
+DBDC4A	" OA=."***\-
+DBDC4B	"Mq\*!"***\-
+DBDC4C	"Lq\*!"***\-
+DBDC4D	"Kq\*!"***\-
+DBDC4E	"Jq\*!"***\-
+DBDC4F	"Iq\*!"***\-
+DBDC50	"uV~5"+**8*
+DBDC51	"Gq\*!"***\-
+DBDC52	"Fq\*!"***\-
+DBDC53	"Eq\*!"***\-
+DBDC54	"Dq\*!"***\-
+DBDC55	"Cq\*!"***\-
+DBDC56	"Bq\*!"***\-
+DBDC57	"|S(#"***9-
+DBDC58	"|S(#"***8-
+DBDC59	"|S(#"***7-
+DBDC5A	"|S(#"***6-
+DBDC5B	"|S(#"***5-
+DBDC5C	"|S(#"***4-
+DBDC5D	"|S(#"***3-
+DBDC5E	"|S(#"***2-
+DBDC5F	"|S(#"***1-
+DBDC60	"|S(#"***
+DBDC61	"|S(#"***1+
+DBDC62	"|S(#"***2+
+DBDC63	"|S(#"***3+
+DBDC64	"|S(#"***4+
+DBDC65	"|S(#"***5+
+DBDC66	"|S(#"***6+
+DBDC67	"|S(#"***7+
+DBDC68	"|S(#"***8+
+DBDC69	"|S(#"***9+
+DBDC6A	"OA=."***
+DBDC6B	"OA=."***1+
+DBDC6C	"OA=."***2+
+DBDC6D	"OA=."***3+
+DBDC6E	"OA=."***4+
+DBDC6F	"OA=."***5+
+DBDC70	"OA=."***6+
+DBDC71	"OA=."***7+
+DBDC72	"OA=."***8+
+DBDC73	"OA=."***9+
+DBDC74	"$q\*!"***\-
+DBDC75	"#q\*!"***\-
+DBDC76	"(e>;'"***\-
+DBDC77	"!q\*!"***\-
+DBDC78	" q\*!"***\-
+DBDC79	"%e>;'"***\-
+DBDC7A	"$e>;'"***\-
+DBDC7B	"#e>;'"***\-
+DBDC7C	"dmQ3 "***\-
+DBDC7D	"!e>;'"***\-
+DBDC7E	" e>;'"***\-
+DBDC7F	"amQ3 "***\-
+DBDC80	"`mQ3 "***\-
+DBDC81	"_mQ3 "***\-
+DBDC82	"^mQ3 "***\-
+DBDC83	"]mQ3 "***\-
+DBDC84	"\mQ3 "***\-
+DBDC85	"[mQ3 "***\-
+DBDC86	"ZmQ3 "***\-
+DBDC87	"YmQ3 "***\-
+DBDC88	"XmQ3 "***\-
+DBDC89	"WmQ3 "***\-
+DBDC8A	"VmQ3 "***\-
+DBDC8B	"UmQ3 "***\-
+DBDC8C	"TmQ3 "***\-
+DBDC8D	"SmQ3 "***\-
+DBDC8E	"RmQ3 "***\-
+DBDC8F	"q\*!"***9-
+DBDC90	"q\*!"***8-
+DBDC91	"q\*!"***7-
+DBDC92	"q\*!"***6-
+DBDC93	"q\*!"***5-
+DBDC94	"q\*!"***4-
+DBDC95	"q\*!"***3-
+DBDC96	"q\*!"***2-
+DBDC97	"q\*!"***1-
+DBDC98	"q\*!"***
+DBDC99	"q\*!"***1+
+DBDC9A	"q\*!"***2+
+DBDC9B	"q\*!"***3+
+DBDC9C	"q\*!"***4+
+DBDC9D	"q\*!"***5+
+DBDC9E	"e>;'"***
+DBDC9F	"q\*!"***7+
+DBDCA0	"q\*!"***8+
+DBDCA1	"q\*!"***9+
+DBDCA2	"e>;'"***4+
+DBDCA3	"e>;'"***5+
+DBDCA4	"e>;'"***6+
+DBDCA5	"e>;'"***7+
+DBDCA6	"V#~O;"*+**
+DBDCA7	"e>;'"***9+
+DBDCA8	"8mQ3 "***\-
+DBDCA9	"7mQ3 "***\-
+DBDCAA	"6mQ3 "***\-
+DBDCAB	"5mQ3 "***\-
+DBDCAC	"4mQ3 "***\-
+DBDCAD	"3mQ3 "***\-
+DBDCAE	"2mQ3 "***\-
+DBDCAF	"1mQ3 "***\-
+DBDCB0	"0mQ3 "***\-
+DBDCB1	"/mQ3 "***\-
+DBDCB2	".mQ3 "***\-
+DBDCB3	"-mQ3 "***\-
+DBDCB4	",mQ3 "***\-
+DBDCB5	"+mQ3 "***\-
+DBDCB6	"IC~</"*+**
+DBDCB7	")mQ3 "***\-
+DBDCB8	"(mQ3 "***\-
+DBDCB9	"'mQ3 "***\-
+DBDCBA	"&mQ3 "***\-
+DBDCBB	"%mQ3 "***\-
+DBDCBC	"$mQ3 "***\-
+DBDCBD	"#mQ3 "***\-
+DBDCBE	".t['#"***\-
+DBDCBF	"!mQ3 "***\-
+DBDCC0	" mQ3 "***\-
+DBDCC1	"+t['#"***\-
+DBDCC2	"*t['#"***\-
+DBDCC3	")t['#"***\-
+DBDCC4	"(t['#"***\-
+DBDCC5	"'t['#"***\-
+DBDCC6	"&t['#"***\-
+DBDCC7	"%t['#"***\-
+DBDCC8	"$t['#"***\-
+DBDCC9	"#t['#"***\-
+DBDCCA	",e>;'"***+
+DBDCCB	"!t['#"***\-
+DBDCCC	" t['#"***\-
+DBDCCD	"/e>;'"***+
+DBDCCE	"0e>;'"***+
+DBDCCF	"1e>;'"***+
+DBDCD0	"2e>;'"***+
+DBDCD1	"3e>;'"***+
+DBDCD2	"4e>;'"***+
+DBDCD3	"5e>;'"***+
+DBDCD4	"6e>;'"***+
+DBDCD5	"7e>;'"***+
+DBDCD6	"8e>;'"***+
+DBDCD7	"mQ3 "***9-
+DBDCD8	"mQ3 "***8-
+DBDCD9	"mQ3 "***7-
+DBDCDA	"yY~a"+**6*
+DBDCDB	"mQ3 "***5-
+DBDCDC	"mQ3 "***4-
+DBDCDD	"mQ3 "***3-
+DBDCDE	"mQ3 "***2-
+DBDCDF	"mQ3 "***1-
+DBDCE0	"mQ3 "***
+DBDCE1	"mQ3 "***1+
+DBDCE2	"mQ3 "***2+
+DBDCE3	"mQ3 "***3+
+DBDCE4	"mQ3 "***4+
+DBDCE5	"mQ3 "***5+
+DBDCE6	"mQ3 "***6+
+DBDCE7	"mQ3 "***7+
+DBDCE8	"mQ3 "***8+
+DBDCE9	"mQ3 "***9+
+DBDCEA	"t['#"***2-
+DBDCEB	"t['#"***1-
+DBDCEC	"t['#"***
+DBDCED	"t['#"***1+
+DBDCEE	"t['#"***2+
+DBDCEF	"t['#"***3+
+DBDCF0	"t['#"***4+
+DBDCF1	"t['#"***5+
+DBDCF2	"t['#"***6+
+DBDCF3	"t['#"***7+
+DBDCF4	"t['#"***8+
+DBDCF5	"t['#"***9+
+DBDCF6	"Xe>;'"***+
+DBDCF7	"Ye>;'"***+
+DBDCF8	"Ze>;'"***+
+DBDCF9	"[e>;'"***+
+DBDCFA	"\e>;'"***+
+DBDCFB	"]e>;'"***+
+DBDCFC	"^e>;'"***+
+DBDCFD	"_e>;'"***+
+DBDCFE	"`e>;'"***+
+DBDCFF	"ae>;'"***+
+DBDD00	" mQ3 "***+
+DBDD01	"~MC91"***\-
+DBDD02	"}MC91"***\-
+DBDD03	"|MC91"***\-
+DBDD04	"{MC91"***\-
+DBDD05	"zMC91"***\-
+DBDD06	"yMC91"***\-
+DBDD07	"xMC91"***\-
+DBDD08	"wMC91"***\-
+DBDD09	"vMC91"***\-
+DBDD0A	"uMC91"***\-
+DBDD0B	"tMC91"***\-
+DBDD0C	"sMC91"***\-
+DBDD0D	"rMC91"***\-
+DBDD0E	"qMC91"***\-
+DBDD0F	"pMC91"***\-
+DBDD10	"oMC91"***\-
+DBDD11	"nMC91"***\-
+DBDD12	"mMC91"***\-
+DBDD13	"lMC91"***\-
+DBDD14	"kMC91"***\-
+DBDD15	"jMC91"***\-
+DBDD16	"iMC91"***\-
+DBDD17	"hMC91"***\-
+DBDD18	"gMC91"***\-
+DBDD19	"fMC91"***\-
+DBDD1A	"eMC91"***\-
+DBDD1B	"dMC91"***\-
+DBDD1C	"cMC91"***\-
+DBDD1D	"bMC91"***\-
+DBDD1E	"aMC91"***\-
+DBDD1F	"`MC91"***\-
+DBDD20	"_MC91"***\-
+DBDD21	"^MC91"***\-
+DBDD22	"]MC91"***\-
+DBDD23	"\MC91"***\-
+DBDD24	"[MC91"***\-
+DBDD25	"ZMC91"***\-
+DBDD26	"YMC91"***\-
+DBDD27	"XMC91"***\-
+DBDD28	"WMC91"***\-
+DBDD29	"VMC91"***\-
+DBDD2A	"UMC91"***\-
+DBDD2B	"TMC91"***\-
+DBDD2C	"SMC91"***\-
+DBDD2D	"RMC91"***\-
+DBDD2E	"QMC91"***\-
+DBDD2F	"PMC91"***\-
+DBDD30	"OMC91"***\-
+DBDD31	"NMC91"***\-
+DBDD32	"MMC91"***\-
+DBDD33	"LMC91"***\-
+DBDD34	"KMC91"***\-
+DBDD35	"JMC91"***\-
+DBDD36	"IMC91"***\-
+DBDD37	"HMC91"***\-
+DBDD38	"GMC91"***\-
+DBDD39	"FMC91"***\-
+DBDD3A	"EMC91"***\-
+DBDD3B	"DMC91"***\-
+DBDD3C	"CMC91"***\-
+DBDD3D	"BMC91"***\-
+DBDD3E	"AMC91"***\-
+DBDD3F	"@MC91"***\-
+DBDD40	"?MC91"***\-
+DBDD41	">MC91"***\-
+DBDD42	"=MC91"***\-
+DBDD43	"W~U;!"**+*
+DBDD44	";MC91"***\-
+DBDD45	":MC91"***\-
+DBDD46	"9MC91"***\-
+DBDD47	"8MC91"***\-
+DBDD48	"7MC91"***\-
+DBDD49	"6MC91"***\-
+DBDD4A	"5MC91"***\-
+DBDD4B	"4MC91"***\-
+DBDD4C	"3MC91"***\-
+DBDD4D	"2MC91"***\-
+DBDD4E	"1MC91"***\-
+DBDD4F	"0MC91"***\-
+DBDD50	"sR~A"+**8*
+DBDD51	".MC91"***\-
+DBDD52	"-MC91"***\-
+DBDD53	",MC91"***\-
+DBDD54	"4~SG/"**+*
+DBDD55	"*MC91"***\-
+DBDD56	")MC91"***\-
+DBDD57	"(MC91"***\-
+DBDD58	"|k~7"+**6*
+DBDD59	"&MC91"***\-
+DBDD5A	"%MC91"***\-
+DBDD5B	"$MC91"***\-
+DBDD5C	"#MC91"***\-
+DBDD5D	"OfS.%"***\-
+DBDD5E	"!MC91"***\-
+DBDD5F	" MC91"***\-
+DBDD60	"LfS.%"***\-
+DBDD61	"KfS.%"***\-
+DBDD62	"JfS.%"***\-
+DBDD63	"IfS.%"***\-
+DBDD64	"HfS.%"***\-
+DBDD65	"GfS.%"***\-
+DBDD66	"FfS.%"***\-
+DBDD67	"EfS.%"***\-
+DBDD68	"DfS.%"***\-
+DBDD69	"CfS.%"***\-
+DBDD6A	"BfS.%"***\-
+DBDD6B	"AfS.%"***\-
+DBDD6C	"@fS.%"***\-
+DBDD6D	"?fS.%"***\-
+DBDD6E	">fS.%"***\-
+DBDD6F	"=fS.%"***\-
+DBDD70	"<fS.%"***\-
+DBDD71	";fS.%"***\-
+DBDD72	":fS.%"***\-
+DBDD73	"K~_/+"**+*
+DBDD74	"8fS.%"***\-
+DBDD75	"7fS.%"***\-
+DBDD76	"MC91"***9-
+DBDD77	"MC91"***8-
+DBDD78	"MC91"***7-
+DBDD79	"MC91"***6-
+DBDD7A	"MC91"***5-
+DBDD7B	"MC91"***4-
+DBDD7C	"MC91"***3-
+DBDD7D	"MC91"***2-
+DBDD7E	"MC91"***1-
+DBDD7F	"MC91"***
+DBDD80	"MC91"***1+
+DBDD81	"MC91"***2+
+DBDD82	"MC91"***3+
+DBDD83	"MC91"***4+
+DBDD84	"MC91"***5+
+DBDD85	"MC91"***6+
+DBDD86	"MC91"***7+
+DBDD87	"MC91"***8+
+DBDD88	"MC91"***9+
+DBDD89	"#fS.%"***\-
+DBDD8A	"vvj$ "***\-
+DBDD8B	"!fS.%"***\-
+DBDD8C	" fS.%"***\-
+DBDD8D	"svj$ "***\-
+DBDD8E	"rvj$ "***\-
+DBDD8F	"qvj$ "***\-
+DBDD90	"pvj$ "***\-
+DBDD91	"ovj$ "***\-
+DBDD92	"nvj$ "***\-
+DBDD93	"mvj$ "***\-
+DBDD94	"lvj$ "***\-
+DBDD95	"kvj$ "***\-
+DBDD96	"jvj$ "***\-
+DBDD97	"ivj$ "***\-
+DBDD98	"hvj$ "***\-
+DBDD99	"gvj$ "***\-
+DBDD9A	"fvj$ "***\-
+DBDD9B	"evj$ "***\-
+DBDD9C	"dvj$ "***\-
+DBDD9D	"cvj$ "***\-
+DBDD9E	"bvj$ "***\-
+DBDD9F	"avj$ "***\-
+DBDDA0	"`vj$ "***\-
+DBDDA1	"_vj$ "***\-
+DBDDA2	"^vj$ "***\-
+DBDDA3	"fS.%"***9-
+DBDDA4	"fS.%"***8-
+DBDDA5	"fS.%"***7-
+DBDDA6	"fS.%"***6-
+DBDDA7	"fS.%"***5-
+DBDDA8	"fS.%"***4-
+DBDDA9	"fS.%"***3-
+DBDDAA	"fS.%"***2-
+DBDDAB	"fS.%"***1-
+DBDDAC	"fS.%"***
+DBDDAD	"fS.%"***1+
+DBDDAE	"fS.%"***2+
+DBDDAF	"fS.%"***3+
+DBDDB0	"p~=1+"**+*
+DBDDB1	"fS.%"***5+
+DBDDB2	"fS.%"***6+
+DBDDB3	"fS.%"***7+
+DBDDB4	"fS.%"***8+
+DBDDB5	"fS.%"***9+
+DBDDB6	"Jvj$ "***\-
+DBDDB7	"Ivj$ "***\-
+DBDDB8	"Hvj$ "***\-
+DBDDB9	"Gvj$ "***\-
+DBDDBA	"Fvj$ "***\-
+DBDDBB	"Evj$ "***\-
+DBDDBC	"Dvj$ "***\-
+DBDDBD	"Cvj$ "***\-
+DBDDBE	"i~X)&"**+*
+DBDDBF	"Avj$ "***\-
+DBDDC0	"@vj$ "***\-
+DBDDC1	"?vj$ "***\-
+DBDDC2	">vj$ "***\-
+DBDDC3	"=vj$ "***\-
+DBDDC4	"<vj$ "***\-
+DBDDC5	";vj$ "***\-
+DBDDC6	":vj$ "***\-
+DBDDC7	"9vj$ "***\-
+DBDDC8	"8vj$ "***\-
+DBDDC9	"7vj$ "***\-
+DBDDCA	"6vj$ "***\-
+DBDDCB	"5vj$ "***\-
+DBDDCC	"4vj$ "***\-
+DBDDCD	"3vj$ "***\-
+DBDDCE	"2vj$ "***\-
+DBDDCF	"1vj$ "***\-
+DBDDD0	"0vj$ "***\-
+DBDDD1	"/vj$ "***\-
+DBDDD2	".vj$ "***\-
+DBDDD3	"-vj$ "***\-
+DBDDD4	",vj$ "***\-
+DBDDD5	"+vj$ "***\-
+DBDDD6	"*vj$ "***\-
+DBDDD7	")vj$ "***\-
+DBDDD8	"(vj$ "***\-
+DBDDD9	"'vj$ "***\-
+DBDDDA	"I.~w#"*+**
+DBDDDB	"%vj$ "***\-
+DBDDDC	"$vj$ "***\-
+DBDDDD	"#vj$ "***\-
+DBDDDE	"4]>31"***\-
+DBDDDF	"!vj$ "***\-
+DBDDE0	" vj$ "***\-
+DBDDE1	"1]>31"***\-
+DBDDE2	"0]>31"***\-
+DBDDE3	"/]>31"***\-
+DBDDE4	".]>31"***\-
+DBDDE5	"-]>31"***\-
+DBDDE6	",]>31"***\-
+DBDDE7	"+]>31"***\-
+DBDDE8	"*]>31"***\-
+DBDDE9	")]>31"***\-
+DBDDEA	"(]>31"***\-
+DBDDEB	"']>31"***\-
+DBDDEC	"&]>31"***\-
+DBDDED	"%]>31"***\-
+DBDDEE	"$]>31"***\-
+DBDDEF	"#]>31"***\-
+DBDDF0	"hU~ /"*+**
+DBDDF1	"!]>31"***\-
+DBDDF2	" ]>31"***\-
+DBDDF3	"UgC:$"***\-
+DBDDF4	"TgC:$"***\-
+DBDDF5	"SgC:$"***\-
+DBDDF6	"RgC:$"***\-
+DBDDF7	"vj $"***9-
+DBDDF8	"vj $"***8-
+DBDDF9	"vj $"***7-
+DBDDFA	"vj $"***6-
+DBDDFB	"vj $"***5-
+DBDDFC	"vj $"***4-
+DBDDFD	"[/~E/"*+**
+DBDDFE	"vj $"***2-
+DBDDFF	"vj $"***1-
+DBDE00	"vj $"***
+DBDE01	"vj $"***1+
+DBDE02	"vj $"***2+
+DBDE03	"vj $"***3+
+DBDE04	"vj $"***4+
+DBDE05	"vj $"***5+
+DBDE06	"vj $"***6+
+DBDE07	"vj $"***7+
+DBDE08	"vj $"***8+
+DBDE09	"vj $"***9+
+DBDE0A	"]>31"***8-
+DBDE0B	"]>31"***7-
+DBDE0C	"]>31"***6-
+DBDE0D	"]>31"***5-
+DBDE0E	"]>31"***4-
+DBDE0F	"]>31"***3-
+DBDE10	"]>31"***2-
+DBDE11	"]>31"***1-
+DBDE12	"]>31"***
+DBDE13	"]>31"***1+
+DBDE14	"]>31"***2+
+DBDE15	"G=~a!"*+**
+DBDE16	"]>31"***4+
+DBDE17	"]>31"***5+
+DBDE18	"]>31"***6+
+DBDE19	"]>31"***7+
+DBDE1A	"]>31"***8+
+DBDE1B	"]>31"***9+
+DBDE1C	",gC:$"***\-
+DBDE1D	"+gC:$"***\-
+DBDE1E	"*gC:$"***\-
+DBDE1F	")gC:$"***\-
+DBDE20	"(gC:$"***\-
+DBDE21	"'gC:$"***\-
+DBDE22	"&gC:$"***\-
+DBDE23	"%gC:$"***\-
+DBDE24	"$gC:$"***\-
+DBDE25	"#gC:$"***\-
+DBDE26	"&vj$ "***+
+DBDE27	"!gC:$"***\-
+DBDE28	" gC:$"***\-
+DBDE29	")vj$ "***+
+DBDE2A	"*vj$ "***+
+DBDE2B	"+vj$ "***+
+DBDE2C	",vj$ "***+
+DBDE2D	"-vj$ "***+
+DBDE2E	".vj$ "***+
+DBDE2F	"/vj$ "***+
+DBDE30	"0vj$ "***+
+DBDE31	"1vj$ "***+
+DBDE32	" ]>31"***+
+DBDE33	"!]>31"***+
+DBDE34	"4vj$ "***+
+DBDE35	"#]>31"***+
+DBDE36	"$]>31"***+
+DBDE37	"%]>31"***+
+DBDE38	"&]>31"***+
+DBDE39	"']>31"***+
+DBDE3A	"(]>31"***+
+DBDE3B	")]>31"***+
+DBDE3C	"*]>31"***+
+DBDE3D	"+]>31"***+
+DBDE3E	",]>31"***+
+DBDE3F	"gC:$"***9-
+DBDE40	"gC:$"***8-
+DBDE41	"gC:$"***7-
+DBDE42	"gC:$"***6-
+DBDE43	"gC:$"***5-
+DBDE44	"gC:$"***4-
+DBDE45	"gC:$"***3-
+DBDE46	"gC:$"***2-
+DBDE47	"gC:$"***1-
+DBDE48	"gC:$"***
+DBDE49	"gC:$"***1+
+DBDE4A	"gC:$"***2+
+DBDE4B	"gC:$"***3+
+DBDE4C	"gC:$"***4+
+DBDE4D	"gC:$"***5+
+DBDE4E	"gC:$"***6+
+DBDE4F	"gC:$"***7+
+DBDE50	"gC:$"***8+
+DBDE51	"gC:$"***9+
+DBDE52	"@]>31"***+
+DBDE53	"A]>31"***+
+DBDE54	"d+~K+"*+**
+DBDE55	"C]>31"***+
+DBDE56	"D]>31"***+
+DBDE57	"E]>31"***+
+DBDE58	"h~q##"**+*
+DBDE59	"G]>31"***+
+DBDE5A	"H]>31"***+
+DBDE5B	"I]>31"***+
+DBDE5C	"J]>31"***+
+DBDE5D	"K]>31"***+
+DBDE5E	"L]>31"***+
+DBDE5F	"M]>31"***+
+DBDE60	"N]>31"***+
+DBDE61	"O]>31"***+
+DBDE62	"P]>31"***+
+DBDE63	"_9~A'"*+**
+DBDE64	"R]>31"***+
+DBDE65	"S]>31"***+
+DBDE66	"T]>31"***+
+DBDE67	"U]>31"***+
+DBDE68	" gC:$"***+
+DBDE69	"!gC:$"***+
+DBDE6A	"X]>31"***+
+DBDE6B	"#gC:$"***+
+DBDE6C	"~{G2!"***\-
+DBDE6D	"}{G2!"***\-
+DBDE6E	"|{G2!"***\-
+DBDE6F	"{{G2!"***\-
+DBDE70	"z{G2!"***\-
+DBDE71	"y{G2!"***\-
+DBDE72	"x{G2!"***\-
+DBDE73	"w{G2!"***\-
+DBDE74	"v{G2!"***\-
+DBDE75	"u{G2!"***\-
+DBDE76	"t{G2!"***\-
+DBDE77	"s{G2!"***\-
+DBDE78	"r{G2!"***\-
+DBDE79	"q{G2!"***\-
+DBDE7A	"p{G2!"***\-
+DBDE7B	"E~YC#"**+*
+DBDE7C	"n{G2!"***\-
+DBDE7D	"m{G2!"***\-
+DBDE7E	"~vj $"***+
+DBDE7F	"k{G2!"***\-
+DBDE80	"j{G2!"***\-
+DBDE81	"i{G2!"***\-
+DBDE82	"h{G2!"***\-
+DBDE83	"g{G2!"***\-
+DBDE84	"f{G2!"***\-
+DBDE85	"e{G2!"***\-
+DBDE86	"d{G2!"***\-
+DBDE87	"c{G2!"***\-
+DBDE88	"b{G2!"***\-
+DBDE89	"a{G2!"***\-
+DBDE8A	"`{G2!"***\-
+DBDE8B	"_{G2!"***\-
+DBDE8C	"^{G2!"***\-
+DBDE8D	"]{G2!"***\-
+DBDE8E	"\{G2!"***\-
+DBDE8F	"[{G2!"***\-
+DBDE90	"x~vp"*+*9*
+DBDE91	"Y{G2!"***\-
+DBDE92	"X{G2!"***\-
+DBDE93	"W{G2!"***\-
+DBDE94	"V{G2!"***\-
+DBDE95	"U{G2!"***\-
+DBDE96	"T{G2!"***\-
+DBDE97	"eY~g"+**7*
+DBDE98	"R{G2!"***\-
+DBDE99	"Q{G2!"***\-
+DBDE9A	"P{G2!"***\-
+DBDE9B	"O{G2!"***\-
+DBDE9C	"N{G2!"***\-
+DBDE9D	"M{G2!"***\-
+DBDE9E	"L{G2!"***\-
+DBDE9F	"}W5"**5*5*
+DBDEA0	"J{G2!"***\-
+DBDEA1	"I{G2!"***\-
+DBDEA2	"H{G2!"***\-
+DBDEA3	"G{G2!"***\-
+DBDEA4	"F{G2!"***\-
+DBDEA5	"S1~C3"*+**
+DBDEA6	"D{G2!"***\-
+DBDEA7	"C{G2!"***\-
+DBDEA8	"B{G2!"***\-
+DBDEA9	"s~G+)"**+*
+DBDEAA	"@{G2!"***\-
+DBDEAB	"?{G2!"***\-
+DBDEAC	">{G2!"***\-
+DBDEAD	"={G2!"***\-
+DBDEAE	"<{G2!"***\-
+DBDEAF	"g%~U+"*+**
+DBDEB0	":{G2!"***\-
+DBDEB1	"9{G2!"***\-
+DBDEB2	"8{G2!"***\-
+DBDEB3	"7{G2!"***\-
+DBDEB4	"6{G2!"***\-
+DBDEB5	"5{G2!"***\-
+DBDEB6	"4{G2!"***\-
+DBDEB7	"3{G2!"***\-
+DBDEB8	"2{G2!"***\-
+DBDEB9	"1{G2!"***\-
+DBDEBA	"0{G2!"***\-
+DBDEBB	"/{G2!"***\-
+DBDEBC	".{G2!"***\-
+DBDEBD	"-{G2!"***\-
+DBDEBE	",{G2!"***\-
+DBDEBF	"+{G2!"***\-
+DBDEC0	"h\~}"+**6*
+DBDEC1	"){G2!"***\-
+DBDEC2	"_~J @"**+*
+DBDEC3	"'{G2!"***\-
+DBDEC4	"&{G2!"***\-
+DBDEC5	"%{G2!"***\-
+DBDEC6	"${G2!"***\-
+DBDEC7	"#{G2!"***\-
+DBDEC8	"8wX+ "***\-
+DBDEC9	"!{G2!"***\-
+DBDECA	" {G2!"***\-
+DBDECB	"5wX+ "***\-
+DBDECC	"4wX+ "***\-
+DBDECD	"3wX+ "***\-
+DBDECE	"2wX+ "***\-
+DBDECF	"1wX+ "***\-
+DBDED0	"0wX+ "***\-
+DBDED1	"/wX+ "***\-
+DBDED2	".wX+ "***\-
+DBDED3	"-wX+ "***\-
+DBDED4	",wX+ "***\-
+DBDED5	"+wX+ "***\-
+DBDED6	"*wX+ "***\-
+DBDED7	")wX+ "***\-
+DBDED8	"(wX+ "***\-
+DBDED9	"'wX+ "***\-
+DBDEDA	"&wX+ "***\-
+DBDEDB	"%wX+ "***\-
+DBDEDC	"$wX+ "***\-
+DBDEDD	"#wX+ "***\-
+DBDEDE	"O~Y @"**+*4-
+DBDEDF	"!wX+ "***\-
+DBDEE0	" wX+ "***\-
+DBDEE1	"{G2!"***9-
+DBDEE2	"O~Y @"**+*
+DBDEE3	"{G2!"***7-
+DBDEE4	"{G2!"***6-
+DBDEE5	"{G2!"***5-
+DBDEE6	"{G2!"***4-
+DBDEE7	"{G2!"***3-
+DBDEE8	"{G2!"***2-
+DBDEE9	"{G2!"***1-
+DBDEEA	"{G2!"***
+DBDEEB	"{G2!"***1+
+DBDEEC	"{G2!"***2+
+DBDEED	"{G2!"***3+
+DBDEEE	"{G2!"***4+
+DBDEEF	"{G2!"***5+
+DBDEF0	"{G2!"***6+
+DBDEF1	"{G2!"***7+
+DBDEF2	"{G2!"***8+
+DBDEF3	"{G2!"***9+
+DBDEF4	"xOL"**7-5*4*
+DBDEF5	"{G2!"***2+9+
+DBDEF6	"h\~}"+**9+6*
+DBDEF7	"wX +"***9-
+DBDEF8	"wX +"***8-
+DBDEF9	"wX +"***7-
+DBDEFA	"wX +"***6-
+DBDEFB	"wX +"***5-
+DBDEFC	"wX +"***4-
+DBDEFD	"wX +"***3-
+DBDEFE	"wX +"***2-
+DBDEFF	"wX +"***1-
+DBDF00	"wX +"***
+DBDF01	"wX +"***1+
+DBDF02	"wX +"***2+
+DBDF03	"wX +"***3+
+DBDF04	"wX +"***4+
+DBDF05	"wX +"***5+
+DBDF06	"wX +"***6+
+DBDF07	"wX +"***7+
+DBDF08	"wX +"***8+
+DBDF09	"=5~G="*+**
+DBDF0A	"vrO2 "***\-
+DBDF0B	"urO2 "***\-
+DBDF0C	"trO2 "***\-
+DBDF0D	"srO2 "***\-
+DBDF0E	"rrO2 "***\-
+DBDF0F	"qrO2 "***\-
+DBDF10	"prO2 "***\-
+DBDF11	"orO2 "***\-
+DBDF12	"nrO2 "***\-
+DBDF13	")~sA/"**+*
+DBDF14	"lrO2 "***\-
+DBDF15	"krO2 "***\-
+DBDF16	"jrO2 "***\-
+DBDF17	"irO2 "***\-
+DBDF18	"hrO2 "***\-
+DBDF19	"grO2 "***\-
+DBDF1A	"frO2 "***\-
+DBDF1B	"erO2 "***\-
+DBDF1C	"}\~5"+**7*
+DBDF1D	"crO2 "***\-
+DBDF1E	"brO2 "***\-
+DBDF1F	"arO2 "***\-
+DBDF20	"`rO2 "***\-
+DBDF21	"_rO2 "***\-
+DBDF22	"^rO2 "***\-
+DBDF23	"]rO2 "***\-
+DBDF24	"\rO2 "***\-
+DBDF25	"[rO2 "***\-
+DBDF26	"ZrO2 "***\-
+DBDF27	"YrO2 "***\-
+DBDF28	"XrO2 "***\-
+DBDF29	"WrO2 "***\-
+DBDF2A	"VrO2 "***\-
+DBDF2B	"UrO2 "***\-
+DBDF2C	"TrO2 "***\-
+DBDF2D	"SrO2 "***\-
+DBDF2E	"RrO2 "***\-
+DBDF2F	"QrO2 "***\-
+DBDF30	"PrO2 "***\-
+DBDF31	"OrO2 "***\-
+DBDF32	"NrO2 "***\-
+DBDF33	"MrO2 "***\-
+DBDF34	"LrO2 "***\-
+DBDF35	"KrO2 "***\-
+DBDF36	"JrO2 "***\-
+DBDF37	"IrO2 "***\-
+DBDF38	"HrO2 "***\-
+DBDF39	"GrO2 "***\-
+DBDF3A	"FrO2 "***\-
+DBDF3B	"ErO2 "***\-
+DBDF3C	"DrO2 "***\-
+DBDF3D	"CrO2 "***\-
+DBDF3E	"BrO2 "***\-
+DBDF3F	"ArO2 "***\-
+DBDF40	"@rO2 "***\-
+DBDF41	"?rO2 "***\-
+DBDF42	">rO2 "***\-
+DBDF43	"=rO2 "***\-
+DBDF44	"<rO2 "***\-
+DBDF45	";rO2 "***\-
+DBDF46	":rO2 "***\-
+DBDF47	"I9~G/"*+**
+DBDF48	"8rO2 "***\-
+DBDF49	"7rO2 "***\-
+DBDF4A	"6rO2 "***\-
+DBDF4B	"5rO2 "***\-
+DBDF4C	"4rO2 "***\-
+DBDF4D	"cW~q"+**7*
+DBDF4E	"2rO2 "***\-
+DBDF4F	"1rO2 "***\-
+DBDF50	"0rO2 "***\-
+DBDF51	"/rO2 "***\-
+DBDF52	".rO2 "***\-
+DBDF53	"-rO2 "***\-
+DBDF54	",rO2 "***\-
+DBDF55	"+rO2 "***\-
+DBDF56	"*rO2 "***\-
+DBDF57	")rO2 "***\-
+DBDF58	"(rO2 "***\-
+DBDF59	"'rO2 "***\-
+DBDF5A	"&rO2 "***\-
+DBDF5B	"%rO2 "***\-
+DBDF5C	"$rO2 "***\-
+DBDF5D	"#rO2 "***\-
+DBDF5E	"2II44"***\-
+DBDF5F	"!rO2 "***\-
+DBDF60	" rO2 "***\-
+DBDF61	"/II44"***\-
+DBDF62	".II44"***\-
+DBDF63	"-II44"***\-
+DBDF64	",II44"***\-
+DBDF65	"+II44"***\-
+DBDF66	"*II44"***\-
+DBDF67	")II44"***\-
+DBDF68	"(II44"***\-
+DBDF69	"'II44"***\-
+DBDF6A	"&II44"***\-
+DBDF6B	"%II44"***\-
+DBDF6C	"$II44"***\-
+DBDF6D	"#II44"***\-
+DBDF6E	"nwX+ "***+
+DBDF6F	"!II44"***\-
+DBDF70	" II44"***\-
+DBDF71	"qwX+ "***+
+DBDF72	"rwX+ "***+
+DBDF73	"swX+ "***+
+DBDF74	"twX+ "***+
+DBDF75	"uwX+ "***+
+DBDF76	"vwX+ "***+
+DBDF77	"rO2 "***9-
+DBDF78	"\G~4("*+**
+DBDF79	"rO2 "***7-
+DBDF7A	"rO2 "***6-
+DBDF7B	"rO2 "***5-
+DBDF7C	"rO2 "***4-
+DBDF7D	"rO2 "***3-
+DBDF7E	"~wX +"***+
+DBDF7F	"rO2 "***1-
+DBDF80	"rO2 "***
+DBDF81	"rO2 "***1+
+DBDF82	"rO2 "***2+
+DBDF83	"rO2 "***3+
+DBDF84	"rO2 "***4+
+DBDF85	"rO2 "***5+
+DBDF86	"]~v )"**+*
+DBDF87	"I4"*:*9-
+DBDF88	"I4"*:*8-
+DBDF89	"I4"*:*7-
+DBDF8A	"I4"*:*6-
+DBDF8B	"I4"*:*5-
+DBDF8C	"I4"*:*4-
+DBDF8D	"I4"*:*3-
+DBDF8E	"I4"*:*2-
+DBDF8F	"I4"*:*1-
+DBDF90	"I4"*:*
+DBDF91	"I4"*:*1+
+DBDF92	"I4"*:*2+
+DBDF93	"I4"*:*3+
+DBDF94	"I4"*:*4+
+DBDF95	"I4"*:*5+
+DBDF96	"I4"*:*6+
+DBDF97	"I4"*:*7+
+DBDF98	"I4"*:*8+
+DBDF99	"I4"*:*9+
+DBDF9A	"I4"*:*1+9+
+DBDF9B	"I4"*:*2+9+
+DBDF9C	"I4"*:*3+9+
+DBDF9D	"I4"*:*4+9+
+DBDF9E	"I4"*:*5+9+
+DBDF9F	"I4"*:*6+9+
+DBDFA0	"I4"*:*7+9+
+DBDFA1	"I4"*:*8+9+
+DBDFA2	"I4"*:*9+9+
+DBDFA3	"_s>/+"***\-
+DBDFA4	"^s>/+"***\-
+DBDFA5	"]s>/+"***\-
+DBDFA6	"\s>/+"***\-
+DBDFA7	"[s>/+"***\-
+DBDFA8	"Zs>/+"***\-
+DBDFA9	"Ys>/+"***\-
+DBDFAA	"Xs>/+"***\-
+DBDFAB	"Ws>/+"***\-
+DBDFAC	"Vs>/+"***\-
+DBDFAD	"Us>/+"***\-
+DBDFAE	"Ts>/+"***\-
+DBDFAF	"Ss>/+"***\-
+DBDFB0	"y~{x"*+*8*
+DBDFB1	"Qs>/+"***\-
+DBDFB2	"Ps>/+"***\-
+DBDFB3	"Os>/+"***\-
+DBDFB4	"Ns>/+"***\-
+DBDFB5	"Ms>/+"***\-
+DBDFB6	"Ls>/+"***\-
+DBDFB7	"Ks>/+"***\-
+DBDFB8	"Js>/+"***\-
+DBDFB9	"Is>/+"***\-
+DBDFBA	"Hs>/+"***\-
+DBDFBB	"Gs>/+"***\-
+DBDFBC	"Fs>/+"***\-
+DBDFBD	"Es>/+"***\-
+DBDFBE	"Ds>/+"***\-
+DBDFBF	"Cs>/+"***\-
+DBDFC0	"Bs>/+"***\-
+DBDFC1	"As>/+"***\-
+DBDFC2	"@s>/+"***\-
+DBDFC3	"?s>/+"***\-
+DBDFC4	">s>/+"***\-
+DBDFC5	"=s>/+"***\-
+DBDFC6	"<s>/+"***\-
+DBDFC7	";s>/+"***\-
+DBDFC8	":s>/+"***\-
+DBDFC9	"9s>/+"***\-
+DBDFCA	"8s>/+"***\-
+DBDFCB	"7s>/+"***\-
+DBDFCC	"L~A75"**+*
+DBDFCD	"5s>/+"***\-
+DBDFCE	"4s>/+"***\-
+DBDFCF	"3s>/+"***\-
+DBDFD0	"2s>/+"***\-
+DBDFD1	"1s>/+"***\-
+DBDFD2	"0s>/+"***\-
+DBDFD3	"/s>/+"***\-
+DBDFD4	".s>/+"***\-
+DBDFD5	"-s>/+"***\-
+DBDFD6	",s>/+"***\-
+DBDFD7	"+s>/+"***\-
+DBDFD8	"*s>/+"***\-
+DBDFD9	")s>/+"***\-
+DBDFDA	"kCC"**6*5*
+DBDFDB	"'s>/+"***\-
+DBDFDC	"&s>/+"***\-
+DBDFDD	"%s>/+"***\-
+DBDFDE	"$s>/+"***\-
+DBDFDF	"#s>/+"***\-
+DBDFE0	"{~zw"*+*8*
+DBDFE1	"!s>/+"***\-
+DBDFE2	" s>/+"***\-
+DBDFE3	"}hC/,"***\-
+DBDFE4	"|hC/,"***\-
+DBDFE5	"{hC/,"***\-
+DBDFE6	"zhC/,"***\-
+DBDFE7	"yhC/,"***\-
+DBDFE8	"xhC/,"***\-
+DBDFE9	"whC/,"***\-
+DBDFEA	"vhC/,"***\-
+DBDFEB	"uhC/,"***\-
+DBDFEC	"thC/,"***\-
+DBDFED	"shC/,"***\-
+DBDFEE	"rhC/,"***\-
+DBDFEF	"qhC/,"***\-
+DBDFF0	"phC/,"***\-
+DBDFF1	"ohC/,"***\-
+DBDFF2	"nhC/,"***\-
+DBDFF3	"mhC/,"***\-
+DBDFF4	"lhC/,"***\-
+DBDFF5	"khC/,"***\-
+DBDFF6	"jhC/,"***\-
+DBDFF7	"ihC/,"***\-
+DBDFF8	"hhC/,"***\-
+DBDFF9	"s>/+"***9-
+DBDFFA	"s>/+"***8-
+DBDFFB	"s>/+"***7-
+DBDFFC	"s>/+"***6-
+DBDFFD	"s>/+"***5-
+DBDFFE	"s>/+"***4-
+DBDFFF	"s>/+"***3-

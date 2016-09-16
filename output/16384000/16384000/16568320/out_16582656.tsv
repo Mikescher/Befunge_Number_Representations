@@ -1,0 +1,2048 @@
+FD0800	"2m=:+"***+
+FD0801	"3m=:+"***+
+FD0802	"4m=:+"***+
+FD0803	"5m=:+"***+
+FD0804	"6m=:+"***+
+FD0805	"7m=:+"***+
+FD0806	"8m=:+"***+
+FD0807	"9m=:+"***+
+FD0808	":m=:+"***+
+FD0809	";m=:+"***+
+FD080A	"<m=:+"***+
+FD080B	"=m=:+"***+
+FD080C	">m=:+"***+
+FD080D	"?m=:+"***+
+FD080E	"@m=:+"***+
+FD080F	"Am=:+"***+
+FD0810	"Bm=:+"***+
+FD0811	"Cm=:+"***+
+FD0812	"Dm=:+"***+
+FD0813	"Em=:+"***+
+FD0814	"Fm=:+"***+
+FD0815	"Gm=:+"***+
+FD0816	"Hm=:+"***+
+FD0817	"Im=:+"***+
+FD0818	"Jm=:+"***+
+FD0819	"Km=:+"***+
+FD081A	"Lm=:+"***+
+FD081B	"Mm=:+"***+
+FD081C	"Nm=:+"***+
+FD081D	"e#~S7"*+**
+FD081E	"Pm=:+"***+
+FD081F	"Qm=:+"***+
+FD0820	"Rm=:+"***+
+FD0821	"Sm=:+"***+
+FD0822	"Tm=:+"***+
+FD0823	"Um=:+"***+
+FD0824	"V*~_/"*+**
+FD0825	"Wm=:+"***+
+FD0826	"Xm=:+"***+
+FD0827	"Ym=:+"***+
+FD0828	"h)~G5"*+**
+FD0829	"[m=:+"***+
+FD082A	"\m=:+"***+
+FD082B	"]m=:+"***+
+FD082C	"^m=:+"***+
+FD082D	"_m=:+"***+
+FD082E	"`m=:+"***+
+FD082F	"am=:+"***+
+FD0830	"bm=:+"***+
+FD0831	"cm=:+"***+
+FD0832	"dm=:+"***+
+FD0833	"em=:+"***+
+FD0834	"fm=:+"***+
+FD0835	"gm=:+"***+
+FD0836	"hm=:+"***+
+FD0837	"im=:+"***+
+FD0838	"jm=:+"***+
+FD0839	"km=:+"***+
+FD083A	"lm=:+"***+
+FD083B	"mm=:+"***+
+FD083C	"nm=:+"***+
+FD083D	"om=:+"***+
+FD083E	"pm=:+"***+
+FD083F	"qm=:+"***+
+FD0840	"rm=:+"***+
+FD0841	"sm=:+"***+
+FD0842	"tm=:+"***+
+FD0843	"um=:+"***+
+FD0844	"vm=:+"***+
+FD0845	"wm=:+"***+
+FD0846	"xm=:+"***+
+FD0847	"ym=:+"***+
+FD0848	"z^~(!"*+**
+FD0849	"{m=:+"***+
+FD084A	"|m=:+"***+
+FD084B	"}m=:+"***+
+FD084C	"~m=:+"***+
+FD084D	"z^~(!"*+**5+
+FD084E	"~%~I/"*+**
+FD084F	"}{k$#"***\-
+FD0850	"|{k$#"***\-
+FD0851	"{{k$#"***\-
+FD0852	"z{k$#"***\-
+FD0853	"y{k$#"***\-
+FD0854	"x{k$#"***\-
+FD0855	"w{k$#"***\-
+FD0856	"v{k$#"***\-
+FD0857	"u{k$#"***\-
+FD0858	"t{k$#"***\-
+FD0859	"s{k$#"***\-
+FD085A	"r{k$#"***\-
+FD085B	"q{k$#"***\-
+FD085C	"p{k$#"***\-
+FD085D	"o{k$#"***\-
+FD085E	"n{k$#"***\-
+FD085F	"m{k$#"***\-
+FD0860	"lD~4)"*+**
+FD0861	"k{k$#"***\-
+FD0862	"j{k$#"***\-
+FD0863	"i{k$#"***\-
+FD0864	"h{k$#"***\-
+FD0865	"g{k$#"***\-
+FD0866	"f{k$#"***\-
+FD0867	"e{k$#"***\-
+FD0868	"d{k$#"***\-
+FD0869	"c{k$#"***\-
+FD086A	"b{k$#"***\-
+FD086B	"a{k$#"***\-
+FD086C	"`{k$#"***\-
+FD086D	"_{k$#"***\-
+FD086E	"^{k$#"***\-
+FD086F	"]{k$#"***\-
+FD0870	"\{k$#"***\-
+FD0871	"[{k$#"***\-
+FD0872	"Z{k$#"***\-
+FD0873	"Y{k$#"***\-
+FD0874	"X{k$#"***\-
+FD0875	"W{k$#"***\-
+FD0876	"V{k$#"***\-
+FD0877	"U{k$#"***\-
+FD0878	"vb~q"+**6*
+FD0879	"S{k$#"***\-
+FD087A	"R{k$#"***\-
+FD087B	"Q{k$#"***\-
+FD087C	"P{k$#"***\-
+FD087D	"O{k$#"***\-
+FD087E	"N{k$#"***\-
+FD087F	"M{k$#"***\-
+FD0880	"L{k$#"***\-
+FD0881	"K{k$#"***\-
+FD0882	"J{k$#"***\-
+FD0883	"I{k$#"***\-
+FD0884	"H{k$#"***\-
+FD0885	"G{k$#"***\-
+FD0886	"F{k$#"***\-
+FD0887	"E{k$#"***\-
+FD0888	"D{k$#"***\-
+FD0889	"C{k$#"***\-
+FD088A	"B{k$#"***\-
+FD088B	"A{k$#"***\-
+FD088C	"@{k$#"***\-
+FD088D	"?{k$#"***\-
+FD088E	">{k$#"***\-
+FD088F	"={k$#"***\-
+FD0890	"xA~2("*+**
+FD0891	";{k$#"***\-
+FD0892	":{k$#"***\-
+FD0893	"9{k$#"***\-
+FD0894	"8{k$#"***\-
+FD0895	"7{k$#"***\-
+FD0896	"Q~|2!"**+*
+FD0897	"5{k$#"***\-
+FD0898	"4{k$#"***\-
+FD0899	"3{k$#"***\-
+FD089A	"2{k$#"***\-
+FD089B	"1{k$#"***\-
+FD089C	"0{k$#"***\-
+FD089D	"/{k$#"***\-
+FD089E	".{k$#"***\-
+FD089F	"-{k$#"***\-
+FD08A0	",{k$#"***\-
+FD08A1	"+{k$#"***\-
+FD08A2	"*{k$#"***\-
+FD08A3	"S)~e/"*+**
+FD08A4	"({k$#"***\-
+FD08A5	"'{k$#"***\-
+FD08A6	"&{k$#"***\-
+FD08A7	"%{k$#"***\-
+FD08A8	"${k$#"***\-
+FD08A9	"#{k$#"***\-
+FD08AA	"Ftr&!"***\-
+FD08AB	"!{k$#"***\-
+FD08AC	" {k$#"***\-
+FD08AD	"Ctr&!"***\-
+FD08AE	"Btr&!"***\-
+FD08AF	"Atr&!"***\-
+FD08B0	"@tr&!"***\-
+FD08B1	"?tr&!"***\-
+FD08B2	">tr&!"***\-
+FD08B3	"=tr&!"***\-
+FD08B4	"<tr&!"***\-
+FD08B5	";tr&!"***\-
+FD08B6	":tr&!"***\-
+FD08B7	"9tr&!"***\-
+FD08B8	"8tr&!"***\-
+FD08B9	"7tr&!"***\-
+FD08BA	"6tr&!"***\-
+FD08BB	"5tr&!"***\-
+FD08BC	"4tr&!"***\-
+FD08BD	"3tr&!"***\-
+FD08BE	"2tr&!"***\-
+FD08BF	"1tr&!"***\-
+FD08C0	"0tr&!"***\-
+FD08C1	"/tr&!"***\-
+FD08C2	".tr&!"***\-
+FD08C3	"{k$#"***9-
+FD08C4	"{k$#"***8-
+FD08C5	"{k$#"***7-
+FD08C6	"{k$#"***6-
+FD08C7	"{k$#"***5-
+FD08C8	"{k$#"***4-
+FD08C9	"{k$#"***3-
+FD08CA	"{k$#"***2-
+FD08CB	"{k$#"***1-
+FD08CC	"{k$#"***
+FD08CD	"{k$#"***1+
+FD08CE	"{k$#"***2+
+FD08CF	"{k$#"***3+
+FD08D0	"{k$#"***4+
+FD08D1	"{k$#"***5+
+FD08D2	"{k$#"***6+
+FD08D3	"{k$#"***7+
+FD08D4	"{k$#"***8+
+FD08D5	"{k$#"***9+
+FD08D6	" SGC*"***\-
+FD08D7	"ezI1&"***\-
+FD08D8	"dzI1&"***\-
+FD08D9	"czI1&"***\-
+FD08DA	"bzI1&"***\-
+FD08DB	"azI1&"***\-
+FD08DC	"`zI1&"***\-
+FD08DD	"_zI1&"***\-
+FD08DE	"^zI1&"***\-
+FD08DF	"]zI1&"***\-
+FD08E0	"\zI1&"***\-
+FD08E1	"[zI1&"***\-
+FD08E2	"ZzI1&"***\-
+FD08E3	"YzI1&"***\-
+FD08E4	"XzI1&"***\-
+FD08E5	"WzI1&"***\-
+FD08E6	"VzI1&"***\-
+FD08E7	"tr&!"***9-
+FD08E8	"tr&!"***8-
+FD08E9	"tr&!"***7-
+FD08EA	"tr&!"***6-
+FD08EB	"tr&!"***5-
+FD08EC	"tr&!"***4-
+FD08ED	"tr&!"***3-
+FD08EE	"tr&!"***2-
+FD08EF	"tr&!"***1-
+FD08F0	"tr&!"***
+FD08F1	"tr&!"***1+
+FD08F2	"tr&!"***2+
+FD08F3	"tr&!"***3+
+FD08F4	"tr&!"***4+
+FD08F5	"tr&!"***5+
+FD08F6	"SGC*"***
+FD08F7	"tr&!"***7+
+FD08F8	"tr&!"***8+
+FD08F9	"U5~O-"*+**
+FD08FA	"SGC*"***4+
+FD08FB	"SGC*"***5+
+FD08FC	"SGC*"***6+
+FD08FD	"SGC*"***7+
+FD08FE	"SGC*"***8+
+FD08FF	"SGC*"***9+
+FD0900	"<zI1&"***\-
+FD0901	";zI1&"***\-
+FD0902	":zI1&"***\-
+FD0903	"9zI1&"***\-
+FD0904	"8zI1&"***\-
+FD0905	"7zI1&"***\-
+FD0906	"6zI1&"***\-
+FD0907	"5zI1&"***\-
+FD0908	"4zI1&"***\-
+FD0909	"3zI1&"***\-
+FD090A	"2zI1&"***\-
+FD090B	"1zI1&"***\-
+FD090C	"0zI1&"***\-
+FD090D	"/zI1&"***\-
+FD090E	".zI1&"***\-
+FD090F	"-zI1&"***\-
+FD0910	",zI1&"***\-
+FD0911	"+zI1&"***\-
+FD0912	"*zI1&"***\-
+FD0913	")zI1&"***\-
+FD0914	"(zI1&"***\-
+FD0915	"'zI1&"***\-
+FD0916	"&zI1&"***\-
+FD0917	"%zI1&"***\-
+FD0918	"$zI1&"***\-
+FD0919	"#zI1&"***\-
+FD091A	">sg(#"***\-
+FD091B	"!zI1&"***\-
+FD091C	" zI1&"***\-
+FD091D	";sg(#"***\-
+FD091E	":sg(#"***\-
+FD091F	"9sg(#"***\-
+FD0920	"8sg(#"***\-
+FD0921	"7sg(#"***\-
+FD0922	"6sg(#"***\-
+FD0923	"5sg(#"***\-
+FD0924	"4sg(#"***\-
+FD0925	"3sg(#"***\-
+FD0926	"2sg(#"***\-
+FD0927	"1sg(#"***\-
+FD0928	"0sg(#"***\-
+FD0929	"/sg(#"***\-
+FD092A	".sg(#"***\-
+FD092B	"-sg(#"***\-
+FD092C	",sg(#"***\-
+FD092D	"+sg(#"***\-
+FD092E	"*sg(#"***\-
+FD092F	")sg(#"***\-
+FD0930	"(sg(#"***\-
+FD0931	"'sg(#"***\-
+FD0932	"&sg(#"***\-
+FD0933	"//~y="*+**
+FD0934	"zI1&"***8-
+FD0935	"zI1&"***7-
+FD0936	"zI1&"***6-
+FD0937	"zI1&"***5-
+FD0938	"zI1&"***4-
+FD0939	"zI1&"***3-
+FD093A	"zI1&"***2-
+FD093B	"zI1&"***1-
+FD093C	"zI1&"***
+FD093D	"zI1&"***1+
+FD093E	"zI1&"***2+
+FD093F	"zI1&"***3+
+FD0940	"zI1&"***4+
+FD0941	"zI1&"***5+
+FD0942	"zI1&"***6+
+FD0943	"zI1&"***7+
+FD0944	"zI1&"***8+
+FD0945	"zI1&"***9+
+FD0946	"PSGC*"***+
+FD0947	"QSGC*"***+
+FD0948	"RSGC*"***+
+FD0949	"SSGC*"***+
+FD094A	"TSGC*"***+
+FD094B	"USGC*"***+
+FD094C	"VSGC*"***+
+FD094D	"WSGC*"***+
+FD094E	"XSGC*"***+
+FD094F	"sg(#"***9-
+FD0950	"sg(#"***8-
+FD0951	"sg(#"***7-
+FD0952	"sg(#"***6-
+FD0953	"u7~9+"*+**
+FD0954	"sg(#"***4-
+FD0955	"sg(#"***3-
+FD0956	"sg(#"***2-
+FD0957	"sg(#"***1-
+FD0958	"sg(#"***
+FD0959	"sg(#"***1+
+FD095A	"sg(#"***2+
+FD095B	"sg(#"***3+
+FD095C	"sg(#"***4+
+FD095D	"sg(#"***5+
+FD095E	"sg(#"***6+
+FD095F	"sg(#"***7+
+FD0960	"sg(#"***8+
+FD0961	"sg(#"***9+
+FD0962	"&zI1&"***+
+FD0963	"5~kO%"**+*
+FD0964	"(zI1&"***+
+FD0965	")zI1&"***+
+FD0966	"Y~d1&"**+*
+FD0967	"+zI1&"***+
+FD0968	"|]~ )"*+**
+FD0969	"-zI1&"***+
+FD096A	".zI1&"***+
+FD096B	"/zI1&"***+
+FD096C	"0zI1&"***+
+FD096D	"1zI1&"***+
+FD096E	"2zI1&"***+
+FD096F	"3zI1&"***+
+FD0970	"RD~ Y"*+**
+FD0971	"~mS/'"***\-
+FD0972	"}mS/'"***\-
+FD0973	"|mS/'"***\-
+FD0974	"{mS/'"***\-
+FD0975	"zmS/'"***\-
+FD0976	"ymS/'"***\-
+FD0977	"xmS/'"***\-
+FD0978	"wmS/'"***\-
+FD0979	"vmS/'"***\-
+FD097A	"umS/'"***\-
+FD097B	"tmS/'"***\-
+FD097C	"VC~@+"*+**
+FD097D	"rmS/'"***\-
+FD097E	"qmS/'"***\-
+FD097F	"pmS/'"***\-
+FD0980	"omS/'"***\-
+FD0981	"nmS/'"***\-
+FD0982	"mmS/'"***\-
+FD0983	"lmS/'"***\-
+FD0984	"kmS/'"***\-
+FD0985	"jmS/'"***\-
+FD0986	"imS/'"***\-
+FD0987	"hmS/'"***\-
+FD0988	"gmS/'"***\-
+FD0989	"fmS/'"***\-
+FD098A	"emS/'"***\-
+FD098B	"dmS/'"***\-
+FD098C	"cmS/'"***\-
+FD098D	"bmS/'"***\-
+FD098E	"amS/'"***\-
+FD098F	"`mS/'"***\-
+FD0990	"_mS/'"***\-
+FD0991	"^mS/'"***\-
+FD0992	"]mS/'"***\-
+FD0993	"\mS/'"***\-
+FD0994	"[mS/'"***\-
+FD0995	"ZmS/'"***\-
+FD0996	"YmS/'"***\-
+FD0997	"XmS/'"***\-
+FD0998	"WmS/'"***\-
+FD0999	"VmS/'"***\-
+FD099A	"UmS/'"***\-
+FD099B	"TmS/'"***\-
+FD099C	"SmS/'"***\-
+FD099D	"RmS/'"***\-
+FD099E	"i:~51"*+**
+FD099F	"PmS/'"***\-
+FD09A0	"OmS/'"***\-
+FD09A1	"NmS/'"***\-
+FD09A2	"MmS/'"***\-
+FD09A3	"LmS/'"***\-
+FD09A4	"KmS/'"***\-
+FD09A5	"JmS/'"***\-
+FD09A6	"ImS/'"***\-
+FD09A7	"HmS/'"***\-
+FD09A8	"GmS/'"***\-
+FD09A9	"FmS/'"***\-
+FD09AA	"EmS/'"***\-
+FD09AB	"DmS/'"***\-
+FD09AC	"CmS/'"***\-
+FD09AD	"BmS/'"***\-
+FD09AE	"AmS/'"***\-
+FD09AF	"@mS/'"***\-
+FD09B0	"?mS/'"***\-
+FD09B1	">mS/'"***\-
+FD09B2	"=mS/'"***\-
+FD09B3	"<mS/'"***\-
+FD09B4	";mS/'"***\-
+FD09B5	":mS/'"***\-
+FD09B6	"9mS/'"***\-
+FD09B7	"8mS/'"***\-
+FD09B8	"7mS/'"***\-
+FD09B9	"6mS/'"***\-
+FD09BA	"5mS/'"***\-
+FD09BB	"4mS/'"***\-
+FD09BC	"3mS/'"***\-
+FD09BD	"2mS/'"***\-
+FD09BE	"1mS/'"***\-
+FD09BF	"gY~3!"*+**
+FD09C0	"/mS/'"***\-
+FD09C1	".mS/'"***\-
+FD09C2	"-mS/'"***\-
+FD09C3	",mS/'"***\-
+FD09C4	"+mS/'"***\-
+FD09C5	"*mS/'"***\-
+FD09C6	")mS/'"***\-
+FD09C7	"(mS/'"***\-
+FD09C8	"~4~A%"*+**
+FD09C9	"&mS/'"***\-
+FD09CA	"%mS/'"***\-
+FD09CB	"$mS/'"***\-
+FD09CC	"#mS/'"***\-
+FD09CD	"usg(#"***+
+FD09CE	"I~x,+"**+*
+FD09CF	" mS/'"***\-
+FD09D0	"xsg(#"***+
+FD09D1	"ysg(#"***+
+FD09D2	"zsg(#"***+
+FD09D3	"{sg(#"***+
+FD09D4	"|sg(#"***+
+FD09D5	"}sg(#"***+
+FD09D6	"~sg(#"***+
+FD09D7	"O!~+q "+*+**
+FD09D8	"xsg(#"***+8+
+FD09D9	"xsg(#"***+9+
+FD09DA	"y^Q"**9-9*2*
+FD09DB	"zsg(#"***+9+
+FD09DC	"{sg(#"***+9+
+FD09DD	"|sg(#"***+9+
+FD09DE	"}sg(#"***+9+
+FD09DF	"~sg(#"***+9+
+FD09E0	"mS/'"***9-6-
+FD09E1	"~5~kO%"**+*+
+FD09E2	"mS/'"***9-4-
+FD09E3	"gY~K"+**4+9*
+FD09E4	"|#~~S+"*++**
+FD09E5	"mS/'"***9-1-
+FD09E6	"mS/'"***9-
+FD09E7	"mS/'"***8-
+FD09E8	"mS/'"***7-
+FD09E9	"mS/'"***6-
+FD09EA	"mS/'"***5-
+FD09EB	"mS/'"***4-
+FD09EC	"mS/'"***3-
+FD09ED	"mS/'"***2-
+FD09EE	"mS/'"***1-
+FD09EF	"mS/'"***
+FD09F0	"mS/'"***1+
+FD09F1	"mS/'"***2+
+FD09F2	"mS/'"***3+
+FD09F3	"mS/'"***4+
+FD09F4	"mS/'"***5+
+FD09F5	"mS/'"***6+
+FD09F6	"mS/'"***7+
+FD09F7	"mS/'"***8+
+FD09F8	"mS/'"***9+
+FD09F9	"mS/'"***1+9+
+FD09FA	"mS/'"***2+9+
+FD09FB	"mS/'"***3+9+
+FD09FC	"mS/'"***4+9+
+FD09FD	"mS/'"***5+9+
+FD09FE	"~lc/!"***\-
+FD09FF	"}lc/!"***\-
+FD0A00	"|lc/!"***\-
+FD0A01	"{lc/!"***\-
+FD0A02	"jC~//"*+**
+FD0A03	"ylc/!"***\-
+FD0A04	"xlc/!"***\-
+FD0A05	"wlc/!"***\-
+FD0A06	"vlc/!"***\-
+FD0A07	"ulc/!"***\-
+FD0A08	"tlc/!"***\-
+FD0A09	"slc/!"***\-
+FD0A0A	"rlc/!"***\-
+FD0A0B	"qlc/!"***\-
+FD0A0C	"plc/!"***\-
+FD0A0D	"olc/!"***\-
+FD0A0E	"nlc/!"***\-
+FD0A0F	"mlc/!"***\-
+FD0A10	"llc/!"***\-
+FD0A11	"klc/!"***\-
+FD0A12	"G:~S/"*+**
+FD0A13	"ilc/!"***\-
+FD0A14	"hlc/!"***\-
+FD0A15	"glc/!"***\-
+FD0A16	"flc/!"***\-
+FD0A17	"elc/!"***\-
+FD0A18	"dlc/!"***\-
+FD0A19	"clc/!"***\-
+FD0A1A	"blc/!"***\-
+FD0A1B	"alc/!"***\-
+FD0A1C	"`lc/!"***\-
+FD0A1D	"_lc/!"***\-
+FD0A1E	"^lc/!"***\-
+FD0A1F	"]lc/!"***\-
+FD0A20	"\lc/!"***\-
+FD0A21	"[lc/!"***\-
+FD0A22	"q]~,!"*+**
+FD0A23	"Ylc/!"***\-
+FD0A24	"Xlc/!"***\-
+FD0A25	"Wlc/!"***\-
+FD0A26	"Vlc/!"***\-
+FD0A27	"Ulc/!"***\-
+FD0A28	"Tlc/!"***\-
+FD0A29	"Slc/!"***\-
+FD0A2A	"Rlc/!"***\-
+FD0A2B	"Qlc/!"***\-
+FD0A2C	"Plc/!"***\-
+FD0A2D	"Olc/!"***\-
+FD0A2E	"Nlc/!"***\-
+FD0A2F	"7%~qG"*+**
+FD0A30	"Llc/!"***\-
+FD0A31	"a1~;9"*+**
+FD0A32	"Jlc/!"***\-
+FD0A33	"Ilc/!"***\-
+FD0A34	"Hlc/!"***\-
+FD0A35	"Glc/!"***\-
+FD0A36	"Flc/!"***\-
+FD0A37	"Elc/!"***\-
+FD0A38	"Dlc/!"***\-
+FD0A39	"Clc/!"***\-
+FD0A3A	"Blc/!"***\-
+FD0A3B	"Alc/!"***\-
+FD0A3C	"@lc/!"***\-
+FD0A3D	"?lc/!"***\-
+FD0A3E	">lc/!"***\-
+FD0A3F	"=lc/!"***\-
+FD0A40	"<lc/!"***\-
+FD0A41	";lc/!"***\-
+FD0A42	":lc/!"***\-
+FD0A43	"9lc/!"***\-
+FD0A44	"8lc/!"***\-
+FD0A45	"7lc/!"***\-
+FD0A46	"~9~;%"*+**
+FD0A47	"5lc/!"***\-
+FD0A48	"4lc/!"***\-
+FD0A49	"3lc/!"***\-
+FD0A4A	"2lc/!"***\-
+FD0A4B	"1lc/!"***\-
+FD0A4C	"0lc/!"***\-
+FD0A4D	"/lc/!"***\-
+FD0A4E	".lc/!"***\-
+FD0A4F	"-lc/!"***\-
+FD0A50	",lc/!"***\-
+FD0A51	"+lc/!"***\-
+FD0A52	"*lc/!"***\-
+FD0A53	")lc/!"***\-
+FD0A54	"(lc/!"***\-
+FD0A55	"'lc/!"***\-
+FD0A56	"&lc/!"***\-
+FD0A57	"%lc/!"***\-
+FD0A58	"$lc/!"***\-
+FD0A59	"#lc/!"***\-
+FD0A5A	"jwO1$"***\-
+FD0A5B	"!lc/!"***\-
+FD0A5C	" lc/!"***\-
+FD0A5D	"gwO1$"***\-
+FD0A5E	"fwO1$"***\-
+FD0A5F	"ewO1$"***\-
+FD0A60	"|I~g"+**8*
+FD0A61	"cwO1$"***\-
+FD0A62	"bwO1$"***\-
+FD0A63	"awO1$"***\-
+FD0A64	"N~S@("**+*
+FD0A65	"_wO1$"***\-
+FD0A66	"n)~C5"*+**
+FD0A67	"]wO1$"***\-
+FD0A68	"\wO1$"***\-
+FD0A69	"[wO1$"***\-
+FD0A6A	"ZwO1$"***\-
+FD0A6B	"YwO1$"***\-
+FD0A6C	"XwO1$"***\-
+FD0A6D	"WwO1$"***\-
+FD0A6E	"VwO1$"***\-
+FD0A6F	"UwO1$"***\-
+FD0A70	"TwO1$"***\-
+FD0A71	"SwO1$"***\-
+FD0A72	"RwO1$"***\-
+FD0A73	"lc/!"***9-
+FD0A74	"lc/!"***8-
+FD0A75	"lc/!"***7-
+FD0A76	"lc/!"***6-
+FD0A77	"lc/!"***5-
+FD0A78	"lc/!"***4-
+FD0A79	"lc/!"***3-
+FD0A7A	"lc/!"***2-
+FD0A7B	"lc/!"***1-
+FD0A7C	"lc/!"***
+FD0A7D	"lc/!"***1+
+FD0A7E	"lc/!"***2+
+FD0A7F	"lc/!"***3+
+FD0A80	"lc/!"***4+
+FD0A81	"lc/!"***5+
+FD0A82	"lc/!"***6+
+FD0A83	"lc/!"***7+
+FD0A84	"lc/!"***8+
+FD0A85	"lc/!"***9+
+FD0A86	">wO1$"***\-
+FD0A87	"=wO1$"***\-
+FD0A88	"<wO1$"***\-
+FD0A89	";wO1$"***\-
+FD0A8A	":wO1$"***\-
+FD0A8B	";'~aI"*+**
+FD0A8C	"8wO1$"***\-
+FD0A8D	"7wO1$"***\-
+FD0A8E	"6wO1$"***\-
+FD0A8F	")~UGC"**+*
+FD0A90	"4wO1$"***\-
+FD0A91	"3wO1$"***\-
+FD0A92	"2wO1$"***\-
+FD0A93	"1wO1$"***\-
+FD0A94	"0wO1$"***\-
+FD0A95	"/wO1$"***\-
+FD0A96	".wO1$"***\-
+FD0A97	"-wO1$"***\-
+FD0A98	",wO1$"***\-
+FD0A99	"+wO1$"***\-
+FD0A9A	"*wO1$"***\-
+FD0A9B	")wO1$"***\-
+FD0A9C	"(wO1$"***\-
+FD0A9D	"'wO1$"***\-
+FD0A9E	"&wO1$"***\-
+FD0A9F	"%wO1$"***\-
+FD0AA0	"$wO1$"***\-
+FD0AA1	"#wO1$"***\-
+FD0AA2	"FoS2$"***\-
+FD0AA3	"!wO1$"***\-
+FD0AA4	" wO1$"***\-
+FD0AA5	"CoS2$"***\-
+FD0AA6	"BoS2$"***\-
+FD0AA7	"AoS2$"***\-
+FD0AA8	"@oS2$"***\-
+FD0AA9	"?oS2$"***\-
+FD0AAA	">oS2$"***\-
+FD0AAB	"=oS2$"***\-
+FD0AAC	"<oS2$"***\-
+FD0AAD	";oS2$"***\-
+FD0AAE	":oS2$"***\-
+FD0AAF	"9oS2$"***\-
+FD0AB0	"8oS2$"***\-
+FD0AB1	"7oS2$"***\-
+FD0AB2	"6oS2$"***\-
+FD0AB3	"5oS2$"***\-
+FD0AB4	"4oS2$"***\-
+FD0AB5	"3oS2$"***\-
+FD0AB6	"2oS2$"***\-
+FD0AB7	"1oS2$"***\-
+FD0AB8	"0oS2$"***\-
+FD0AB9	"/oS2$"***\-
+FD0ABA	".oS2$"***\-
+FD0ABB	"wO1$"***9-
+FD0ABC	"wO1$"***8-
+FD0ABD	"wO1$"***7-
+FD0ABE	"wO1$"***6-
+FD0ABF	"wO1$"***5-
+FD0AC0	"wO1$"***4-
+FD0AC1	"wO1$"***3-
+FD0AC2	"wO1$"***2-
+FD0AC3	"wO1$"***1-
+FD0AC4	"wO1$"***
+FD0AC5	"wO1$"***1+
+FD0AC6	"wO1$"***2+
+FD0AC7	"wO1$"***3+
+FD0AC8	"wO1$"***4+
+FD0AC9	"wO1$"***5+
+FD0ACA	"wO1$"***6+
+FD0ACB	"wO1$"***7+
+FD0ACC	"wO1$"***8+
+FD0ACD	"wO1$"***9+
+FD0ACE	"Rlc/!"***+
+FD0ACF	"Slc/!"***+
+FD0AD0	"Tlc/!"***+
+FD0AD1	"Ulc/!"***+
+FD0AD2	"Vlc/!"***+
+FD0AD3	"Wlc/!"***+
+FD0AD4	"Xlc/!"***+
+FD0AD5	"Ylc/!"***+
+FD0AD6	"Zlc/!"***+
+FD0AD7	"[lc/!"***+
+FD0AD8	"\lc/!"***+
+FD0AD9	"]lc/!"***+
+FD0ADA	"^lc/!"***+
+FD0ADB	"_lc/!"***+
+FD0ADC	"`lc/!"***+
+FD0ADD	"alc/!"***+
+FD0ADE	"blc/!"***+
+FD0ADF	"oS2$"***9-
+FD0AE0	"oS2$"***8-
+FD0AE1	"oS2$"***7-
+FD0AE2	"oS2$"***6-
+FD0AE3	"oS2$"***5-
+FD0AE4	"oS2$"***4-
+FD0AE5	"oS2$"***3-
+FD0AE6	"oS2$"***2-
+FD0AE7	"oS2$"***1-
+FD0AE8	"oS2$"***
+FD0AE9	"oS2$"***1+
+FD0AEA	"oS2$"***2+
+FD0AEB	"oS2$"***3+
+FD0AEC	"oS2$"***4+
+FD0AED	"oS2$"***5+
+FD0AEE	"oS2$"***6+
+FD0AEF	"oS2$"***7+
+FD0AF0	"oS2$"***8+
+FD0AF1	"9~];5"**+*
+FD0AF2	".wO1$"***+
+FD0AF3	"/wO1$"***+
+FD0AF4	"0wO1$"***+
+FD0AF5	"1wO1$"***+
+FD0AF6	"2wO1$"***+
+FD0AF7	"~qG5'"***\-
+FD0AF8	"}qG5'"***\-
+FD0AF9	"|qG5'"***\-
+FD0AFA	"{qG5'"***\-
+FD0AFB	"zqG5'"***\-
+FD0AFC	"yqG5'"***\-
+FD0AFD	"xqG5'"***\-
+FD0AFE	"wqG5'"***\-
+FD0AFF	"vqG5'"***\-
+FD0B00	"uqG5'"***\-
+FD0B01	"tqG5'"***\-
+FD0B02	"sqG5'"***\-
+FD0B03	"rqG5'"***\-
+FD0B04	"qqG5'"***\-
+FD0B05	"pqG5'"***\-
+FD0B06	"oqG5'"***\-
+FD0B07	"nqG5'"***\-
+FD0B08	"mqG5'"***\-
+FD0B09	"lqG5'"***\-
+FD0B0A	"kqG5'"***\-
+FD0B0B	"jqG5'"***\-
+FD0B0C	"$~mAA"**+*
+FD0B0D	"hqG5'"***\-
+FD0B0E	"gqG5'"***\-
+FD0B0F	"fqG5'"***\-
+FD0B10	"eqG5'"***\-
+FD0B11	"dqG5'"***\-
+FD0B12	"cqG5'"***\-
+FD0B13	"bqG5'"***\-
+FD0B14	"aqG5'"***\-
+FD0B15	"`qG5'"***\-
+FD0B16	"_qG5'"***\-
+FD0B17	"^qG5'"***\-
+FD0B18	"T~v,&"**+*
+FD0B19	"\qG5'"***\-
+FD0B1A	"[qG5'"***\-
+FD0B1B	"ZqG5'"***\-
+FD0B1C	"YqG5'"***\-
+FD0B1D	"XqG5'"***\-
+FD0B1E	"WqG5'"***\-
+FD0B1F	"VqG5'"***\-
+FD0B20	"UqG5'"***\-
+FD0B21	"TqG5'"***\-
+FD0B22	"SqG5'"***\-
+FD0B23	"RqG5'"***\-
+FD0B24	"zs~ !"*+**
+FD0B25	"PqG5'"***\-
+FD0B26	"OqG5'"***\-
+FD0B27	"NqG5'"***\-
+FD0B28	"MqG5'"***\-
+FD0B29	"LqG5'"***\-
+FD0B2A	"KqG5'"***\-
+FD0B2B	"JqG5'"***\-
+FD0B2C	"IqG5'"***\-
+FD0B2D	"HqG5'"***\-
+FD0B2E	"GqG5'"***\-
+FD0B2F	"FqG5'"***\-
+FD0B30	"EqG5'"***\-
+FD0B31	"DqG5'"***\-
+FD0B32	"CqG5'"***\-
+FD0B33	"BqG5'"***\-
+FD0B34	"AqG5'"***\-
+FD0B35	"@qG5'"***\-
+FD0B36	"?qG5'"***\-
+FD0B37	">qG5'"***\-
+FD0B38	"=qG5'"***\-
+FD0B39	"<qG5'"***\-
+FD0B3A	";qG5'"***\-
+FD0B3B	":qG5'"***\-
+FD0B3C	"9qG5'"***\-
+FD0B3D	"8qG5'"***\-
+FD0B3E	"7qG5'"***\-
+FD0B3F	"6qG5'"***\-
+FD0B40	"5qG5'"***\-
+FD0B41	"4qG5'"***\-
+FD0B42	"3qG5'"***\-
+FD0B43	"2qG5'"***\-
+FD0B44	"1qG5'"***\-
+FD0B45	"0qG5'"***\-
+FD0B46	"/qG5'"***\-
+FD0B47	".qG5'"***\-
+FD0B48	"-qG5'"***\-
+FD0B49	",qG5'"***\-
+FD0B4A	"+qG5'"***\-
+FD0B4B	"*qG5'"***\-
+FD0B4C	")qG5'"***\-
+FD0B4D	"(qG5'"***\-
+FD0B4E	"'qG5'"***\-
+FD0B4F	"&qG5'"***\-
+FD0B50	"%qG5'"***\-
+FD0B51	"$qG5'"***\-
+FD0B52	"#qG5'"***\-
+FD0B53	"koS2$"***+
+FD0B54	"!qG5'"***\-
+FD0B55	" qG5'"***\-
+FD0B56	"noS2$"***+
+FD0B57	"o1~O%"*+**
+FD0B58	"poS2$"***+
+FD0B59	"qoS2$"***+
+FD0B5A	"roS2$"***+
+FD0B5B	"soS2$"***+
+FD0B5C	"toS2$"***+
+FD0B5D	"uoS2$"***+
+FD0B5E	"voS2$"***+
+FD0B5F	"woS2$"***+
+FD0B60	"xoS2$"***+
+FD0B61	"yoS2$"***+
+FD0B62	"zoS2$"***+
+FD0B63	"{oS2$"***+
+FD0B64	"|oS2$"***+
+FD0B65	"}oS2$"***+
+FD0B66	"~oS2$"***+
+FD0B67	"/~y75"**+*
+FD0B68	"/~y75"**+*1+
+FD0B69	"/~y75"**+*2+
+FD0B6A	"/~y75"**+*3+
+FD0B6B	"/~y75"**+*4+
+FD0B6C	"qG5'"***9-
+FD0B6D	"qG5'"***8-
+FD0B6E	"qG5'"***7-
+FD0B6F	"qG5'"***6-
+FD0B70	"qG5'"***5-
+FD0B71	"qG5'"***4-
+FD0B72	"qG5'"***3-
+FD0B73	"qG5'"***2-
+FD0B74	"qG5'"***1-
+FD0B75	"qG5'"***
+FD0B76	"qG5'"***1+
+FD0B77	"qG5'"***2+
+FD0B78	"qG5'"***3+
+FD0B79	"qG5'"***4+
+FD0B7A	"qG5'"***5+
+FD0B7B	"qG5'"***6+
+FD0B7C	"YJ~4."*+**
+FD0B7D	"qG5'"***8+
+FD0B7E	"qG5'"***9+
+FD0B7F	"qG5'"***1+9+
+FD0B80	"qG5'"***2+9+
+FD0B81	"?~e~C%"*+*+*
+FD0B82	"~RPO "***\-
+FD0B83	"}RPO "***\-
+FD0B84	"|RPO "***\-
+FD0B85	"{RPO "***\-
+FD0B86	"zRPO "***\-
+FD0B87	"yRPO "***\-
+FD0B88	"xRPO "***\-
+FD0B89	"wRPO "***\-
+FD0B8A	"6~y;+"**+*
+FD0B8B	"uRPO "***\-
+FD0B8C	"tRPO "***\-
+FD0B8D	"sRPO "***\-
+FD0B8E	"rRPO "***\-
+FD0B8F	"qRPO "***\-
+FD0B90	"pRPO "***\-
+FD0B91	"oRPO "***\-
+FD0B92	"nRPO "***\-
+FD0B93	"mRPO "***\-
+FD0B94	"lRPO "***\-
+FD0B95	"kRPO "***\-
+FD0B96	"jRPO "***\-
+FD0B97	"iRPO "***\-
+FD0B98	"hRPO "***\-
+FD0B99	"gRPO "***\-
+FD0B9A	"fRPO "***\-
+FD0B9B	"eRPO "***\-
+FD0B9C	"dRPO "***\-
+FD0B9D	"cRPO "***\-
+FD0B9E	"bRPO "***\-
+FD0B9F	"aRPO "***\-
+FD0BA0	"`RPO "***\-
+FD0BA1	"_RPO "***\-
+FD0BA2	"^RPO "***\-
+FD0BA3	"]RPO "***\-
+FD0BA4	"\RPO "***\-
+FD0BA5	"[RPO "***\-
+FD0BA6	"ZRPO "***\-
+FD0BA7	"YRPO "***\-
+FD0BA8	"XRPO "***\-
+FD0BA9	"WRPO "***\-
+FD0BAA	"VRPO "***\-
+FD0BAB	"URPO "***\-
+FD0BAC	"TRPO "***\-
+FD0BAD	"SRPO "***\-
+FD0BAE	"RRPO "***\-
+FD0BAF	"QRPO "***\-
+FD0BB0	"PRPO "***\-
+FD0BB1	"ORPO "***\-
+FD0BB2	"NRPO "***\-
+FD0BB3	"MRPO "***\-
+FD0BB4	"LRPO "***\-
+FD0BB5	"KRPO "***\-
+FD0BB6	"JRPO "***\-
+FD0BB7	"IRPO "***\-
+FD0BB8	"HRPO "***\-
+FD0BB9	"GRPO "***\-
+FD0BBA	"FRPO "***\-
+FD0BBB	"ERPO "***\-
+FD0BBC	"DRPO "***\-
+FD0BBD	"CRPO "***\-
+FD0BBE	"BRPO "***\-
+FD0BBF	"ARPO "***\-
+FD0BC0	"@RPO "***\-
+FD0BC1	"?RPO "***\-
+FD0BC2	">RPO "***\-
+FD0BC3	"=RPO "***\-
+FD0BC4	"<RPO "***\-
+FD0BC5	";RPO "***\-
+FD0BC6	":RPO "***\-
+FD0BC7	"9RPO "***\-
+FD0BC8	"8RPO "***\-
+FD0BC9	"7RPO "***\-
+FD0BCA	"6RPO "***\-
+FD0BCB	"5RPO "***\-
+FD0BCC	"4RPO "***\-
+FD0BCD	"3RPO "***\-
+FD0BCE	"2RPO "***\-
+FD0BCF	"1RPO "***\-
+FD0BD0	"0RPO "***\-
+FD0BD1	"/RPO "***\-
+FD0BD2	".RPO "***\-
+FD0BD3	"-RPO "***\-
+FD0BD4	",RPO "***\-
+FD0BD5	"+RPO "***\-
+FD0BD6	"*RPO "***\-
+FD0BD7	")RPO "***\-
+FD0BD8	"(RPO "***\-
+FD0BD9	"'RPO "***\-
+FD0BDA	"&RPO "***\-
+FD0BDB	"%RPO "***\-
+FD0BDC	"$RPO "***\-
+FD0BDD	"#RPO "***\-
+FD0BDE	"Kwg)!"***\-
+FD0BDF	"!RPO "***\-
+FD0BE0	" RPO "***\-
+FD0BE1	"Hwg)!"***\-
+FD0BE2	"Gwg)!"***\-
+FD0BE3	"Fwg)!"***\-
+FD0BE4	"Ewg)!"***\-
+FD0BE5	"Dwg)!"***\-
+FD0BE6	"Cwg)!"***\-
+FD0BE7	"Bwg)!"***\-
+FD0BE8	"L~t/("**+*
+FD0BE9	"@wg)!"***\-
+FD0BEA	"?wg)!"***\-
+FD0BEB	">wg)!"***\-
+FD0BEC	"=wg)!"***\-
+FD0BED	";~]95"**+*
+FD0BEE	";wg)!"***\-
+FD0BEF	":wg)!"***\-
+FD0BF0	"9wg)!"***\-
+FD0BF1	"8wg)!"***\-
+FD0BF2	"7wg)!"***\-
+FD0BF3	"6wg)!"***\-
+FD0BF4	"5wg)!"***\-
+FD0BF5	"4wg)!"***\-
+FD0BF6	"3wg)!"***\-
+FD0BF7	"RP O"***9-
+FD0BF8	"RP O"***8-
+FD0BF9	"RP O"***7-
+FD0BFA	"RP O"***6-
+FD0BFB	"RP O"***5-
+FD0BFC	"RP O"***4-
+FD0BFD	"RP O"***3-
+FD0BFE	"RP O"***2-
+FD0BFF	"WW~;#"*+**
+FD0C00	"RP O"***
+FD0C01	"RP O"***1+
+FD0C02	"RP O"***2+
+FD0C03	"G~Y=+"**+*
+FD0C04	"RP O"***4+
+FD0C05	"RP O"***5+
+FD0C06	"RP O"***6+
+FD0C07	"RP O"***7+
+FD0C08	"RP O"***8+
+FD0C09	"RP O"***9+
+FD0C0A	"smE?#"***\-
+FD0C0B	"rmE?#"***\-
+FD0C0C	"qmE?#"***\-
+FD0C0D	"pmE?#"***\-
+FD0C0E	"omE?#"***\-
+FD0C0F	"nmE?#"***\-
+FD0C10	"mmE?#"***\-
+FD0C11	"lmE?#"***\-
+FD0C12	"kmE?#"***\-
+FD0C13	"jmE?#"***\-
+FD0C14	"imE?#"***\-
+FD0C15	"hmE?#"***\-
+FD0C16	"gmE?#"***\-
+FD0C17	"fmE?#"***\-
+FD0C18	"emE?#"***\-
+FD0C19	"dmE?#"***\-
+FD0C1A	"cmE?#"***\-
+FD0C1B	"bmE?#"***\-
+FD0C1C	"amE?#"***\-
+FD0C1D	"`mE?#"***\-
+FD0C1E	"_mE?#"***\-
+FD0C1F	"^mE?#"***\-
+FD0C20	"wg)!"***9-
+FD0C21	"wg)!"***8-
+FD0C22	"wg)!"***7-
+FD0C23	"wg)!"***6-
+FD0C24	"wg)!"***5-
+FD0C25	"wg)!"***4-
+FD0C26	"wg)!"***3-
+FD0C27	"wg)!"***2-
+FD0C28	"wg)!"***1-
+FD0C29	"wg)!"***
+FD0C2A	"wg)!"***1+
+FD0C2B	"wg)!"***2+
+FD0C2C	"l+~A5"*+**
+FD0C2D	"wg)!"***4+
+FD0C2E	"Y~\.,"**+*
+FD0C2F	"wg)!"***6+
+FD0C30	"wg)!"***7+
+FD0C31	"wg)!"***8+
+FD0C32	"wg)!"***9+
+FD0C33	"JmE?#"***\-
+FD0C34	"ImE?#"***\-
+FD0C35	"HmE?#"***\-
+FD0C36	"GmE?#"***\-
+FD0C37	"FmE?#"***\-
+FD0C38	"EmE?#"***\-
+FD0C39	"DmE?#"***\-
+FD0C3A	"CmE?#"***\-
+FD0C3B	"BmE?#"***\-
+FD0C3C	"AmE?#"***\-
+FD0C3D	"@mE?#"***\-
+FD0C3E	"?mE?#"***\-
+FD0C3F	">mE?#"***\-
+FD0C40	"=mE?#"***\-
+FD0C41	"<mE?#"***\-
+FD0C42	";mE?#"***\-
+FD0C43	":mE?#"***\-
+FD0C44	"9mE?#"***\-
+FD0C45	"8mE?#"***\-
+FD0C46	"}~m &"**+*
+FD0C47	"6mE?#"***\-
+FD0C48	"5mE?#"***\-
+FD0C49	"4mE?#"***\-
+FD0C4A	"3mE?#"***\-
+FD0C4B	"2mE?#"***\-
+FD0C4C	"1mE?#"***\-
+FD0C4D	"0mE?#"***\-
+FD0C4E	"/mE?#"***\-
+FD0C4F	".mE?#"***\-
+FD0C50	"-mE?#"***\-
+FD0C51	",mE?#"***\-
+FD0C52	"+mE?#"***\-
+FD0C53	"*mE?#"***\-
+FD0C54	")mE?#"***\-
+FD0C55	"(mE?#"***\-
+FD0C56	"'mE?#"***\-
+FD0C57	"&mE?#"***\-
+FD0C58	"%mE?#"***\-
+FD0C59	"$mE?#"***\-
+FD0C5A	"#mE?#"***\-
+FD0C5B	"EwCA "***\-
+FD0C5C	"!mE?#"***\-
+FD0C5D	" mE?#"***\-
+FD0C5E	"BwCA "***\-
+FD0C5F	"AwCA "***\-
+FD0C60	"@wCA "***\-
+FD0C61	"?wCA "***\-
+FD0C62	">wCA "***\-
+FD0C63	"=wCA "***\-
+FD0C64	"<wCA "***\-
+FD0C65	";wCA "***\-
+FD0C66	":wCA "***\-
+FD0C67	"9wCA "***\-
+FD0C68	"8wCA "***\-
+FD0C69	"7wCA "***\-
+FD0C6A	"6wCA "***\-
+FD0C6B	"5wCA "***\-
+FD0C6C	"4wCA "***\-
+FD0C6D	"3wCA "***\-
+FD0C6E	"2wCA "***\-
+FD0C6F	"1wCA "***\-
+FD0C70	"0wCA "***\-
+FD0C71	"/wCA "***\-
+FD0C72	".wCA "***\-
+FD0C73	"-wCA "***\-
+FD0C74	"mE?#"***9-
+FD0C75	"mE?#"***8-
+FD0C76	"mE?#"***7-
+FD0C77	"mE?#"***6-
+FD0C78	"mE?#"***5-
+FD0C79	"mE?#"***4-
+FD0C7A	"mE?#"***3-
+FD0C7B	"mE?#"***2-
+FD0C7C	"mE?#"***1-
+FD0C7D	"mE?#"***
+FD0C7E	"j~AA%"**+*
+FD0C7F	"mE?#"***2+
+FD0C80	"mE?#"***3+
+FD0C81	"mE?#"***4+
+FD0C82	"mE?#"***5+
+FD0C83	"mE?#"***6+
+FD0C84	"mE?#"***7+
+FD0C85	"mE?#"***8+
+FD0C86	"mE?#"***9+
+FD0C87	"QaG8+"***\-
+FD0C88	"PaG8+"***\-
+FD0C89	"OaG8+"***\-
+FD0C8A	"NaG8+"***\-
+FD0C8B	"MaG8+"***\-
+FD0C8C	"LaG8+"***\-
+FD0C8D	"KaG8+"***\-
+FD0C8E	"JaG8+"***\-
+FD0C8F	"IaG8+"***\-
+FD0C90	"HaG8+"***\-
+FD0C91	"GaG8+"***\-
+FD0C92	"FaG8+"***\-
+FD0C93	"EaG8+"***\-
+FD0C94	"DaG8+"***\-
+FD0C95	"CaG8+"***\-
+FD0C96	"BaG8+"***\-
+FD0C97	"wCA "***9-
+FD0C98	"wCA "***8-
+FD0C99	"wCA "***7-
+FD0C9A	"wCA "***6-
+FD0C9B	"wCA "***5-
+FD0C9C	"wCA "***4-
+FD0C9D	"wCA "***3-
+FD0C9E	"wCA "***2-
+FD0C9F	"wCA "***1-
+FD0CA0	"wCA "***
+FD0CA1	"wCA "***1+
+FD0CA2	"wCA "***2+
+FD0CA3	"wCA "***3+
+FD0CA4	"{J~ 5"*+**
+FD0CA5	"wCA "***5+
+FD0CA6	"wCA "***6+
+FD0CA7	"wCA "***7+
+FD0CA8	"wCA "***8+
+FD0CA9	"wCA "***9+
+FD0CAA	".aG8+"***\-
+FD0CAB	"-aG8+"***\-
+FD0CAC	",aG8+"***\-
+FD0CAD	"+aG8+"***\-
+FD0CAE	"*aG8+"***\-
+FD0CAF	")aG8+"***\-
+FD0CB0	"(aG8+"***\-
+FD0CB1	"'aG8+"***\-
+FD0CB2	"&aG8+"***\-
+FD0CB3	"Q5~e%"*+**
+FD0CB4	"$aG8+"***\-
+FD0CB5	"#aG8+"***\-
+FD0CB6	"9mE?#"***+
+FD0CB7	"!aG8+"***\-
+FD0CB8	" aG8+"***\-
+FD0CB9	"<mE?#"***+
+FD0CBA	"=mE?#"***+
+FD0CBB	">mE?#"***+
+FD0CBC	"?mE?#"***+
+FD0CBD	"@mE?#"***+
+FD0CBE	"AmE?#"***+
+FD0CBF	"BmE?#"***+
+FD0CC0	" wCA "***+
+FD0CC1	"!wCA "***+
+FD0CC2	"EmE?#"***+
+FD0CC3	"#wCA "***+
+FD0CC4	"$wCA "***+
+FD0CC5	"%wCA "***+
+FD0CC6	"&wCA "***+
+FD0CC7	"'wCA "***+
+FD0CC8	"(wCA "***+
+FD0CC9	")wCA "***+
+FD0CCA	"*wCA "***+
+FD0CCB	"+wCA "***+
+FD0CCC	",wCA "***+
+FD0CCD	"-wCA "***+
+FD0CCE	"c~t'%"**+*
+FD0CCF	"aG8+"***9-
+FD0CD0	"aG8+"***8-
+FD0CD1	"aG8+"***7-
+FD0CD2	"aG8+"***6-
+FD0CD3	"aG8+"***5-
+FD0CD4	"aG8+"***4-
+FD0CD5	"aG8+"***3-
+FD0CD6	"aG8+"***2-
+FD0CD7	"aG8+"***1-
+FD0CD8	"aG8+"***
+FD0CD9	"aG8+"***1+
+FD0CDA	"S~x 4"**+*
+FD0CDB	"aG8+"***3+
+FD0CDC	"aG8+"***4+
+FD0CDD	"aG8+"***5+
+FD0CDE	"aG8+"***6+
+FD0CDF	"aG8+"***7+
+FD0CE0	"`Y~7!"*+**
+FD0CE1	"aG8+"***9+
+FD0CE2	"BwCA "***+
+FD0CE3	"CwCA "***+
+FD0CE4	"DwCA "***+
+FD0CE5	"EwCA "***+
+FD0CE6	"FwCA "***+
+FD0CE7	"GwCA "***+
+FD0CE8	"HwCA "***+
+FD0CE9	"IwCA "***+
+FD0CEA	"JwCA "***+
+FD0CEB	"KwCA "***+
+FD0CEC	"LwCA "***+
+FD0CED	"O~w+)"**+*
+FD0CEE	"NwCA "***+
+FD0CEF	"OwCA "***+
+FD0CF0	"PwCA "***+
+FD0CF1	"QwCA "***+
+FD0CF2	"RwCA "***+
+FD0CF3	"SwCA "***+
+FD0CF4	"TwCA "***+
+FD0CF5	"UwCA "***+
+FD0CF6	"VwCA "***+
+FD0CF7	"WwCA "***+
+FD0CF8	" aG8+"***+
+FD0CF9	"!aG8+"***+
+FD0CFA	"ZwCA "***+
+FD0CFB	"#aG8+"***+
+FD0CFC	"$aG8+"***+
+FD0CFD	"%aG8+"***+
+FD0CFE	"&aG8+"***+
+FD0CFF	"'aG8+"***+
+FD0D00	"(aG8+"***+
+FD0D01	")aG8+"***+
+FD0D02	"*aG8+"***+
+FD0D03	"+aG8+"***+
+FD0D04	",aG8+"***+
+FD0D05	"-aG8+"***+
+FD0D06	".aG8+"***+
+FD0D07	"/aG8+"***+
+FD0D08	"0aG8+"***+
+FD0D09	"1aG8+"***+
+FD0D0A	"2aG8+"***+
+FD0D0B	"3aG8+"***+
+FD0D0C	"4aG8+"***+
+FD0D0D	"5aG8+"***+
+FD0D0E	"6aG8+"***+
+FD0D0F	"7aG8+"***+
+FD0D10	"8aG8+"***+
+FD0D11	"9aG8+"***+
+FD0D12	":aG8+"***+
+FD0D13	";aG8+"***+
+FD0D14	"<aG8+"***+
+FD0D15	"=aG8+"***+
+FD0D16	">aG8+"***+
+FD0D17	"?aG8+"***+
+FD0D18	"@aG8+"***+
+FD0D19	"AaG8+"***+
+FD0D1A	"BaG8+"***+
+FD0D1B	"CaG8+"***+
+FD0D1C	"DaG8+"***+
+FD0D1D	"EaG8+"***+
+FD0D1E	"FaG8+"***+
+FD0D1F	"{G~U"+**9*
+FD0D20	"HaG8+"***+
+FD0D21	"IaG8+"***+
+FD0D22	"NA~U%"*+**
+FD0D23	"KaG8+"***+
+FD0D24	"LaG8+"***+
+FD0D25	"MaG8+"***+
+FD0D26	"NaG8+"***+
+FD0D27	"OaG8+"***+
+FD0D28	"PaG8+"***+
+FD0D29	"QaG8+"***+
+FD0D2A	"RaG8+"***+
+FD0D2B	"SaG8+"***+
+FD0D2C	"TaG8+"***+
+FD0D2D	"UaG8+"***+
+FD0D2E	"VaG8+"***+
+FD0D2F	"WaG8+"***+
+FD0D30	"XaG8+"***+
+FD0D31	"YaG8+"***+
+FD0D32	"ZaG8+"***+
+FD0D33	"[aG8+"***+
+FD0D34	"\aG8+"***+
+FD0D35	"]aG8+"***+
+FD0D36	"^aG8+"***+
+FD0D37	"_aG8+"***+
+FD0D38	"`aG8+"***+
+FD0D39	"aaG8+"***+
+FD0D3A	"~I~+'"*+**
+FD0D3B	"caG8+"***+
+FD0D3C	"daG8+"***+
+FD0D3D	"eaG8+"***+
+FD0D3E	"faG8+"***+
+FD0D3F	"gaG8+"***+
+FD0D40	"haG8+"***+
+FD0D41	"iaG8+"***+
+FD0D42	"jaG8+"***+
+FD0D43	"kaG8+"***+
+FD0D44	"laG8+"***+
+FD0D45	"maG8+"***+
+FD0D46	"naG8+"***+
+FD0D47	"oaG8+"***+
+FD0D48	"|R~+#"*+**
+FD0D49	"qaG8+"***+
+FD0D4A	"raG8+"***+
+FD0D4B	"saG8+"***+
+FD0D4C	"taG8+"***+
+FD0D4D	"uaG8+"***+
+FD0D4E	"vaG8+"***+
+FD0D4F	"waG8+"***+
+FD0D50	"xaG8+"***+
+FD0D51	"yaG8+"***+
+FD0D52	"zaG8+"***+
+FD0D53	"{aG8+"***+
+FD0D54	"|aG8+"***+
+FD0D55	"}aG8+"***+
+FD0D56	"~aG8+"***+
+FD0D57	"M%~UC"*+**6-
+FD0D58	"~ss&!"***\-
+FD0D59	"}ss&!"***\-
+FD0D5A	"|ss&!"***\-
+FD0D5B	"{ss&!"***\-
+FD0D5C	"zss&!"***\-
+FD0D5D	"M%~UC"*+**
+FD0D5E	"xss&!"***\-
+FD0D5F	"wss&!"***\-
+FD0D60	"vss&!"***\-
+FD0D61	"uss&!"***\-
+FD0D62	"tss&!"***\-
+FD0D63	"sss&!"***\-
+FD0D64	"rss&!"***\-
+FD0D65	"qss&!"***\-
+FD0D66	"pss&!"***\-
+FD0D67	"oss&!"***\-
+FD0D68	"nss&!"***\-
+FD0D69	"mss&!"***\-
+FD0D6A	"lss&!"***\-
+FD0D6B	"kss&!"***\-
+FD0D6C	"^~d+)"**+*
+FD0D6D	"iss&!"***\-
+FD0D6E	"hss&!"***\-
+FD0D6F	"gss&!"***\-
+FD0D70	"fss&!"***\-
+FD0D71	"ess&!"***\-
+FD0D72	"dss&!"***\-
+FD0D73	"css&!"***\-
+FD0D74	"bss&!"***\-
+FD0D75	"ass&!"***\-
+FD0D76	"`ss&!"***\-
+FD0D77	"_ss&!"***\-
+FD0D78	"^ss&!"***\-
+FD0D79	"]ss&!"***\-
+FD0D7A	"\ss&!"***\-
+FD0D7B	"[ss&!"***\-
+FD0D7C	"Zss&!"***\-
+FD0D7D	"Yss&!"***\-
+FD0D7E	"Xss&!"***\-
+FD0D7F	"Wss&!"***\-
+FD0D80	"pS~a"+**8*
+FD0D81	"Uss&!"***\-
+FD0D82	"Tss&!"***\-
+FD0D83	"Sss&!"***\-
+FD0D84	"Rss&!"***\-
+FD0D85	"Qss&!"***\-
+FD0D86	"Pss&!"***\-
+FD0D87	"Oss&!"***\-
+FD0D88	"Nss&!"***\-
+FD0D89	"Mss&!"***\-
+FD0D8A	"Lss&!"***\-
+FD0D8B	"OK~Q!"*+**
+FD0D8C	"Jss&!"***\-
+FD0D8D	"Iss&!"***\-
+FD0D8E	"Hss&!"***\-
+FD0D8F	"Gss&!"***\-
+FD0D90	"Fss&!"***\-
+FD0D91	"Ess&!"***\-
+FD0D92	"Dss&!"***\-
+FD0D93	"Css&!"***\-
+FD0D94	"Bss&!"***\-
+FD0D95	"Ass&!"***\-
+FD0D96	"@ss&!"***\-
+FD0D97	"?ss&!"***\-
+FD0D98	">ss&!"***\-
+FD0D99	"=ss&!"***\-
+FD0D9A	"<ss&!"***\-
+FD0D9B	";ss&!"***\-
+FD0D9C	":ss&!"***\-
+FD0D9D	"9ss&!"***\-
+FD0D9E	"8ss&!"***\-
+FD0D9F	"7ss&!"***\-
+FD0DA0	"6ss&!"***\-
+FD0DA1	"5ss&!"***\-
+FD0DA2	"4ss&!"***\-
+FD0DA3	"e1~K+"*+**
+FD0DA4	"2ss&!"***\-
+FD0DA5	"1ss&!"***\-
+FD0DA6	"0ss&!"***\-
+FD0DA7	"/ss&!"***\-
+FD0DA8	".ss&!"***\-
+FD0DA9	"-ss&!"***\-
+FD0DAA	",ss&!"***\-
+FD0DAB	"+ss&!"***\-
+FD0DAC	"*ss&!"***\-
+FD0DAD	")ss&!"***\-
+FD0DAE	"(ss&!"***\-
+FD0DAF	"'ss&!"***\-
+FD0DB0	"&ss&!"***\-
+FD0DB1	"%ss&!"***\-
+FD0DB2	"$ss&!"***\-
+FD0DB3	"#ss&!"***\-
+FD0DB4	"Lzv$ "***\-
+FD0DB5	"!ss&!"***\-
+FD0DB6	" ss&!"***\-
+FD0DB7	"Izv$ "***\-
+FD0DB8	"Hzv$ "***\-
+FD0DB9	"Gzv$ "***\-
+FD0DBA	"Fzv$ "***\-
+FD0DBB	"Ezv$ "***\-
+FD0DBC	"Dzv$ "***\-
+FD0DBD	"Czv$ "***\-
+FD0DBE	"Bzv$ "***\-
+FD0DBF	"Azv$ "***\-
+FD0DC0	"@zv$ "***\-
+FD0DC1	"?zv$ "***\-
+FD0DC2	">zv$ "***\-
+FD0DC3	"=zv$ "***\-
+FD0DC4	"<zv$ "***\-
+FD0DC5	";zv$ "***\-
+FD0DC6	":zv$ "***\-
+FD0DC7	"9zv$ "***\-
+FD0DC8	"8zv$ "***\-
+FD0DC9	"7zv$ "***\-
+FD0DCA	"6zv$ "***\-
+FD0DCB	"5zv$ "***\-
+FD0DCC	"JI~@."*+**
+FD0DCD	"ss&!"***9-
+FD0DCE	"ss&!"***8-
+FD0DCF	"ss&!"***7-
+FD0DD0	"ss&!"***6-
+FD0DD1	"ss&!"***5-
+FD0DD2	"ss&!"***4-
+FD0DD3	"ss&!"***3-
+FD0DD4	"ss&!"***2-
+FD0DD5	"ss&!"***1-
+FD0DD6	"ss&!"***
+FD0DD7	"ss&!"***1+
+FD0DD8	"ss&!"***2+
+FD0DD9	"ss&!"***3+
+FD0DDA	"ss&!"***4+
+FD0DDB	"ss&!"***5+
+FD0DDC	"ss&!"***6+
+FD0DDD	"ss&!"***7+
+FD0DDE	"ss&!"***8+
+FD0DDF	"ss&!"***9+
+FD0DE0	"P~t/&"**+*
+FD0DE1	"ESA:5"***\-
+FD0DE2	"DSA:5"***\-
+FD0DE3	"CSA:5"***\-
+FD0DE4	"BSA:5"***\-
+FD0DE5	"ASA:5"***\-
+FD0DE6	"@SA:5"***\-
+FD0DE7	"?SA:5"***\-
+FD0DE8	">SA:5"***\-
+FD0DE9	"=SA:5"***\-
+FD0DEA	"<SA:5"***\-
+FD0DEB	";SA:5"***\-
+FD0DEC	":SA:5"***\-
+FD0DED	"9SA:5"***\-
+FD0DEE	"8SA:5"***\-
+FD0DEF	"7SA:5"***\-
+FD0DF0	"6SA:5"***\-
+FD0DF1	"5SA:5"***\-
+FD0DF2	"4SA:5"***\-
+FD0DF3	"3SA:5"***\-
+FD0DF4	"2SA:5"***\-
+FD0DF5	"1SA:5"***\-
+FD0DF6	"0SA:5"***\-
+FD0DF7	"zv $"***9-
+FD0DF8	"zv $"***8-
+FD0DF9	"zv $"***7-
+FD0DFA	"zv $"***6-
+FD0DFB	"zv $"***5-
+FD0DFC	"zv $"***4-
+FD0DFD	"zv $"***3-
+FD0DFE	"zv $"***2-
+FD0DFF	"zv $"***1-
+FD0E00	"zv $"***
+FD0E01	"zv $"***1+
+FD0E02	"zv $"***2+
+FD0E03	"zv $"***3+
+FD0E04	"zv $"***4+
+FD0E05	"w+~Y#"*+**
+FD0E06	"zv $"***6+
+FD0E07	"zv $"***7+
+FD0E08	"zv $"***8+
+FD0E09	"zv $"***9+
+FD0E0A	"1kG;%"***\-
+FD0E0B	"0kG;%"***\-
+FD0E0C	"/kG;%"***\-
+FD0E0D	".kG;%"***\-
+FD0E0E	"-kG;%"***\-
+FD0E0F	",kG;%"***\-
+FD0E10	"+kG;%"***\-
+FD0E11	"*kG;%"***\-
+FD0E12	")kG;%"***\-
+FD0E13	"(kG;%"***\-
+FD0E14	"'kG;%"***\-
+FD0E15	"&kG;%"***\-
+FD0E16	"%kG;%"***\-
+FD0E17	"$kG;%"***\-
+FD0E18	"#kG;%"***\-
+FD0E19	"+yY,#"***\-
+FD0E1A	"!kG;%"***\-
+FD0E1B	" kG;%"***\-
+FD0E1C	"(yY,#"***\-
+FD0E1D	"SA:5"***9-
+FD0E1E	"SA:5"***8-
+FD0E1F	"SA:5"***7-
+FD0E20	"SA:5"***6-
+FD0E21	"SA:5"***5-
+FD0E22	"SA:5"***4-
+FD0E23	"SA:5"***3-
+FD0E24	"SA:5"***2-
+FD0E25	"SA:5"***1-
+FD0E26	"SA:5"***
+FD0E27	"SA:5"***1+
+FD0E28	"SA:5"***2+
+FD0E29	"SA:5"***3+
+FD0E2A	"SA:5"***4+
+FD0E2B	"SA:5"***5+
+FD0E2C	"SA:5"***6+
+FD0E2D	"SA:5"***7+
+FD0E2E	"SA:5"***8+
+FD0E2F	"SA:5"***9+
+FD0E30	"0t\*%"***\-
+FD0E31	"/t\*%"***\-
+FD0E32	"kG;%"***9-
+FD0E33	"kG;%"***8-
+FD0E34	"kG;%"***7-
+FD0E35	"kG;%"***6-
+FD0E36	"kG;%"***5-
+FD0E37	"kG;%"***4-
+FD0E38	"kG;%"***3-
+FD0E39	"kG;%"***2-
+FD0E3A	"kG;%"***1-
+FD0E3B	"kG;%"***
+FD0E3C	"kG;%"***1+
+FD0E3D	"kG;%"***2+
+FD0E3E	"kG;%"***3+
+FD0E3F	"kG;%"***4+
+FD0E40	"kG;%"***5+
+FD0E41	"kG;%"***6+
+FD0E42	"kG;%"***7+
+FD0E43	"kG;%"***8+
+FD0E44	"yY,#"***
+FD0E45	"yY,#"***1+
+FD0E46	"yY,#"***2+
+FD0E47	"yY,#"***3+
+FD0E48	"rl~%!"*+**
+FD0E49	"yY,#"***5+
+FD0E4A	"yY,#"***6+
+FD0E4B	"yY,#"***7+
+FD0E4C	"yY,#"***8+
+FD0E4D	"yY,#"***9+
+FD0E4E	"Bjj)$"***\-
+FD0E4F	"Ajj)$"***\-
+FD0E50	"@jj)$"***\-
+FD0E51	"?jj)$"***\-
+FD0E52	">jj)$"***\-
+FD0E53	"=jj)$"***\-
+FD0E54	"~ss&!"***+
+FD0E55	";jj)$"***\-
+FD0E56	":jj)$"***\-
+FD0E57	"t\*%"***9-
+FD0E58	"t\*%"***8-
+FD0E59	"t\*%"***7-
+FD0E5A	"t\*%"***6-
+FD0E5B	"t\*%"***5-
+FD0E5C	"t\*%"***4-
+FD0E5D	"t\*%"***3-
+FD0E5E	"t\*%"***2-
+FD0E5F	"t\*%"***1-
+FD0E60	"t\*%"***
+FD0E61	"t\*%"***1+
+FD0E62	"t\*%"***2+
+FD0E63	"t\*%"***3+
+FD0E64	"t\*%"***4+
+FD0E65	"t\*%"***5+
+FD0E66	"t\*%"***6+
+FD0E67	"[)#_ "+***
+FD0E68	"t\*%"***8+
+FD0E69	"t\*%"***9+
+FD0E6A	"&jj)$"***\-
+FD0E6B	"%jj)$"***\-
+FD0E6C	"$jj)$"***\-
+FD0E6D	"#jj)$"***\-
+FD0E6E	"*yY,#"***+
+FD0E6F	"!jj)$"***\-
+FD0E70	" jj)$"***\-
+FD0E71	"-yY,#"***+
+FD0E72	".yY,#"***+
+FD0E73	"/yY,#"***+
+FD0E74	"0yY,#"***+
+FD0E75	"1yY,#"***+
+FD0E76	"2yY,#"***+
+FD0E77	"3yY,#"***+
+FD0E78	"4yY,#"***+
+FD0E79	"5yY,#"***+
+FD0E7A	"6yY,#"***+
+FD0E7B	"7yY,#"***+
+FD0E7C	"~g>51"***\-
+FD0E7D	"}g>51"***\-
+FD0E7E	"]~x-!"**+*
+FD0E7F	"{g>51"***\-
+FD0E80	"zg>51"***\-
+FD0E81	"yg>51"***\-
+FD0E82	"xg>51"***\-
+FD0E83	"wg>51"***\-
+FD0E84	"vg>51"***\-
+FD0E85	"ug>51"***\-
+FD0E86	"^+~a)"*+**
+FD0E87	"jj)$"***9-
+FD0E88	"jj)$"***8-
+FD0E89	"jj)$"***7-
+FD0E8A	"jj)$"***6-
+FD0E8B	"jj)$"***5-
+FD0E8C	"jj)$"***4-
+FD0E8D	"jj)$"***3-
+FD0E8E	"jj)$"***2-
+FD0E8F	"jj)$"***1-
+FD0E90	"jj)$"***
+FD0E91	"jj)$"***1+
+FD0E92	"jj)$"***2+
+FD0E93	"jj)$"***3+
+FD0E94	"jj)$"***4+
+FD0E95	"jj)$"***5+
+FD0E96	"jj)$"***6+
+FD0E97	"jj)$"***7+
+FD0E98	"jj)$"***8+
+FD0E99	"jj)$"***9+
+FD0E9A	"`g>51"***\-
+FD0E9B	"_g>51"***\-
+FD0E9C	"^g>51"***\-
+FD0E9D	"]g>51"***\-
+FD0E9E	"mU~ 4"*+**
+FD0E9F	"[g>51"***\-
+FD0EA0	"Zg>51"***\-
+FD0EA1	"Yg>51"***\-
+FD0EA2	"Xg>51"***\-
+FD0EA3	"Wg>51"***\-
+FD0EA4	"Vg>51"***\-
+FD0EA5	"Ug>51"***\-
+FD0EA6	"Tg>51"***\-
+FD0EA7	"Sg>51"***\-
+FD0EA8	"Rg>51"***\-
+FD0EA9	"Qg>51"***\-
+FD0EAA	"Pg>51"***\-
+FD0EAB	"Og>51"***\-
+FD0EAC	"Ng>51"***\-
+FD0EAD	"Mg>51"***\-
+FD0EAE	"Lg>51"***\-
+FD0EAF	"Kg>51"***\-
+FD0EB0	"Jg>51"***\-
+FD0EB1	"Ig>51"***\-
+FD0EB2	"Hg>51"***\-
+FD0EB3	"Gg>51"***\-
+FD0EB4	"Fg>51"***\-
+FD0EB5	"Eg>51"***\-
+FD0EB6	"Dg>51"***\-
+FD0EB7	"}W="**5*5*
+FD0EB8	"Bg>51"***\-
+FD0EB9	"Ag>51"***\-
+FD0EBA	"@g>51"***\-
+FD0EBB	"?g>51"***\-
+FD0EBC	">g>51"***\-
+FD0EBD	"ya~'!"*+**
+FD0EBE	"<g>51"***\-
+FD0EBF	";g>51"***\-
+FD0EC0	":g>51"***\-
+FD0EC1	"9g>51"***\-
+FD0EC2	"8g>51"***\-
+FD0EC3	"7g>51"***\-
+FD0EC4	"6g>51"***\-
+FD0EC5	"5g>51"***\-
+FD0EC6	"4g>51"***\-
+FD0EC7	"3g>51"***\-
+FD0EC8	"2g>51"***\-
+FD0EC9	"G1~w'"*+**
+FD0ECA	"0g>51"***\-
+FD0ECB	"/g>51"***\-
+FD0ECC	".g>51"***\-
+FD0ECD	"-g>51"***\-
+FD0ECE	",g>51"***\-
+FD0ECF	"+g>51"***\-
+FD0ED0	"*g>51"***\-
+FD0ED1	")g>51"***\-
+FD0ED2	"(g>51"***\-
+FD0ED3	"'g>51"***\-
+FD0ED4	"&g>51"***\-
+FD0ED5	"%g>51"***\-
+FD0ED6	"$g>51"***\-
+FD0ED7	"#g>51"***\-
+FD0ED8	"pU:::"***\-
+FD0ED9	"!g>51"***\-
+FD0EDA	" g>51"***\-
+FD0EDB	"mU:::"***\-
+FD0EDC	"lU:::"***\-
+FD0EDD	"kU:::"***\-
+FD0EDE	"jU:::"***\-
+FD0EDF	"iU:::"***\-
+FD0EE0	"hU:::"***\-
+FD0EE1	"gU:::"***\-
+FD0EE2	"fU:::"***\-
+FD0EE3	"eU:::"***\-
+FD0EE4	"dU:::"***\-
+FD0EE5	"cU:::"***\-
+FD0EE6	"bU:::"***\-
+FD0EE7	"aU:::"***\-
+FD0EE8	"`U:::"***\-
+FD0EE9	"_U:::"***\-
+FD0EEA	"^U:::"***\-
+FD0EEB	"]U:::"***\-
+FD0EEC	"\U:::"***\-
+FD0EED	"[U:::"***\-
+FD0EEE	"ZU:::"***\-
+FD0EEF	"YU:::"***\-
+FD0EF0	"XU:::"***\-
+FD0EF1	"g>51"***9-
+FD0EF2	"g>51"***8-
+FD0EF3	"w_~%"+**9*
+FD0EF4	"g>51"***6-
+FD0EF5	"g>51"***5-
+FD0EF6	"g>51"***4-
+FD0EF7	"g>51"***3-
+FD0EF8	"g>51"***2-
+FD0EF9	"g>51"***1-
+FD0EFA	"g>51"***
+FD0EFB	"g>51"***1+
+FD0EFC	"g>51"***2+
+FD0EFD	"g>51"***3+
+FD0EFE	"g>51"***4+
+FD0EFF	"g>51"***5+
+FD0F00	"g>51"***6+
+FD0F01	"g>51"***7+
+FD0F02	"g>51"***8+
+FD0F03	"g>51"***9+
+FD0F04	"DU:::"***\-
+FD0F05	"CU:::"***\-
+FD0F06	"BU:::"***\-
+FD0F07	"AU:::"***\-
+FD0F08	"@U:::"***\-
+FD0F09	"?U:::"***\-
+FD0F0A	">U:::"***\-
+FD0F0B	"=U:::"***\-
+FD0F0C	"<U:::"***\-
+FD0F0D	";U:::"***\-
+FD0F0E	":U:::"***\-
+FD0F0F	"9U:::"***\-
+FD0F10	"hG~5("*+**
+FD0F11	"7U:::"***\-
+FD0F12	"6U:::"***\-
+FD0F13	"/~_O/"**+*
+FD0F14	"4U:::"***\-
+FD0F15	"3U:::"***\-
+FD0F16	"2U:::"***\-
+FD0F17	"1U:::"***\-
+FD0F18	"0U:::"***\-
+FD0F19	"/U:::"***\-
+FD0F1A	".U:::"***\-
+FD0F1B	"-U:::"***\-
+FD0F1C	",U:::"***\-
+FD0F1D	"+U:::"***\-
+FD0F1E	"*U:::"***\-
+FD0F1F	")U:::"***\-
+FD0F20	"(U:::"***\-
+FD0F21	"'U:::"***\-
+FD0F22	"&U:::"***\-
+FD0F23	"%U:::"***\-
+FD0F24	"$U:::"***\-
+FD0F25	"#U:::"***\-
+FD0F26	"Rm[,&"***\-
+FD0F27	"!U:::"***\-
+FD0F28	" U:::"***\-
+FD0F29	"Om[,&"***\-
+FD0F2A	"Nm[,&"***\-
+FD0F2B	"Mm[,&"***\-
+FD0F2C	"Lm[,&"***\-
+FD0F2D	"Km[,&"***\-
+FD0F2E	"Jm[,&"***\-
+FD0F2F	"Im[,&"***\-
+FD0F30	"Hm[,&"***\-
+FD0F31	"==~G="*+**
+FD0F32	"Fm[,&"***\-
+FD0F33	"Em[,&"***\-
+FD0F34	"Dm[,&"***\-
+FD0F35	"Cm[,&"***\-
+FD0F36	"Bm[,&"***\-
+FD0F37	"Am[,&"***\-
+FD0F38	"@m[,&"***\-
+FD0F39	"I#~_C"*+**
+FD0F3A	">m[,&"***\-
+FD0F3B	"=m[,&"***\-
+FD0F3C	"<m[,&"***\-
+FD0F3D	";m[,&"***\-
+FD0F3E	":m[,&"***\-
+FD0F3F	"U:::"***9-
+FD0F40	"U:::"***8-
+FD0F41	"U:::"***7-
+FD0F42	"U:::"***6-
+FD0F43	"U:::"***5-
+FD0F44	"U:::"***4-
+FD0F45	"U:::"***3-
+FD0F46	"U:::"***2-
+FD0F47	"U:::"***1-
+FD0F48	"U:::"***
+FD0F49	"U:::"***1+
+FD0F4A	"U:::"***2+
+FD0F4B	"U:::"***3+
+FD0F4C	"U:::"***4+
+FD0F4D	"U:::"***5+
+FD0F4E	"U:::"***6+
+FD0F4F	"U:::"***7+
+FD0F50	"U:::"***8+
+FD0F51	"U:::"***9+
+FD0F52	"&m[,&"***\-
+FD0F53	"%m[,&"***\-
+FD0F54	"$m[,&"***\-
+FD0F55	"#m[,&"***\-
+FD0F56	"\g>51"***+
+FD0F57	"!m[,&"***\-
+FD0F58	" m[,&"***\-
+FD0F59	"_g>51"***+
+FD0F5A	"`g>51"***+
+FD0F5B	"ag>51"***+
+FD0F5C	"bg>51"***+
+FD0F5D	"cg>51"***+
+FD0F5E	"dg>51"***+
+FD0F5F	"eg>51"***+
+FD0F60	"fg>51"***+
+FD0F61	"gg>51"***+
+FD0F62	"hg>51"***+
+FD0F63	"ig>51"***+
+FD0F64	"jg>51"***+
+FD0F65	"kg>51"***+
+FD0F66	"lg>51"***+
+FD0F67	"mg>51"***+
+FD0F68	" U:::"***+
+FD0F69	"!U:::"***+
+FD0F6A	"pg>51"***+
+FD0F6B	"#U:::"***+
+FD0F6C	"$U:::"***+
+FD0F6D	"%U:::"***+
+FD0F6E	"&U:::"***+
+FD0F6F	"m[,&"***9-
+FD0F70	"m[,&"***8-
+FD0F71	"?/~KI"*+**
+FD0F72	"m[,&"***6-
+FD0F73	"m[,&"***5-
+FD0F74	"m[,&"***4-
+FD0F75	"m[,&"***3-
+FD0F76	"m[,&"***2-
+FD0F77	"m[,&"***1-
+FD0F78	"m[,&"***
+FD0F79	"m[,&"***1+
+FD0F7A	"m[,&"***2+
+FD0F7B	"m[,&"***3+
+FD0F7C	"m[,&"***4+
+FD0F7D	"m[,&"***5+
+FD0F7E	"m[,&"***6+
+FD0F7F	"m[,&"***7+
+FD0F80	"m[,&"***8+
+FD0F81	"m[,&"***9+
+FD0F82	":U:::"***+
+FD0F83	"~eY-)"***\-
+FD0F84	"}eY-)"***\-
+FD0F85	"|eY-)"***\-
+FD0F86	"{eY-)"***\-
+FD0F87	"zeY-)"***\-
+FD0F88	"VJ~>("*+**
+FD0F89	"xeY-)"***\-
+FD0F8A	"weY-)"***\-
+FD0F8B	"veY-)"***\-
+FD0F8C	"ueY-)"***\-
+FD0F8D	"teY-)"***\-
+FD0F8E	"seY-)"***\-
+FD0F8F	"reY-)"***\-
+FD0F90	"qeY-)"***\-
+FD0F91	"peY-)"***\-
+FD0F92	"oeY-)"***\-
+FD0F93	"neY-)"***\-
+FD0F94	"meY-)"***\-
+FD0F95	"leY-)"***\-
+FD0F96	"keY-)"***\-
+FD0F97	"jeY-)"***\-
+FD0F98	"ieY-)"***\-
+FD0F99	"heY-)"***\-
+FD0F9A	"geY-)"***\-
+FD0F9B	"feY-)"***\-
+FD0F9C	"eeY-)"***\-
+FD0F9D	"deY-)"***\-
+FD0F9E	"ceY-)"***\-
+FD0F9F	"beY-)"***\-
+FD0FA0	"aeY-)"***\-
+FD0FA1	"`eY-)"***\-
+FD0FA2	"_eY-)"***\-
+FD0FA3	"^eY-)"***\-
+FD0FA4	"]eY-)"***\-
+FD0FA5	"\eY-)"***\-
+FD0FA6	"[eY-)"***\-
+FD0FA7	"ZeY-)"***\-
+FD0FA8	"YeY-)"***\-
+FD0FA9	"XeY-)"***\-
+FD0FAA	"WeY-)"***\-
+FD0FAB	"VeY-)"***\-
+FD0FAC	"UeY-)"***\-
+FD0FAD	"TeY-)"***\-
+FD0FAE	"SeY-)"***\-
+FD0FAF	"ReY-)"***\-
+FD0FB0	"QeY-)"***\-
+FD0FB1	"PeY-)"***\-
+FD0FB2	"OeY-)"***\-
+FD0FB3	"NeY-)"***\-
+FD0FB4	"MeY-)"***\-
+FD0FB5	"LeY-)"***\-
+FD0FB6	"KeY-)"***\-
+FD0FB7	"JeY-)"***\-
+FD0FB8	"IeY-)"***\-
+FD0FB9	"HeY-)"***\-
+FD0FBA	"GeY-)"***\-
+FD0FBB	"FeY-)"***\-
+FD0FBC	"EeY-)"***\-
+FD0FBD	"DeY-)"***\-
+FD0FBE	"CeY-)"***\-
+FD0FBF	"BeY-)"***\-
+FD0FC0	"AeY-)"***\-
+FD0FC1	"@eY-)"***\-
+FD0FC2	"?eY-)"***\-
+FD0FC3	">eY-)"***\-
+FD0FC4	"=eY-)"***\-
+FD0FC5	"<eY-)"***\-
+FD0FC6	";eY-)"***\-
+FD0FC7	":eY-)"***\-
+FD0FC8	"9eY-)"***\-
+FD0FC9	"8eY-)"***\-
+FD0FCA	"7eY-)"***\-
+FD0FCB	"6eY-)"***\-
+FD0FCC	"5eY-)"***\-
+FD0FCD	"4eY-)"***\-
+FD0FCE	"3eY-)"***\-
+FD0FCF	"2eY-)"***\-
+FD0FD0	"1eY-)"***\-
+FD0FD1	"0eY-)"***\-
+FD0FD2	"/eY-)"***\-
+FD0FD3	".eY-)"***\-
+FD0FD4	"-eY-)"***\-
+FD0FD5	",eY-)"***\-
+FD0FD6	"+eY-)"***\-
+FD0FD7	"*eY-)"***\-
+FD0FD8	")eY-)"***\-
+FD0FD9	"(eY-)"***\-
+FD0FDA	"'eY-)"***\-
+FD0FDB	"&eY-)"***\-
+FD0FDC	"%eY-)"***\-
+FD0FDD	"~}u"**9-9*
+FD0FDE	"#eY-)"***\-
+FD0FDF	"OuZ-#"***\-
+FD0FE0	"ha~.!"*+**
+FD0FE1	" eY-)"***\-
+FD0FE2	"LuZ-#"***\-
+FD0FE3	"KuZ-#"***\-
+FD0FE4	"JuZ-#"***\-
+FD0FE5	"IuZ-#"***\-
+FD0FE6	"~}u"**8-9*
+FD0FE7	"GuZ-#"***\-
+FD0FE8	"FuZ-#"***\-
+FD0FE9	"EuZ-#"***\-
+FD0FEA	"DuZ-#"***\-
+FD0FEB	"CuZ-#"***\-
+FD0FEC	"BuZ-#"***\-
+FD0FED	"AuZ-#"***\-
+FD0FEE	"@uZ-#"***\-
+FD0FEF	"~}u"**7-9*
+FD0FF0	">uZ-#"***\-
+FD0FF1	"=uZ-#"***\-
+FD0FF2	"<uZ-#"***\-
+FD0FF3	";uZ-#"***\-
+FD0FF4	":uZ-#"***\-
+FD0FF5	"9uZ-#"***\-
+FD0FF6	"8uZ-#"***\-
+FD0FF7	"7uZ-#"***\-
+FD0FF8	"~}u"**6-9*
+FD0FF9	"eY-)"***8-
+FD0FFA	"eY-)"***7-
+FD0FFB	"eY-)"***6-
+FD0FFC	"eY-)"***5-
+FD0FFD	"eY-)"***4-
+FD0FFE	"eY-)"***3-
+FD0FFF	"eY-)"***2-
