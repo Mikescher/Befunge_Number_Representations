@@ -5,4 +5,5 @@ BefunRep.exe ^
 -maxfilesperfolder=128 ^
 -outmin=0 ^
 -outmax=16777216 ^
--iterations=0
+-iterations=0 ^
+-stats=0
