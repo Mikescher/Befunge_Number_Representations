@@ -32,9 +32,9 @@ FBA81E	"~wG= "***+
 FBA81F	"K~;~=;"*+*+*
 FBA820	"zwG"**8+8*2*
 FBA821	"xwG= "***+9+
-FBA822	"ywG= "***+9+
+FBA822	"cs3&%"***+2*
 FBA823	"zwG= "***+9+
-FBA824	"{wG= "***+9+
+FBA824	"ds3&%"***+2*
 FBA825	"YG:-"***9-
 FBA826	"YG:-"***8-
 FBA827	"YG:-"***7-
@@ -68,11 +68,11 @@ FBA842	"eO5'"***8+9+
 FBA843	"eO5'"***9+9+
 FBA844	"ts3&%"***+2*
 FBA845	" YG:-"***+9-
-FBA846	" YG:-"***+8-
-FBA847	" YG:-"***+7-
+FBA846	"us3&%"***+2*
+FBA847	"YWG"**6*5+5*
 FBA848	"zGD"**6+7*4*
-FBA849	" YG:-"***+5-
-FBA84A	" YG:-"***+4-
+FBA849	"YG:"**5*3+9*
+FBA84A	"ws3&%"***+2*
 FBA84B	"a)~~_)"*++**
 FBA84C	"YWG"**1+6*5*
 FBA84D	" YG:-"***+1-
@@ -278,7 +278,7 @@ FBA914	"7gK=#"***\-
 FBA915	"6gK=#"***\-
 FBA916	"5gK=#"***\-
 FBA917	"4gK=#"***\-
-FBA918	"{ow "+**8*
+FBA918	"{ov!"+**8*
 FBA919	"2gK=#"***\-
 FBA91A	"1gK=#"***\-
 FBA91B	"0gK=#"***\-
@@ -1658,7 +1658,7 @@ FBAE78	"uY0!"***8+
 FBAE79	"uY0!"***9+
 FBAE7A	".zW*%"***+
 FBAE7B	"/zW*%"***+
-FBAE7C	"rI~ :"*+**
+FBAE7C	"0zW*%"***+
 FBAE7D	"1zW*%"***+
 FBAE7E	"2zW*%"***+
 FBAE7F	"3zW*%"***+
@@ -1754,7 +1754,7 @@ FBAED8	"hzAA "***\-
 FBAED9	"gzAA "***\-
 FBAEDA	"fzAA "***\-
 FBAEDB	"ezAA "***\-
-FBAEDC	"{du "+**9*
+FBAEDC	"{dt!"+**9*
 FBAEDD	"czAA "***\-
 FBAEDE	"bzAA "***\-
 FBAEDF	"azAA "***\-
@@ -1795,7 +1795,7 @@ FBAF01	"?zAA "***\-
 FBAF02	">zAA "***\-
 FBAF03	"=zAA "***\-
 FBAF04	"<zAA "***\-
-FBAF05	"S)%c "+***
+FBAF05	"S)%b!"+***
 FBAF06	":zAA "***\-
 FBAF07	"9zAA "***\-
 FBAF08	"8zAA "***\-

@@ -5,7 +5,7 @@ DE0803	"tp #"***3+
 DE0804	"tp #"***4+
 DE0805	"tp #"***5+
 DE0806	"tp #"***6+
-DE0807	"tp #"***7+
+DE0807	"G|{j"**+9*
 DE0808	"D~UD%"**+*
 DE0809	"tp #"***9+
 DE080A	"K~S I"**+*
@@ -30,7 +30,7 @@ DE081C	"mX)%"***4+
 DE081D	"mX)%"***5+
 DE081E	"mX)%"***6+
 DE081F	"mX)%"***7+
-DE0820	" ~sC;"**+*
+DE0820	"mX)%"***8+
 DE0821	"mX)%"***9+
 DE0822	"J|{j"**+9*
 DE0823	"KUU5&"***\-
@@ -176,7 +176,7 @@ DE08AE	":eW.$"***\-
 DE08AF	"9eW.$"***\-
 DE08B0	"8eW.$"***\-
 DE08B1	"7eW.$"***\-
-DE08B2	"yfc "+**9*
+DE08B2	"yfb!"+**9*
 DE08B3	"5eW.$"***\-
 DE08B4	"4eW.$"***\-
 DE08B5	"3eW.$"***\-
@@ -624,7 +624,7 @@ DE0A6E	"nj~R"+**3-6*
 DE0A6F	"vO~a"+**3+7*
 DE0A70	"~|L~C"+**+8*
 DE0A71	"qeU"**6+5*3*
-DE0A72	"nj' "***9-5-
+DE0A72	"njh"**6*7-2*
 DE0A73	"nj' "***9-4-
 DE0A74	"w?~7!"*+**9-
 DE0A75	"w?~7!"*+**8-
@@ -648,25 +648,25 @@ DE0A86	"nj' "***6+
 DE0A87	"nj' "***7+
 DE0A88	"nj' "***8+
 DE0A89	"nj' "***9+
-DE0A8A	"nj' "***1+9+
+DE0A8A	"njh"**6*5+2*
 DE0A8B	"vO~a"+**7+7*
 DE0A8C	"njh"**1+6*2*
 DE0A8D	"%~m~;;"*+*+*
-DE0A8E	"nj' "***5+9+
+DE0A8E	"njh"**6*7+2*
 DE0A8F	"qeU"**8+5*3*
-DE0A90	"xjo "+**2+8*
+DE0A90	"njh"**6*8+2*
 DE0A91	"nj' "***8+9+
 DE0A92	"nj~R"+**3+6*
 DE0A93	"%~m~;;"*+*+*6+
 DE0A94	"jhB"**1+5*4*
-DE0A95	"A5, "***7+3*
+DE0A95	"njh"**4*7+3*
 DE0A96	"Xe;%!"***\-2*
 DE0A97	" nj' "***+9-
 DE0A98	"~mlg"**+6*2*
 DE0A99	"vO~a"+**9+7*
 DE0A9A	" nj' "***+6-
-DE0A9B	" nj' "***+5-
-DE0A9C	" nj' "***+4-
+DE0A9B	"njh"**4*9+3*
+DE0A9C	"njh"**3*7+4*
 DE0A9D	" nj' "***+3-
 DE0A9E	"qeU"**9+5*3*
 DE0A9F	" nj' "***+1-
@@ -894,7 +894,7 @@ DE0B7C	"DkU2 "***\-
 DE0B7D	"CkU2 "***\-
 DE0B7E	"BkU2 "***\-
 DE0B7F	"AkU2 "***\-
-DE0B80	"pmu "+**8*
+DE0B80	"pmt!"+**8*
 DE0B81	"?kU2 "***\-
 DE0B82	">kU2 "***\-
 DE0B83	"=kU2 "***\-
@@ -992,7 +992,7 @@ DE0BDE	"Fs_%$"***\-
 DE0BDF	"Es_%$"***\-
 DE0BE0	"Ds_%$"***\-
 DE0BE1	"Cs_%$"***\-
-DE0BE2	"wY~ '"*+**
+DE0BE2	"wY~g"+**6*
 DE0BE3	"As_%$"***\-
 DE0BE4	"@s_%$"***\-
 DE0BE5	"aO~U"+**9*
@@ -1438,7 +1438,7 @@ DE0D9C	"HzI+&"***+
 DE0D9D	"IzI+&"***+
 DE0D9E	"JzI+&"***+
 DE0D9F	"KzI+&"***+
-DE0DA0	"_ ~O;"*+**
+DE0DA0	"LzI+&"***+
 DE0DA1	"MzI+&"***+
 DE0DA2	"NzI+&"***+
 DE0DA3	"OzI+&"***+
@@ -1742,7 +1742,7 @@ DE0ECC	"pz6//"***\-
 DE0ECD	"oz6//"***\-
 DE0ECE	"nz6//"***\-
 DE0ECF	"~YG1/"***+
-DE0ED0	"rl~ !"*+**
+DE0ED0	"rl~G"+**6*
 DE0ED1	"kz6//"***\-
 DE0ED2	"jz6//"***\-
 DE0ED3	"iz6//"***\-
@@ -2037,7 +2037,7 @@ DE0FF3	"K=~A/"*+**
 DE0FF4	"kC:#"***6+
 DE0FF5	"kC:#"***7+
 DE0FF6	"kC:#"***8+
-DE0FF7	"XL D"***9-
+DE0FF7	"kC:#"***9+
 DE0FF8	"XL D"***8-
 DE0FF9	"XL D"***7-
 DE0FFA	"XL D"***6-

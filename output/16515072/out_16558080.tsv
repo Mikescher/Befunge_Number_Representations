@@ -8,11 +8,11 @@ FCA806	"pn* "***6+
 FCA807	"pn* "***7+
 FCA808	"pn* "***8+
 FCA809	"pn* "***9+
-FCA80A	"aY~ 8"*+**4-
+FCA80A	"ppn"**6*5+2*
 FCA80B	"aY~ 8"*+**3-
 FCA80C	"W?95"***9-
 FCA80D	"W?95"***8-
-FCA80E	"aY~ 8"*+**
+FCA80E	"W?95"***7-
 FCA80F	"W?95"***6-
 FCA810	"W?95"***5-
 FCA811	"W?95"***4-
@@ -373,11 +373,11 @@ FCA973	"Y==2"***1+
 FCA974	"Y==2"***2+
 FCA975	"Y==2"***3+
 FCA976	"Y==2"***4+
-FCA977	"|k '"***9-
-FCA978	"|k '"***8-
-FCA979	"|k '"***7-
-FCA97A	"|k '"***6-
-FCA97B	"|k '"***5-
+FCA977	"Y==2"***5+
+FCA978	"Y==2"***6+
+FCA979	"Y==2"***7+
+FCA97A	"Y==2"***8+
+FCA97B	"Y==2"***9+
 FCA97C	"|k '"***4-
 FCA97D	"|k '"***3-
 FCA97E	"|k '"***2-
@@ -424,7 +424,7 @@ FCA9A6	"rS2#"***2+
 FCA9A7	"rS2#"***3+
 FCA9A8	"rS2#"***4+
 FCA9A9	"rS2#"***5+
-FCA9AA	"{Q~ 0"*+**
+FCA9AA	"rS2#"***6+
 FCA9AB	"rS2#"***7+
 FCA9AC	"rS2#"***8+
 FCA9AD	"rS2#"***9+
@@ -586,7 +586,7 @@ FCAA48	"^^~.&"*+**
 FCAA49	"]^EE%"***\-
 FCAA4A	"\^EE%"***\-
 FCAA4B	"[^EE%"***\-
-FCAA4C	"~~u "+**7*
+FCAA4C	"~~t!"+**7*
 FCAA4D	"Y^EE%"***\-
 FCAA4E	"X^EE%"***\-
 FCAA4F	"W^EE%"***\-
@@ -973,7 +973,7 @@ FCABCB	"BGC;;"***\-
 FCABCC	"AGC;;"***\-
 FCABCD	"@GC;;"***\-
 FCABCE	"?GC;;"***\-
-FCABCF	"55-c "+***
+FCABCF	"55-b!"+***
 FCABD0	"=GC;;"***\-
 FCABD1	"<GC;;"***\-
 FCABD2	";GC;;"***\-
@@ -1838,7 +1838,7 @@ FCAF2C	"T}s$ "***\-
 FCAF2D	"S}s$ "***\-
 FCAF2E	"~z^&&"***+
 FCAF2F	"tg*!"***9-
-FCAF30	"h~q ,"**+*
+FCAF30	"tg*!"***8-
 FCAF31	"tg*!"***7-
 FCAF32	"tg*!"***6-
 FCAF33	"tg*!"***5-

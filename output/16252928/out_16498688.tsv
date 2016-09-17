@@ -2,7 +2,7 @@ FBC000	"jL @"***
 FBC001	"jL @"***1+
 FBC002	"A~v2+"**+*
 FBC003	"jL @"***3+
-FBC004	"jL @"***4+
+FBC004	"~^~I"+**7*
 FBC005	"jL @"***5+
 FBC006	"jL @"***6+
 FBC007	"jL @"***7+
@@ -122,9 +122,9 @@ FBC078	"5uO3#"***+
 FBC079	"6uO3#"***+
 FBC07A	"7uO3#"***+
 FBC07B	"YA>."***9-
-FBC07C	"B~z @"**+*
+FBC07C	"YA>."***8-
 FBC07D	"YA>."***7-
-FBC07E	"~jL @"***+
+FBC07E	"YA>."***6-
 FBC07F	"YA>."***5-
 FBC080	"YA>."***4-
 FBC081	"YA>."***3-
@@ -325,7 +325,7 @@ FBC143	"emD5*"***\-
 FBC144	"aM//"***9-
 FBC145	"aM//"***8-
 FBC146	"aM//"***7-
-FBC147	"A))w "+***
+FBC147	"A))v!"+***
 FBC148	"aM//"***5-
 FBC149	"aM//"***4-
 FBC14A	"aM//"***3-
@@ -498,7 +498,7 @@ FBC1F0	"`z\*#"***\-
 FBC1F1	"_z\*#"***\-
 FBC1F2	"^z\*#"***\-
 FBC1F3	"]z\*#"***\-
-FBC1F4	"\%%c "+***
+FBC1F4	"\%%b!"+***
 FBC1F5	"[z\*#"***\-
 FBC1F6	"Zz\*#"***\-
 FBC1F7	"Yz\*#"***\-
@@ -749,7 +749,7 @@ FBC2EB	"4SEC+"***\-
 FBC2EC	"3SEC+"***\-
 FBC2ED	"2SEC+"***\-
 FBC2EE	"1SEC+"***\-
-FBC2EF	"ymk "+**9*
+FBC2EF	"ymj!"+**9*
 FBC2F0	"/SEC+"***\-
 FBC2F1	".SEC+"***\-
 FBC2F2	"-SEC+"***\-
@@ -1436,7 +1436,7 @@ FBC59A	"fhJC "***\-
 FBC59B	"rf+!"***9-
 FBC59C	"rf+!"***8-
 FBC59D	"rf+!"***7-
-FBC59E	"~}} !"***+
+FBC59E	"rf+!"***6-
 FBC59F	"rf+!"***5-
 FBC5A0	"rf+!"***4-
 FBC5A1	"rf+!"***3-
@@ -1719,7 +1719,7 @@ FBC6B5	"SPG#"***5+
 FBC6B6	"SPG#"***6+
 FBC6B7	"yy~#"+**7*
 FBC6B8	"SPG#"***8+
-FBC6B9	"I)%u "+***
+FBC6B9	"I)%t!"+***
 FBC6BA	"=eG;'"***\-
 FBC6BB	"m::-"***9-
 FBC6BC	"m::-"***8-
@@ -1790,7 +1790,7 @@ FBC6FC	"a\++"***
 FBC6FD	"eG;'"***6+
 FBC6FE	"eG;'"***7+
 FBC6FF	"eG;'"***8+
-FBC700	"x ~a+"*+**
+FBC700	"eG;'"***9+
 FBC701	"a\++"***5+
 FBC702	"a\++"***6+
 FBC703	"oS~-%"*+**

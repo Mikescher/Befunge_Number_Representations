@@ -81,16 +81,16 @@ FFF84F	"{44/,"***\-3*
 FFF850	"p~Y~q"+*+*7*
 FFF851	"m_Q"**7+5*4*9+
 FFF852	"rm6"**6+5*5*
-FFF853	"U~y~ /"*+*+*9-
+FFF853	"Gm--&"***+2*9+
 FFF854	"Lm--&"***+2*
 FFF855	"^O~}"+**9-9*
 FFF856	"Mm--&"***+2*
 FFF857	"1.,% "***+7*
 FFF858	"~}j~U"+**+6*
-FFF859	"U~y~ /"*+*+*3-
+FFF859	"p~Y~q"+*+*7*9+
 FFF85A	"Om--&"***+2*
 FFF85B	"~eCC%"***\-8-
-FFF85C	"U~y~ /"*+*+*
+FFF85C	"Pm--&"***+2*
 FFF85D	"~eCC%"***\-6-
 FFF85E	"rmK"**9+9*2*
 FFF85F	"~eCC%"***\-4-
@@ -318,7 +318,7 @@ FFF93C	"[eCC%"***+
 FFF93D	"\eCC%"***+
 FFF93E	"]eCC%"***+
 FFF93F	"^eCC%"***+
-FFF940	"z ~a+"*+**
+FFF940	"_eCC%"***+
 FFF941	"`eCC%"***+
 FFF942	"~hh/!"***\-
 FFF943	"}hh/!"***\-
@@ -1058,14 +1058,14 @@ FFFC20	"PwY0!"***+
 FFFC21	"QwY0!"***+
 FFFC22	"RwY0!"***+
 FFFC23	"SwY0!"***+
-FFFC24	"gb~ 0"*+**
+FFFC24	"TwY0!"***+
 FFFC25	"UwY0!"***+
 FFFC26	"VwY0!"***+
 FFFC27	"WwY0!"***+
 FFFC28	"XwY0!"***+
 FFFC29	"YwY0!"***+
 FFFC2A	"ZwY0!"***+
-FFFC2B	"G+#} "+***
+FFFC2B	"G+#|!"+***
 FFFC2C	"\wY0!"***+
 FFFC2D	"]wY0!"***+
 FFFC2E	"^wY0!"***+
@@ -1185,7 +1185,7 @@ FFFC9F	"9mj,!"***\-
 FFFCA0	"8mj,!"***\-
 FFFCA1	"7mj,!"***\-
 FFFCA2	"6mj,!"***\-
-FFFCA3	";5%q "+***
+FFFCA3	";5%p!"+***
 FFFCA4	"4mj,!"***\-
 FFFCA5	"3mj,!"***\-
 FFFCA6	"2mj,!"***\-
@@ -1370,7 +1370,7 @@ FFFD58	"Twj&#"***\-
 FFFD59	"Swj&#"***\-
 FFFD5A	"Rwj&#"***\-
 FFFD5B	"Qwj&#"***\-
-FFFD5C	"on~ '"*+**
+FFFD5C	"on~g"+**6*
 FFFD5D	"Owj&#"***\-
 FFFD5E	"Nwj&#"***\-
 FFFD5F	"Mwj&#"***\-
@@ -1534,7 +1534,7 @@ FFFDFC	"zV)'"***8-
 FFFDFD	"zV)'"***7-
 FFFDFE	"zV)'"***6-
 FFFDFF	"zV)'"***5-
-FFFE00	"|pw "+**8*
+FFFE00	"zV)'"***4-
 FFFE01	"zV)'"***3-
 FFFE02	"e.~U)"*+**
 FFFE03	"zV)'"***1-
@@ -1792,7 +1792,7 @@ FFFEFE	"YG;-"***4+9+
 FFFEFF	"YG;-"***5+9+
 FFFF00	"xD~~,)"*++**
 FFFF01	"YG;-"***7+9+
-FFFF02	"&~O%w "+**+*
+FFFF02	"&~O%v!"+**+*
 FFFF03	"Q1~~K5"*++**
 FFFF04	"~o_+%"***\-5-
 FFFF05	"YG;"**9*4+5*
@@ -1918,7 +1918,7 @@ FFFF7C	"$sa/ "***\-
 FFFF7D	"#sa/ "***\-
 FFFF7E	"o_+%"***9-
 FFFF7F	"o_+%"***8-
-FFFF80	"@~\ Y"**+*
+FFFF80	"o_+%"***7-
 FFFF81	"o_+%"***6-
 FFFF82	"o_+%"***5-
 FFFF83	"o_+%"***4-
@@ -1941,15 +1941,15 @@ FFFF93	"qe*#"***3-
 FFFF94	"qe*#"***2-
 FFFF95	"qe*#"***1-
 FFFF96	"qe*#"***
-FFFF97	"sa /"***9-
-FFFF98	"sa /"***8-
-FFFF99	"sa /"***7-
-FFFF9A	"sa /"***6-
-FFFF9B	"sa /"***5-
-FFFF9C	"sa /"***4-
-FFFF9D	"sa /"***3-
-FFFF9E	"sa /"***2-
-FFFF9F	"sa /"***1-
+FFFF97	"qe*#"***1+
+FFFF98	"qe*#"***2+
+FFFF99	"qe*#"***3+
+FFFF9A	"qe*#"***4+
+FFFF9B	"qe*#"***5+
+FFFF9C	"qe*#"***6+
+FFFF9D	"qe*#"***7+
+FFFF9E	"qe*#"***8+
+FFFF9F	"qe*#"***9+
 FFFFA0	"sa /"***
 FFFFA1	"sa /"***1+
 FFFFA2	"sa /"***2+
@@ -2022,11 +2022,11 @@ FFFFE4	" @"*:*7-4*
 FFFFE5	"[mJA "***\-
 FFFFE6	"ZmJA "***\-
 FFFFE7	"|d)!"***9-
-FFFFE8	" @"*:*6-4*
+FFFFE8	"|d)!"***8-
 FFFFE9	"|d)!"***7-
 FFFFEA	"|d)!"***6-
 FFFFEB	"|d)!"***5-
-FFFFEC	" @"*:*5-4*
+FFFFEC	"|d)!"***4-
 FFFFED	"|d)!"***3-
 FFFFEE	"|d)!"***2-
 FFFFEF	"|d)!"***1-
@@ -2034,15 +2034,15 @@ FFFFF0	"|d)!"***
 FFFFF1	"|d)!"***1+
 FFFFF2	"|d)!"***2+
 FFFFF3	"|d)!"***3+
-FFFFF4	" @"*:*3-4*
+FFFFF4	"|d)!"***4+
 FFFFF5	"|d)!"***5+
 FFFFF6	"|d)!"***6+
 FFFFF7	"|d)!"***7+
-FFFFF8	" @"*:*2-4*
+FFFFF8	"|d)!"***8+
 FFFFF9	"|d)!"***9+
 FFFFFA	"@@@@"***6-
 FFFFFB	"@@@@"***5-
-FFFFFC	" @"*:*1-4*
+FFFFFC	"@@@@"***4-
 FFFFFD	"@@@@"***3-
 FFFFFE	"@@@@"***2-
 FFFFFF	"wu~s"+**5*

@@ -7,7 +7,7 @@ DEC005	"l` ,"***5+
 DEC006	"l` ,"***6+
 DEC007	"l` ,"***7+
 DEC008	"l` ,"***8+
-DEC009	"l` ,"***9+
+DEC009	"a|xm"**+9*
 DEC00A	"GYQ--"***\-
 DEC00B	"FYQ--"***\-
 DEC00C	"EYQ--"***\-
@@ -250,7 +250,7 @@ DEC0F8	"lda+#"***\-
 DEC0F9	"kda+#"***\-
 DEC0FA	"jda+#"***\-
 DEC0FB	"ida+#"***\-
-DEC0FC	"|g_ "+**9*
+DEC0FC	"|g^!"+**9*
 DEC0FD	"gda+#"***\-
 DEC0FE	"fda+#"***\-
 DEC0FF	"eda+#"***\-
@@ -367,7 +367,7 @@ DEC16D	"da+#"***9+
 DEC16E	"|z~C"+**2-5*
 DEC16F	"da+#"***2+9+
 DEC170	"da+#"***3+9+
-DEC171	"ner "+**3-9*
+DEC171	"da+#"***4+9+
 DEC172	"}aV"**1+7*2*
 DEC173	"|z~C"+**1-5*
 DEC174	"ne~]"+**4-6*
@@ -574,7 +574,7 @@ DEC23C	"0zC/&"***\-
 DEC23D	"1/~m9"*+**
 DEC23E	".zC/&"***\-
 DEC23F	"-zC/&"***\-
-DEC240	"xoi "+**8*
+DEC240	"xoh!"+**8*
 DEC241	"+zC/&"***\-
 DEC242	"*zC/&"***\-
 DEC243	")zC/&"***\-
@@ -746,7 +746,7 @@ DEC2E8	"B]Q3&"***\-
 DEC2E9	"A]Q3&"***\-
 DEC2EA	"@]Q3&"***\-
 DEC2EB	"?]Q3&"***\-
-DEC2EC	"|yk "+**7*
+DEC2EC	"|yj!"+**7*
 DEC2ED	"=]Q3&"***\-
 DEC2EE	"<]Q3&"***\-
 DEC2EF	";]Q3&"***\-
@@ -810,7 +810,7 @@ DEC328	"]Q3&"***2-
 DEC329	"]Q3&"***1-
 DEC32A	"]Q3&"***
 DEC32B	"]Q3&"***1+
-DEC32C	"j~d +"**+*
+DEC32C	"]Q3&"***2+
 DEC32D	"]Q3&"***3+
 DEC32E	"]Q3&"***4+
 DEC32F	"]Q3&"***5+
@@ -943,7 +943,7 @@ DEC3AD	"siO7 "***\-
 DEC3AE	"riO7 "***\-
 DEC3AF	"qiO7 "***\-
 DEC3B0	"piO7 "***\-
-DEC3B1	"oiO7 "***\-
+DEC3B1	"~{ym"**\-9*
 DEC3B2	"niO7 "***\-
 DEC3B3	"miO7 "***\-
 DEC3B4	"liO7 "***\-
@@ -952,7 +952,7 @@ DEC3B6	"jiO7 "***\-
 DEC3B7	"iiO7 "***\-
 DEC3B8	"hiO7 "***\-
 DEC3B9	"giO7 "***\-
-DEC3BA	"fiO7 "***\-
+DEC3BA	"}{ym"**\-9*
 DEC3BB	"eiO7 "***\-
 DEC3BC	"diO7 "***\-
 DEC3BD	"ciO7 "***\-
@@ -961,7 +961,7 @@ DEC3BF	"aiO7 "***\-
 DEC3C0	"`iO7 "***\-
 DEC3C1	"_iO7 "***\-
 DEC3C2	"^iO7 "***\-
-DEC3C3	"]iO7 "***\-
+DEC3C3	"|{ym"**\-9*
 DEC3C4	"\iO7 "***\-
 DEC3C5	"[iO7 "***\-
 DEC3C6	"ZiO7 "***\-
@@ -970,7 +970,7 @@ DEC3C8	"XiO7 "***\-
 DEC3C9	"WiO7 "***\-
 DEC3CA	"ViO7 "***\-
 DEC3CB	"UiO7 "***\-
-DEC3CC	"~{} "+**6*
+DEC3CC	"~{|!"+**6*
 DEC3CD	"SiO7 "***\-
 DEC3CE	"RiO7 "***\-
 DEC3CF	"QiO7 "***\-
@@ -979,7 +979,7 @@ DEC3D1	"OiO7 "***\-
 DEC3D2	"NiO7 "***\-
 DEC3D3	"MiO7 "***\-
 DEC3D4	"LiO7 "***\-
-DEC3D5	"KiO7 "***\-
+DEC3D5	"z{ym"**\-9*
 DEC3D6	"JiO7 "***\-
 DEC3D7	"IiO7 "***\-
 DEC3D8	"HiO7 "***\-
@@ -988,7 +988,7 @@ DEC3DA	"FiO7 "***\-
 DEC3DB	"EiO7 "***\-
 DEC3DC	"DiO7 "***\-
 DEC3DD	"CiO7 "***\-
-DEC3DE	"BiO7 "***\-
+DEC3DE	"y{ym"**\-9*
 DEC3DF	"AiO7 "***\-
 DEC3E0	"@iO7 "***\-
 DEC3E1	"?iO7 "***\-
@@ -997,7 +997,7 @@ DEC3E3	"=iO7 "***\-
 DEC3E4	"|/~='"*+**
 DEC3E5	";iO7 "***\-
 DEC3E6	"~|V%%"***+
-DEC3E7	"9iO7 "***\-
+DEC3E7	"x{ym"**\-9*
 DEC3E8	"8iO7 "***\-
 DEC3E9	"7iO7 "***\-
 DEC3EA	"6iO7 "***\-
@@ -1006,7 +1006,7 @@ DEC3EC	"4iO7 "***\-
 DEC3ED	"3iO7 "***\-
 DEC3EE	"2iO7 "***\-
 DEC3EF	"1iO7 "***\-
-DEC3F0	"0iO7 "***\-
+DEC3F0	"w{ym"**\-9*
 DEC3F1	"/iO7 "***\-
 DEC3F2	".iO7 "***\-
 DEC3F3	"-iO7 "***\-
@@ -1015,7 +1015,7 @@ DEC3F5	"+iO7 "***\-
 DEC3F6	"*iO7 "***\-
 DEC3F7	")iO7 "***\-
 DEC3F8	"(iO7 "***\-
-DEC3F9	"'iO7 "***\-
+DEC3F9	"v{ym"**\-9*
 DEC3FA	"&iO7 "***\-
 DEC3FB	"%iO7 "***\-
 DEC3FC	"$iO7 "***\-
@@ -1069,7 +1069,7 @@ DEC42B	"UrW. "***\-
 DEC42C	"TrW. "***\-
 DEC42D	"SrW. "***\-
 DEC42E	"RrW. "***\-
-DEC42F	"QrW. "***\-
+DEC42F	"p{ym"**\-9*
 DEC430	"PrW. "***\-
 DEC431	"OrW. "***\-
 DEC432	"NrW. "***\-
@@ -1105,7 +1105,7 @@ DEC44F	"1rW. "***\-
 DEC450	"0rW. "***\-
 DEC451	"/rW. "***\-
 DEC452	".rW. "***\-
-DEC453	"-rW. "***\-
+DEC453	"l{ym"**\-9*
 DEC454	",rW. "***\-
 DEC455	"+rW. "***\-
 DEC456	"*rW. "***\-
@@ -1114,7 +1114,7 @@ DEC458	"(rW. "***\-
 DEC459	"'rW. "***\-
 DEC45A	"&rW. "***\-
 DEC45B	"%rW. "***\-
-DEC45C	"$rW. "***\-
+DEC45C	"k{ym"**\-9*
 DEC45D	"#rW. "***\-
 DEC45E	"q}G/#"***\-
 DEC45F	"!rW. "***\-
@@ -1294,7 +1294,7 @@ DEC50C	"rve##"***\-
 DEC50D	"qve##"***\-
 DEC50E	"pve##"***\-
 DEC50F	"ove##"***\-
-DEC510	"xQ~ +"*+**
+DEC510	"x~|l"*+*9*
 DEC511	"mve##"***\-
 DEC512	"lve##"***\-
 DEC513	"kve##"***\-
@@ -1582,7 +1582,7 @@ DEC62C	"$|::#"***\-
 DEC62D	"#|::#"***\-
 DEC62E	"wu;/-"***\-
 DEC62F	"!|::#"***\-
-DEC630	" |::#"***\-
+DEC630	"7{ym"**\-9*
 DEC631	"tu;/-"***\-
 DEC632	"G~h4&"**+*
 DEC633	"ru;/-"***\-
@@ -1672,7 +1672,7 @@ DEC686	":~G3 "***\-
 DEC687	"9~G3 "***\-
 DEC688	"8~G3 "***\-
 DEC689	"7~G3 "***\-
-DEC68A	"6~G3 "***\-
+DEC68A	"-{ym"**\-9*
 DEC68B	"5~G3 "***\-
 DEC68C	"4~G3 "***\-
 DEC68D	"3~G3 "***\-
@@ -1681,7 +1681,7 @@ DEC68F	"1~G3 "***\-
 DEC690	"0~G3 "***\-
 DEC691	"/~G3 "***\-
 DEC692	".~G3 "***\-
-DEC693	"-~G3 "***\-
+DEC693	",{ym"**\-9*
 DEC694	",~G3 "***\-
 DEC695	"+~G3 "***\-
 DEC696	"*~G3 "***\-
@@ -1744,7 +1744,7 @@ DEC6CE	"2kh) "***\-
 DEC6CF	"1kh) "***\-
 DEC6D0	"0kh) "***\-
 DEC6D1	"/kh) "***\-
-DEC6D2	".kh) "***\-
+DEC6D2	"%{ym"**\-9*
 DEC6D3	"-kh) "***\-
 DEC6D4	",kh) "***\-
 DEC6D5	"+kh) "***\-
@@ -1771,7 +1771,7 @@ DEC6E9	"vX&%"***9+
 DEC6EA	"V}I2 "***\-
 DEC6EB	"7~eG%"**+*
 DEC6EC	"T}I2 "***\-
-DEC6ED	"S}I2 "***\-
+DEC6ED	"%~}g"**\-9*
 DEC6EE	"R}I2 "***\-
 DEC6EF	"Q}I2 "***\-
 DEC6F0	"P}I2 "***\-
@@ -1780,7 +1780,7 @@ DEC6F2	"N}I2 "***\-
 DEC6F3	"M}I2 "***\-
 DEC6F4	"L}I2 "***\-
 DEC6F5	"K}I2 "***\-
-DEC6F6	"J}I2 "***\-
+DEC6F6	"!{ym"**\-9*
 DEC6F7	"kh )"***9-
 DEC6F8	"kh )"***8-
 DEC6F9	"kh )"***7-
@@ -1807,7 +1807,7 @@ DEC70D	"3}I2 "***\-
 DEC70E	"2}I2 "***\-
 DEC70F	"1}I2 "***\-
 DEC710	"0}I2 "***\-
-DEC711	"/}I2 "***\-
+DEC711	"!~}g"**\-9*
 DEC712	".}I2 "***\-
 DEC713	"-}I2 "***\-
 DEC714	",}I2 "***\-
@@ -1887,13 +1887,13 @@ DEC75D	"]kh) "***+
 DEC75E	"~vX&%"***+
 DEC75F	"_kh) "***+
 DEC760	"\S~/&"*+**
-DEC761	"!}I2 "***+
-DEC762	"bkh) "***+
-DEC763	"#}I2 "***+
-DEC764	"$}I2 "***+
-DEC765	" mY+#"***+
+DEC761	"])"*8+:*8-
+DEC762	"])"*8+:*7-
+DEC763	"])"*8+:*6-
+DEC764	"])"*8+:*5-
+DEC765	"])"*8+:*4-
 DEC766	"!mY+#"***+
-DEC767	"'}I2 "***+
+DEC767	"])"*8+:*2-
 DEC768	"x[~A"+**7*
 DEC769	"])"*8+:*
 DEC76A	"%mY+#"***+
@@ -1916,7 +1916,7 @@ DEC77A	"qa%$"***6+
 DEC77B	"qa%$"***7+
 DEC77C	"qa%$"***8+
 DEC77D	"qa%$"***9+
-DEC77E	"~kh )"***+
+DEC77E	"9mY+#"***+
 DEC77F	":mY+#"***+
 DEC780	";mY+#"***+
 DEC781	"<mY+#"***+
@@ -1924,7 +1924,7 @@ DEC782	"=mY+#"***+
 DEC783	">mY+#"***+
 DEC784	"?mY+#"***+
 DEC785	"@mY+#"***+
-DEC786	"]~r +"**+*
+DEC786	"AmY+#"***+
 DEC787	"BmY+#"***+
 DEC788	"CmY+#"***+
 DEC789	"I~})'"**+*

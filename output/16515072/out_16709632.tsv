@@ -380,7 +380,7 @@ FEF97A	"OMC)"***9+
 FEF97B	"OMC)"***1+9+
 FEF97C	" wD;#"***+
 FEF97D	"!wD;#"***+
-FEF97E	"J%~+k "+*+**
+FEF97E	"J%~+j!"+*+**
 FEF97F	"i+~A7"*+**
 FEF980	"$wD;#"***+
 FEF981	"%wD;#"***+
@@ -530,21 +530,21 @@ FEFA10	"`\,+"***7+9+
 FEFA11	"`\,+"***8+9+
 FEFA12	"`\,+"***9+9+
 FEFA13	"$ka.#"***\-9+
-FEFA14	"\+! "***5+4*
-FEFA15	"\,+ "***7+3*
+FEFA14	"\XV"**6*5+4*
+FEFA15	"\XV"**8*7+3*
 FEFA16	"!ka.#"***\-9+
 FEFA17	" \VB "***+9-
 FEFA18	"\XV"**1+8*3*
 FEFA19	"sk~D"+**3-7*
-FEFA1A	" \VB "***+6-
-FEFA1B	" \VB "***+5-
-FEFA1C	" \VB "***+4-
+FEFA1A	"ka."**7*4-5*
+FEFA1B	"\XV"**8*9+3*
+FEFA1C	"ska"**7*9-2*
 FEFA1D	" \VB "***+3-
-FEFA1E	" \VB "***+2-
-FEFA1F	" \VB "***+1-
+FEFA1E	"ska"**7*8-2*
+FEFA1F	"ka."**7*3-5*
 FEFA20	" \VB "***+
 FEFA21	"!\VB "***+
-FEFA22	" \VB "***+2+
+FEFA22	"ska"**7*6-2*
 FEFA23	"#\VB "***+
 FEFA24	"$\VB "***+
 FEFA25	"ka.#"***9-
@@ -630,7 +630,7 @@ FEFA74	"|aa0%"***\-
 FEFA75	"{aa0%"***\-
 FEFA76	"zaa0%"***\-
 FEFA77	"yaa0%"***\-
-FEFA78	"tjw "+**9*
+FEFA78	"tjv!"+**9*
 FEFA79	"waa0%"***\-
 FEFA7A	"vaa0%"***\-
 FEFA7B	"uaa0%"***\-
@@ -1893,7 +1893,7 @@ FEFF63	"Q~k/)"**+*8+
 FEFF64	"Q~k/)"**+*9+
 FEFF65	"vg7"**9-5*5*
 FEFF66	"#yS4 "***\-9+
-FEFF67	"!yS4 "***\-8+
+FEFF67	"UwXL"**\-7*3*
 FEFF68	"yh~("+**3-8*
 FEFF69	" yS4 "***\-9+
 FEFF6A	"+3)%$"***+6*

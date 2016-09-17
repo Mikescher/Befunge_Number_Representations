@@ -6,7 +6,7 @@ BFE804	"`Y. "***4+
 BFE805	"`Y. "***5+
 BFE806	"`Y. "***6+
 BFE807	"`Y. "***7+
-BFE808	"`Y. "***8+
+BFE808	"Aytp"**+8*
 BFE809	"`Y. "***9+
 BFE80A	".S>4/"***\-
 BFE80B	"-S>4/"***\-
@@ -354,7 +354,7 @@ BFE960	"lytp"**+8*
 BFE961	"gzG,!"***\-
 BFE962	"fzG,!"***\-
 BFE963	"ezG,!"***\-
-BFE964	"gb~ #"*+**
+BFE964	"gbY"**7*2*
 BFE965	"}!~O%"*+**
 BFE966	"bzG,!"***\-
 BFE967	"azG,!"***\-
@@ -442,7 +442,7 @@ BFE9B8	"wytp"**+8*
 BFE9B9	"!WV))"***\-
 BFE9BA	" WV))"***\-
 BFE9BB	"EUDD "***\-
-BFE9BC	"DUDD "***\-
+BFE9BC	"Ryni"**\-9*
 BFE9BD	"CUDD "***\-
 BFE9BE	"a~\ ,"**+*
 BFE9BF	"zG,!"***9-
@@ -469,7 +469,7 @@ BFE9D3	"_C4&"***5-
 BFE9D4	"_C4&"***4-
 BFE9D5	"_C4&"***3-
 BFE9D6	"_C4&"***2-
-BFE9D7	"qSu "+**9*
+BFE9D7	"_C4&"***1-
 BFE9D8	"_C4&"***
 BFE9D9	"_C4&"***1+
 BFE9DA	"WV))"***
@@ -505,17 +505,17 @@ BFE9F7	"51~Y5"*+**
 BFE9F8	"UD D"***8-
 BFE9F9	"UD D"***7-
 BFE9FA	"UD D"***6-
-BFE9FB	"UD D"***5-
+BFE9FB	"|sb"**5-9*
 BFE9FC	"UD D"***4-
 BFE9FD	"UD D"***3-
-BFE9FE	"UD D"***2-
+BFE9FE	"~|s"**6-7*
 BFE9FF	"UD D"***1-
 BFEA00	"UD D"***
 BFEA01	"UD D"***1+
 BFEA02	"UD D"***2+
 BFEA03	"UD D"***3+
-BFEA04	"UD D"***4+
-BFEA05	"=+#i "+***
+BFEA04	"|sb"**4-9*
+BFEA05	"=+#h!"+***
 BFEA06	"UD D"***6+
 BFEA07	"UD D"***7+
 BFEA08	"UD D"***8+
@@ -788,7 +788,7 @@ BFEB12	"$O=:-"***\-
 BFEB13	"#O=:-"***\-
 BFEB14	"@vU&!"***\-
 BFEB15	"!O=:-"***\-
-BFEB16	" O=:-"***\-
+BFEB16	"Q}}s"**\-7*
 BFEB17	"=vU&!"***\-
 BFEB18	"<vU&!"***\-
 BFEB19	";vU&!"***\-
@@ -978,7 +978,7 @@ BFEBD0	"fMC5."***+
 BFEBD1	"gMC5."***+
 BFEBD2	"hMC5."***+
 BFEBD3	"iMC5."***+
-BFEBD4	"jO~ +"*+**
+BFEBD4	"jMC5."***+
 BFEBD5	"kMC5."***+
 BFEBD6	"lMC5."***+
 BFEBD7	"mMC5."***+
@@ -1063,7 +1063,7 @@ BFEC25	"y~///"**+*
 BFEC26	"xni!!"***\-
 BFEC27	"wni!!"***\-
 BFEC28	"vni!!"***\-
-BFEC29	"eei "+**9*
+BFEC29	"eeh!"+**9*
 BFEC2A	"tni!!"***\-
 BFEC2B	"sni!!"***\-
 BFEC2C	"rni!!"***\-
@@ -1526,11 +1526,11 @@ BFEDF4	"~v^"**4-9*
 BFEDF5	"#~;/$"***\-
 BFEDF6	"BgG+("***\-
 BFEDF7	"!~;/$"***\-
-BFEDF8	" ~;/$"***\-
+BFEDF8	"lysq"**\-8*
 BFEDF9	"?gG+("***\-
 BFEDFA	">gG+("***\-
 BFEDFB	"=gG+("***\-
-BFEDFC	"wdw "+**7*
+BFEDFC	"wdv!"+**7*
 BFEDFD	"~v^"**3-9*
 BFEDFE	":gG+("***\-
 BFEDFF	"9gG+("***\-
@@ -1796,7 +1796,7 @@ BFEF02	"EE~D%"*+**
 BFEF03	"Xa_'#"***+
 BFEF04	"Ya_'#"***+
 BFEF05	"Za_'#"***+
-BFEF06	"zgo "+**7*
+BFEF06	"zgn!"+**7*
 BFEF07	"\a_'#"***+
 BFEF08	"]a_'#"***+
 BFEF09	"^a_'#"***+
@@ -1998,7 +1998,7 @@ BFEFCC	"$vA)("***\-
 BFEFCD	"#vA)("***\-
 BFEFCE	"*|:5!"***\-
 BFEFCF	"!vA)("***\-
-BFEFD0	" vA)("***\-
+BFEFD0	"1ysq"**\-8*
 BFEFD1	"\}}s"**+7*
 BFEFD2	"&|:5!"***\-
 BFEFD3	"%|:5!"***\-
@@ -2008,13 +2008,13 @@ BFEFD6	"*SJ@ "***\-
 BFEFD7	"!|:5!"***\-
 BFEFD8	"wI~7"+**8*
 BFEFD9	"'SJ@ "***\-
-BFEFDA	"&SJ@ "***\-
+BFEFDA	"Dvsg"**\-9*
 BFEFDB	"%SJ@ "***\-
 BFEFDC	"$SJ@ "***\-
 BFEFDD	"#SJ@ "***\-
 BFEFDE	"qWQ3#"***\-
 BFEFDF	"^}}s"**+7*
-BFEFE0	" SJ@ "***\-
+BFEFE0	"/ysq"**\-8*
 BFEFE1	"nWQ3#"***\-
 BFEFE2	"mWQ3#"***\-
 BFEFE3	"lWQ3#"***\-
@@ -2037,12 +2037,12 @@ BFEFF3	"vA)("***3+
 BFEFF4	"vA)("***4+
 BFEFF5	"vA)("***5+
 BFEFF6	"vA)("***6+
-BFEFF7	"SJ @"***9-
+BFEFF7	"vA)("***7+
 BFEFF8	"|:5!"***
-BFEFF9	"SJ @"***7-
-BFEFFA	"SJ @"***6-
-BFEFFB	"SJ @"***5-
-BFEFFC	"SJ @"***4-
-BFEFFD	"SJ @"***3-
-BFEFFE	"SJ @"***2-
-BFEFFF	"SJ @"***1-
+BFEFF9	"vA)("***9+
+BFEFFA	"|:5!"***2+
+BFEFFB	"|:5!"***3+
+BFEFFC	"|:5!"***4+
+BFEFFD	"|:5!"***5+
+BFEFFE	"|:5!"***6+
+BFEFFF	"|:5!"***7+

@@ -53,15 +53,15 @@ ECC033	"ERGA)"***+
 ECC034	"FRGA)"***+
 ECC035	"GRGA)"***+
 ECC036	"HRGA)"***+
-ECC037	"{I6 "***9-
-ECC038	"{I6 "***8-
-ECC039	"{I6 "***7-
-ECC03A	"{I6 "***6-
-ECC03B	"{I6 "***5-
-ECC03C	"{I6 "***4-
-ECC03D	"{I6 "***3-
-ECC03E	"{I6 "***2-
-ECC03F	"{I6 "***1-
+ECC037	"e'"*:*9-9-
+ECC038	"e'"*:*9-8-
+ECC039	"e'"*:*9-7-
+ECC03A	"e'"*:*9-6-
+ECC03B	"e'"*:*9-5-
+ECC03C	"e'"*:*9-4-
+ECC03D	"e'"*:*9-3-
+ECC03E	"e'"*:*9-2-
+ECC03F	"e'"*:*9-1-
 ECC040	"e'"*:*9-
 ECC041	"e'"*:*8-
 ECC042	"e'"*:*7-
@@ -225,7 +225,7 @@ ECC0DF	"kj&$"***6+9+
 ECC0E0	"{I6"**5+8*4*
 ECC0E1	"kj&$"***8+9+
 ECC0E2	"{`I"**9+9*2*
-ECC0E3	"_/k "+**5*5*
+ECC0E3	"_/j!"+**5*5*
 ECC0E4	"RQI) "***+2*
 ECC0E5	"rkj"**4*7+3*
 ECC0E6	"SQI) "***+2*
@@ -233,14 +233,14 @@ ECC0E7	" kj&$"***+9-
 ECC0E8	"rkj"**2+6*2*
 ECC0E9	" kj&$"***+7-
 ECC0EA	"~~RGA)"***++
-ECC0EB	"kjx "+**3+9*
+ECC0EB	"rkj"**4*9+3*
 ECC0EC	" kj&$"***+4-
 ECC0ED	"mS1"**8+7*5*
 ECC0EE	"rk~V"+**5+6*
 ECC0EF	" kj&$"***+1-
 ECC0F0	" kj&$"***+
 ECC0F1	"!kj&$"***+
-ECC0F2	" kj&$"***+2+
+ECC0F2	"C{wj"**+5*2*
 ECC0F3	"#kj&$"***+
 ECC0F4	"$kj&$"***+
 ECC0F5	"%kj&$"***+
@@ -422,7 +422,7 @@ ECC1A4	"4a]+("***\-
 ECC1A5	"3a]+("***\-
 ECC1A6	"2a]+("***\-
 ECC1A7	"1a]+("***\-
-ECC1A8	"yui "+**8*
+ECC1A8	"yuh!"+**8*
 ECC1A9	"/a]+("***\-
 ECC1AA	".a]+("***\-
 ECC1AB	"-a]+("***\-
@@ -501,15 +501,15 @@ ECC1F3	"mI2'"***3-
 ECC1F4	"mI2'"***2-
 ECC1F5	"mI2'"***1-
 ECC1F6	"mI2'"***
-ECC1F7	"tn &"***9-
-ECC1F8	"tn &"***8-
-ECC1F9	"tn &"***7-
-ECC1FA	"tn &"***6-
-ECC1FB	"tn &"***5-
-ECC1FC	"tn &"***4-
-ECC1FD	"tn &"***3-
-ECC1FE	"tn &"***2-
-ECC1FF	"tn &"***1-
+ECC1F7	"mI2'"***1+
+ECC1F8	"mI2'"***2+
+ECC1F9	"mI2'"***3+
+ECC1FA	"mI2'"***4+
+ECC1FB	"mI2'"***5+
+ECC1FC	"mI2'"***6+
+ECC1FD	"mI2'"***7+
+ECC1FE	"mI2'"***8+
+ECC1FF	"mI2'"***9+
 ECC200	"tn &"***
 ECC201	"tn &"***1+
 ECC202	"tn &"***2+
@@ -1169,7 +1169,7 @@ ECC48F	"1cO> "***\-
 ECC490	"0cO> "***\-
 ECC491	"/cO> "***\-
 ECC492	".cO> "***\-
-ECC493	"{kc "+**9*
+ECC493	"{kb!"+**9*
 ECC494	",cO> "***\-
 ECC495	"+cO> "***\-
 ECC496	"*cO> "***\-
@@ -1202,7 +1202,7 @@ ECC4B0	"2yC:!"***+
 ECC4B1	"3yC:!"***+
 ECC4B2	"4yC:!"***+
 ECC4B3	"5yC:!"***+
-ECC4B4	"f~} &"**+*
+ECC4B4	"6yC:!"***+
 ECC4B5	"7yC:!"***+
 ECC4B6	"8yC:!"***+
 ECC4B7	"cO> "***9-
@@ -1799,7 +1799,7 @@ ECC705	"{kg, "***\-
 ECC706	"zkg, "***\-
 ECC707	"ykg, "***\-
 ECC708	"xkg, "***\-
-ECC709	"wkg, "***\-
+ECC709	"Y}yr"**\-9*
 ECC70A	"vkg, "***\-
 ECC70B	"ukg, "***\-
 ECC70C	"tkg, "***\-
@@ -1817,7 +1817,7 @@ ECC717	"ikg, "***\-
 ECC718	"hkg, "***\-
 ECC719	"gkg, "***\-
 ECC71A	"fkg, "***\-
-ECC71B	"ekg, "***\-
+ECC71B	"W}yr"**\-9*
 ECC71C	"dkg, "***\-
 ECC71D	"ckg, "***\-
 ECC71E	"bkg, "***\-
@@ -1826,7 +1826,7 @@ ECC720	"`kg, "***\-
 ECC721	"_kg, "***\-
 ECC722	"^kg, "***\-
 ECC723	"]kg, "***\-
-ECC724	"\kg, "***\-
+ECC724	"V}yr"**\-9*
 ECC725	"[kg, "***\-
 ECC726	"Zkg, "***\-
 ECC727	"Ykg, "***\-
@@ -1835,7 +1835,7 @@ ECC729	"Wkg, "***\-
 ECC72A	"Vkg, "***\-
 ECC72B	"Ukg, "***\-
 ECC72C	"Tkg, "***\-
-ECC72D	"Skg, "***\-
+ECC72D	"U}yr"**\-9*
 ECC72E	"Rkg, "***\-
 ECC72F	"Qkg, "***\-
 ECC730	"Pkg, "***\-
@@ -1844,7 +1844,7 @@ ECC732	"Nkg, "***\-
 ECC733	"Mkg, "***\-
 ECC734	"Lkg, "***\-
 ECC735	"Kkg, "***\-
-ECC736	"Jkg, "***\-
+ECC736	"T}yr"**\-9*
 ECC737	"Ikg, "***\-
 ECC738	"Hkg, "***\-
 ECC739	"Gkg, "***\-
@@ -1853,7 +1853,7 @@ ECC73B	"Ekg, "***\-
 ECC73C	"Dkg, "***\-
 ECC73D	"Ckg, "***\-
 ECC73E	"Bkg, "***\-
-ECC73F	"Akg, "***\-
+ECC73F	"S}yr"**\-9*
 ECC740	"@kg, "***\-
 ECC741	"?kg, "***\-
 ECC742	">kg, "***\-
@@ -1862,7 +1862,7 @@ ECC744	"<kg, "***\-
 ECC745	";kg, "***\-
 ECC746	":kg, "***\-
 ECC747	"9kg, "***\-
-ECC748	"8kg, "***\-
+ECC748	"R}yr"**\-9*
 ECC749	"7kg, "***\-
 ECC74A	"6kg, "***\-
 ECC74B	"5kg, "***\-
@@ -1871,7 +1871,7 @@ ECC74D	"3kg, "***\-
 ECC74E	"2kg, "***\-
 ECC74F	"1kg, "***\-
 ECC750	"0kg, "***\-
-ECC751	"/kg, "***\-
+ECC751	"Q}yr"**\-9*
 ECC752	".kg, "***\-
 ECC753	"-kg, "***\-
 ECC754	",kg, "***\-
@@ -1880,7 +1880,7 @@ ECC756	"*kg, "***\-
 ECC757	")kg, "***\-
 ECC758	"(kg, "***\-
 ECC759	"'kg, "***\-
-ECC75A	"&kg, "***\-
+ECC75A	"P}yr"**\-9*
 ECC75B	"%kg, "***\-
 ECC75C	"$kg, "***\-
 ECC75D	"#kg, "***\-

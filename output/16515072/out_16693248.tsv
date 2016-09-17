@@ -8,15 +8,15 @@ FEB806	"rh ,"***6+
 FEB807	"rh ,"***7+
 FEB808	"rh ,"***8+
 FEB809	"rh ,"***9+
-FEB80A	"rh ,"***1+9+
+FEB80A	"rhX"**8*5+2*
 FEB80B	"rh ,"***2+9+
 FEB80C	"C5~K="*+**9+
 FEB80D	"rh ,"***4+9+
-FEB80E	"rh ,"***5+9+
-FEB80F	"rh ,"***6+9+
-FEB810	"rh ,"***7+9+
+FEB80E	"rhX"**8*7+2*
+FEB80F	"hXL"**8*5+3*
+FEB810	"rhX"**1+8*2*
 FEB811	"rh ,"***8+9+
-FEB812	"rh ,"***9+9+
+FEB812	"rhX"**8*9+2*
 FEB813	"KI~O%"*+**8-
 FEB814	"KI~O%"*+**7-
 FEB815	"KI~O%"*+**6-
@@ -410,7 +410,7 @@ FEB998	"F[JC%"***+
 FEB999	"G[JC%"***+
 FEB99A	"H[JC%"***+
 FEB99B	"I[JC%"***+
-FEB99C	"UJ~ O"*+**
+FEB99C	"J[JC%"***+
 FEB99D	"K[JC%"***+
 FEB99E	"L[JC%"***+
 FEB99F	"M[JC%"***+
@@ -511,7 +511,7 @@ FEB9FD	"v}G9!"***\-
 FEB9FE	"u}G9!"***\-
 FEB9FF	"t}G9!"***\-
 FEBA00	"s}G9!"***\-
-FEBA01	"91+k "+***
+FEBA01	"91+j!"+***
 FEBA02	"q}G9!"***\-
 FEBA03	"p}G9!"***\-
 FEBA04	"o}G9!"***\-
@@ -962,7 +962,7 @@ FEBBC0	"sS5!"***3+
 FEBBC1	"sS5!"***4+
 FEBBC2	"sS5!"***5+
 FEBBC3	"sS5!"***6+
-FEBBC4	"^~v /"**+*
+FEBBC4	"sS5!"***7+
 FEBBC5	"sS5!"***8+
 FEBBC6	"sS5!"***9+
 FEBBC7	"(YK=)"***+
@@ -1335,7 +1335,7 @@ FEBD35	"Uu[1 "***+
 FEBD36	"Vu[1 "***+
 FEBD37	"Wu[1 "***+
 FEBD38	"Xu[1 "***+
-FEBD39	"G)%{ "+***
+FEBD39	"G)%z!"+***
 FEBD3A	"Zu[1 "***+
 FEBD3B	"[u[1 "***+
 FEBD3C	"\u[1 "***+
@@ -1390,7 +1390,7 @@ FEBD6C	"ayq%!"***\-
 FEBD6D	"`yq%!"***\-
 FEBD6E	"_yq%!"***\-
 FEBD6F	"^yq%!"***\-
-FEBD70	"xvc "+**9*
+FEBD70	"xvb!"+**9*
 FEBD71	"\yq%!"***\-
 FEBD72	"[yq%!"***\-
 FEBD73	"2/"*9+:*3*
@@ -1453,7 +1453,7 @@ FEBDAB	"+yq%!"***\-9+
 FEBDAC	"!yq%!"***\-
 FEBDAD	" yq%!"***\-
 FEBDAE	"g[41$"***+2*
-FEBDAF	"xvc "+**7+9*
+FEBDAF	"xvb!"+**7+9*
 FEBDB0	"h[41$"***+2*
 FEBDB1	"kOO"**5*6+5*
 FEBDB2	"yI-"**8+7*6*
@@ -1461,7 +1461,7 @@ FEBDB3	"#yq%!"***\-9+
 FEBDB4	"j[41$"***+2*
 FEBDB5	"!yq%!"***\-9+
 FEBDB6	"k[41$"***+2*
-FEBDB7	"~G)%{ "+***+
+FEBDB7	"~G)%z!"+***+
 FEBDB8	"b[N"**9+8*3*
 FEBDB9	"t;##!"***\-7*
 FEBDBA	"}^E'!"***\-2*
@@ -1471,16 +1471,16 @@ FEBDBD	"yq%!"***9-7-
 FEBDBE	"yq%!"***9-6-
 FEBDBF	"yq%!"***9-5-
 FEBDC0	"t~eF"*+*5*4*
-FEBDC1	"u_~ +"*+**9-
-FEBDC2	"u_~ +"*+**8-
-FEBDC3	"u_~ +"*+**7-
+FEBDC1	"yq%!"***9-3-
+FEBDC2	"yq%!"***9-2-
+FEBDC3	"yq%!"***9-1-
 FEBDC4	"yq%!"***9-
 FEBDC5	"yq%!"***8-
 FEBDC6	"yq%!"***7-
 FEBDC7	"yq%!"***6-
 FEBDC8	"yq%!"***5-
 FEBDC9	"yq%!"***4-
-FEBDCA	"u_~ +"*+**
+FEBDCA	"yq%!"***3-
 FEBDCB	"yq%!"***2-
 FEBDCC	"yq%!"***1-
 FEBDCD	"yq%!"***

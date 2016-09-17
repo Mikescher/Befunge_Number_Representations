@@ -62,7 +62,7 @@ EED03C	" [I>&"***\-
 EED03D	"Lg=5/"***\-
 EED03E	"Kg=5/"***\-
 EED03F	"Jg=5/"***\-
-EED040	"xwi "+**8*
+EED040	"xwh!"+**8*
 EED041	"Hg=5/"***\-
 EED042	"Gg=5/"***\-
 EED043	"Fg=5/"***\-
@@ -440,7 +440,7 @@ EED1B6	"6dIC "***+
 EED1B7	"7dIC "***+
 EED1B8	"8dIC "***+
 EED1B9	"9dIC "***+
-EED1BA	"{zu "+**7*
+EED1BA	"{zt!"+**7*
 EED1BB	";dIC "***+
 EED1BC	"<dIC "***+
 EED1BD	"=dIC "***+
@@ -656,7 +656,7 @@ EED28E	"gC?$"***2+
 EED28F	"gC?$"***3+
 EED290	"gC?$"***4+
 EED291	"gC?$"***5+
-EED292	"W~j 5"**+*
+EED292	"gC?$"***6+
 EED293	"gC?$"***7+
 EED294	"gC?$"***8+
 EED295	"gC?$"***9+
@@ -1984,7 +1984,7 @@ EED7BE	"MYKC#"***\-
 EED7BF	"tC5&"***9-
 EED7C0	"tC5&"***8-
 EED7C1	"tC5&"***7-
-EED7C2	"yG~ 5"*+**
+EED7C2	"tC5&"***6-
 EED7C3	"tC5&"***5-
 EED7C4	"tC5&"***4-
 EED7C5	"tC5&"***3-

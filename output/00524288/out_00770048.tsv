@@ -1,4 +1,4 @@
-BC000	"^@` "+**
+BC000	"^@_!"+**
 BC001	"|s6"**9+
 BC002	"yVJ"**6+
 BC003	"~sgA"**+
@@ -27,7 +27,7 @@ BC019	"4}e="**\-
 BC01A	"S~hX"*+*
 BC01B	"2}e="**\-
 BC01C	"1}e="**\-
-BC01D	"MIi "+**
+BC01D	"MIh!"+**
 BC01E	"/}e="**\-
 BC01F	".}e="**\-
 BC020	"P~}L"*+*
@@ -35,7 +35,7 @@ BC021	",}e="**\-
 BC022	"+}e="**\-
 BC023	"*}e="**\-
 BC024	")}e="**\-
-BC025	"m-} "+**
+BC025	"m-|!"+**
 BC026	"'}e="**\-
 BC027	"&}e="**\-
 BC028	"X~}E"*+*
@@ -45,12 +45,12 @@ BC02B	"*][["**\-
 BC02C	"!}e="**\-
 BC02D	" }e="**\-
 BC02E	"'][["**\-
-BC02F	"q/q "+**
+BC02F	"q/p!"+**
 BC030	"%][["**\-
 BC031	"$][["**\-
 BC032	"C~tb"*+*
 BC033	"By_C"**\-
-BC034	"f2w "+**
+BC034	"f2v!"+**
 BC035	" ][["**\-
 BC036	"?y_C"**\-
 BC037	">y_C"**\-
@@ -62,7 +62,7 @@ BC03C	"9y_C"**\-
 BC03D	"8y_C"**\-
 BC03E	"n~}7"*+*
 BC03F	"6y_C"**\-
-BC040	"~ ~A"+**
+BC040	"~~RI"*+*
 BC041	"4y_C"**\-
 BC042	"3y_C"**\-
 BC043	"2y_C"**\-
@@ -230,7 +230,7 @@ BC0E4	" zRM"**\-
 BC0E5	"lsWM"**\-
 BC0E6	"ksWM"**\-
 BC0E7	"jsWM"**\-
-BC0E8	"x1c "+**
+BC0E8	"x1b!"+**
 BC0E9	"hsWM"**\-
 BC0EA	"gsWM"**\-
 BC0EB	"fsWM"**\-
@@ -280,7 +280,7 @@ BC116	";sWM"**\-
 BC117	":sWM"**\-
 BC118	"9sWM"**\-
 BC119	"O1~I"+**
-BC11A	"n/u "+**
+BC11A	"n/t!"+**
 BC11B	"6sWM"**\-
 BC11C	"5sWM"**\-
 BC11D	"4sWM"**\-
@@ -300,12 +300,12 @@ BC12A	"'sWM"**\-
 BC12B	"&sWM"**\-
 BC12C	"%sWM"**\-
 BC12D	"$sWM"**\-
-BC12E	"GF{ "+**
+BC12E	"GFz!"+**
 BC12F	"1xk<"**\-
 BC130	"!sWM"**\-
 BC131	" sWM"**\-
 BC132	".xk<"**\-
-BC133	"_5y "+**
+BC133	"_5x!"+**
 BC134	",xk<"**\-
 BC135	"+xk<"**\-
 BC136	"*xk<"**\-
@@ -438,7 +438,7 @@ BC1B4	"N~j\"*+*
 BC1B5	"KpVP"**\-
 BC1B6	"JpVP"**\-
 BC1B7	"IpVP"**\-
-BC1B8	"LJi "+**
+BC1B8	"LJh!"+**
 BC1B9	"GpVP"**\-
 BC1BA	"~~q5"*+*
 BC1BB	"}\C"**9-
@@ -503,7 +503,7 @@ BC1F5	"'t[I"**\-
 BC1F6	"&t[I"**\-
 BC1F7	"pVP"**9-
 BC1F8	"pVP"**8-
-BC1F9	"Q?w "+**
+BC1F9	"Q?v!"+**
 BC1FA	"pVP"**6-
 BC1FB	"pVP"**5-
 BC1FC	"pVP"**4-
@@ -566,7 +566,7 @@ BC234	"0|q7"**\-
 BC235	"!gWV"**\-
 BC236	"k~z:"*+*
 BC237	"-|q7"**\-
-BC238	"~,k "+**
+BC238	"~,j!"+**
 BC239	"+|q7"**\-
 BC23A	"*|q7"**\-
 BC23B	")|q7"**\-
@@ -575,7 +575,7 @@ BC23D	"meF"**9-
 BC23E	"meF"**8-
 BC23F	"meF"**7-
 BC240	"meF"**6-
-BC241	"}-i "+**
+BC241	"}-h!"+**
 BC242	"~}\C"**+
 BC243	"meF"**3-
 BC244	"meF"**2-
@@ -584,9 +584,9 @@ BC246	"meF"**
 BC247	"meF"**1+
 BC248	"meF"**2+
 BC249	"meF"**3+
-BC24A	"QGf "+**
+BC24A	"QGe!"+**
 BC24B	"meF"**5+
-BC24C	"RJ_ "+**
+BC24C	"RJ^!"+**
 BC24D	"meF"**7+
 BC24E	"meF"**8+
 BC24F	"meF"**9+
@@ -611,7 +611,7 @@ BC261	"|q7"**3-
 BC262	"v~i="*+*
 BC263	"|q7"**1-
 BC264	"|q7"**
-BC265	"IEy "+**
+BC265	"IEx!"+**
 BC266	"|q7"**2+
 BC267	"|q7"**3+
 BC268	"|q7"**4+
@@ -623,7 +623,7 @@ BC26D	"|q7"**9+
 BC26E	"dybA"**\-
 BC26F	"cybA"**\-
 BC270	"bybA"**\-
-BC271	"o5c "+**
+BC271	"o5b!"+**
 BC272	"`ybA"**\-
 BC273	"_ybA"**\-
 BC274	"^ybA"**\-
@@ -654,7 +654,7 @@ BC28C	"FybA"**\-
 BC28D	"EybA"**\-
 BC28E	"DybA"**\-
 BC28F	"CybA"**\-
-BC290	"t,w "+**
+BC290	"t,v!"+**
 BC291	"GA~)"+**
 BC292	"^~uE"*+*
 BC293	"?ybA"**\-
@@ -671,7 +671,7 @@ BC29D	"5ybA"**\-
 BC29E	"4ybA"**\-
 BC29F	"3ybA"**\-
 BC2A0	"2ybA"**\-
-BC2A1	"k1s "+**
+BC2A1	"k1r!"+**
 BC2A2	">~sk"*+*
 BC2A3	"/ybA"**\-
 BC2A4	".ybA"**\-
@@ -685,7 +685,7 @@ BC2AB	"e~_O"*+*
 BC2AC	"V~^^"*+*
 BC2AD	"W~{G"*+*
 BC2AE	"$ybA"**\-
-BC2AF	"_=e "+**
+BC2AF	"_=d!"+**
 BC2B0	"(v\G"**\-
 BC2B1	"!ybA"**\-
 BC2B2	" ybA"**\-
@@ -712,8 +712,8 @@ BC2C6	"&zu6"**\-
 BC2C7	"%zu6"**\-
 BC2C8	"$zu6"**\-
 BC2C9	"ybA"**9-
-BC2CA	"a:i "+**
-BC2CB	"w3_ "+**
+BC2CA	"a:h!"+**
+BC2CB	"w3^!"+**
 BC2CC	"ybA"**6-
 BC2CD	"ybA"**5-
 BC2CE	"ybA"**4-
@@ -797,7 +797,7 @@ BC31B	"mhD"**5-
 BC31C	"mhD"**4-
 BC31D	"mhD"**3-
 BC31E	"mhD"**2-
-BC31F	"MGm "+**
+BC31F	"MGl!"+**
 BC320	"mhD"**
 BC321	"mhD"**1+
 BC322	"Z~aW"*+*
@@ -844,7 +844,7 @@ BC34A	"wRO"**8+
 BC34B	"wRO"**9+
 BC34C	"xyv6"**\-
 BC34D	"wyv6"**\-
-BC34E	"v/k "+**
+BC34E	"v/j!"+**
 BC34F	"lVS"**9-
 BC350	"lVS"**8-
 BC351	"lVS"**7-
@@ -885,7 +885,7 @@ BC373	"Qyv6"**\-
 BC374	"J~|S"*+*
 BC375	"Oyv6"**\-
 BC376	"Nyv6"**\-
-BC377	"k7c "+**
+BC377	"k7b!"+**
 BC378	"Lyv6"**\-
 BC379	"Kyv6"**\-
 BC37A	"Jyv6"**\-
@@ -956,7 +956,7 @@ BC3BA	"&zPO"**\-
 BC3BB	"yv6"**9-
 BC3BC	"yv6"**8-
 BC3BD	"yv6"**7-
-BC3BE	"o.w "+**
+BC3BE	"o.v!"+**
 BC3BF	"yv6"**5-
 BC3C0	"p~m>"*+*
 BC3C1	"yv6"**3-
@@ -986,7 +986,7 @@ BC3D8	"zPO"**8-
 BC3D9	"zPO"**7-
 BC3DA	"zPO"**6-
 BC3DB	"U/~C"+**
-BC3DC	"TCi "+**
+BC3DC	"TCh!"+**
 BC3DD	"zPO"**3-
 BC3DE	"zPO"**2-
 BC3DF	"Q9~)"+**
@@ -1016,16 +1016,16 @@ BC3F6	":~x3"**\-
 BC3F7	"]~sG"*+*
 BC3F8	"b~bO"*+*
 BC3F9	"7~x3"**\-
-BC3FA	"m6c "+**
+BC3FA	"m6b!"+**
 BC3FB	"5~x3"**\-
 BC3FC	"4~x3"**\-
 BC3FD	"3~x3"**\-
 BC3FE	"S~tO"*+*
 BC3FF	"1~x3"**\-
-BC400	"` ~}"+**
+BC400	"`~vC"*+*
 BC401	"/~x3"**\-
 BC402	".~x3"**\-
-BC403	"s-u "+**
+BC403	"s-t!"+**
 BC404	"V~hU"*+*
 BC405	"+~x3"**\-
 BC406	"M~g`"*+*
@@ -1094,7 +1094,7 @@ BC444	"F{r7"**\-
 BC445	"jaK"**9-
 BC446	"jaK"**8-
 BC447	"jaK"**7-
-BC448	"\B_ "+**
+BC448	"\B^!"+**
 BC449	"jaK"**5-
 BC44A	"jaK"**4-
 BC44B	"u'~+"+**
@@ -1112,7 +1112,7 @@ BC456	"jaK"**8+
 BC457	"jaK"**9+
 BC458	"2{r7"**\-
 BC459	"1{r7"**\-
-BC45A	"z1a "+**
+BC45A	"z1`!"+**
 BC45B	"/{r7"**\-
 BC45C	".{r7"**\-
 BC45D	"-{r7"**\-
@@ -1122,7 +1122,7 @@ BC460	"*{r7"**\-
 BC461	"){r7"**\-
 BC462	"({r7"**\-
 BC463	"'{r7"**\-
-BC464	"LIk "+**
+BC464	"LIj!"+**
 BC465	"%{r7"**\-
 BC466	"${r7"**\-
 BC467	"#{r7"**\-
@@ -1223,7 +1223,7 @@ BC4C5	"ug@"**5+
 BC4C6	"ug@"**6+
 BC4C7	"ug@"**7+
 BC4C8	"ug@"**8+
-BC4C9	"GGy "+**
+BC4C9	"GGx!"+**
 BC4CA	"Y~zF"*+*
 BC4CB	"zm:"**9-
 BC4CC	"zm:"**8-
@@ -1232,7 +1232,7 @@ BC4CE	"zm:"**6-
 BC4CF	"zm:"**5-
 BC4D0	"zm:"**4-
 BC4D1	"zm:"**3-
-BC4D2	"QEj "+**
+BC4D2	"QEi!"+**
 BC4D3	"zm:"**1-
 BC4D4	"zm:"**
 BC4D5	"zm:"**1+
@@ -1259,7 +1259,7 @@ BC4E9	"'paG"**\-
 BC4EA	"&paG"**\-
 BC4EB	";~yk"*+*
 BC4EC	"$paG"**\-
-BC4ED	"c5s "+**
+BC4ED	"c5r!"+**
 BC4EE	"5kYQ"**\-
 BC4EF	"!paG"**\-
 BC4F0	" paG"**\-
@@ -1278,7 +1278,7 @@ BC4FC	"r~SP"*+*
 BC4FD	"&kYQ"**\-
 BC4FE	"%kYQ"**\-
 BC4FF	"$kYQ"**\-
-BC500	"\@c "+**
+BC500	"\@b!"+**
 BC501	".}y3"**\-
 BC502	"i~_L"*+*
 BC503	" kYQ"**\-
@@ -1292,7 +1292,7 @@ BC50A	"q~dC"*+*
 BC50B	"paG"**5-
 BC50C	"paG"**4-
 BC50D	"paG"**3-
-BC50E	"]:o "+**
+BC50E	"]:n!"+**
 BC50F	"paG"**1-
 BC510	"paG"**
 BC511	"paG"**1+
@@ -1400,7 +1400,7 @@ BC576	"reC"**8+
 BC577	"reC"**9+
 BC578	"{p8"**8-
 BC579	"{p8"**7-
-BC57A	"o2k "+**
+BC57A	"o2j!"+**
 BC57B	"{p8"**5-
 BC57C	"Y,~G"+**
 BC57D	"{p8"**3-
@@ -1435,7 +1435,7 @@ BC599	"/|z3"**\-
 BC59A	".|z3"**\-
 BC59B	"-|z3"**\-
 BC59C	",|z3"**\-
-BC59D	"SAo "+**
+BC59D	"SAn!"+**
 BC59E	"*|z3"**\-
 BC59F	")|z3"**\-
 BC5A0	"(|z3"**\-
@@ -1448,7 +1448,7 @@ BC5A6	",aaR"**\-
 BC5A7	"_~{A"*+*
 BC5A8	"y~}2"*+*
 BC5A9	")aaR"**\-
-BC5AA	"~'} "+**
+BC5AA	"~'|!"+**
 BC5AB	"'aaR"**\-
 BC5AC	"&aaR"**\-
 BC5AD	"~}y3"**+
@@ -1475,7 +1475,7 @@ BC5C1	"|z3"**7-
 BC5C2	"|z3"**6-
 BC5C3	"|z3"**5-
 BC5C4	"J~gd"*+*
-BC5C5	"QK_ "+**
+BC5C5	"QK^!"+**
 BC5C6	"~t_F"**+
 BC5C7	"|z3"**1-
 BC5C8	"|z3"**
@@ -1534,13 +1534,13 @@ BC5FC	"{{3"**1+
 BC5FD	"{{3"**2+
 BC5FE	"{{3"**3+
 BC5FF	"{{3"**4+
-BC600	"X@i "+**
+BC600	"X@h!"+**
 BC601	"{{3"**6+
 BC602	"{{3"**7+
 BC603	"{{3"**8+
 BC604	"{{3"**9+
-BC605	"[=k "+**
-BC606	"_>c "+**
+BC605	"[=j!"+**
+BC606	"_>b!"+**
 BC607	"'fYU"**\-
 BC608	"&fYU"**\-
 BC609	"%fYU"**\-
@@ -1560,7 +1560,7 @@ BC616	"c~lG"*+*
 BC617	"+zs7"**\-
 BC618	"*zs7"**\-
 BC619	")zs7"**\-
-BC61A	"IFw "+**
+BC61A	"IFv!"+**
 BC61B	"'zs7"**\-
 BC61C	"&zs7"**\-
 BC61D	"%zs7"**\-
@@ -1578,7 +1578,7 @@ BC628	"fYU"**6-
 BC629	"fYU"**5-
 BC62A	"fYU"**4-
 BC62B	"E5~U"+**
-BC62C	"LGo "+**
+BC62C	"LGn!"+**
 BC62D	"fYU"**1-
 BC62E	"fYU"**
 BC62F	"fYU"**1+
@@ -1602,7 +1602,7 @@ BC640	"`~\V"*+*
 BC641	"zs7"**1-
 BC642	"zs7"**
 BC643	"zs7"**1+
-BC644	"|1_ "+**
+BC644	"|1^!"+**
 BC645	"zs7"**3+
 BC646	"zs7"**4+
 BC647	"zs7"**5+
@@ -1729,7 +1729,7 @@ BC6BF	"6maI"**\-
 BC6C0	"5maI"**\-
 BC6C1	"4maI"**\-
 BC6C2	"3maI"**\-
-BC6C3	"g;_ "+**
+BC6C3	"g;^!"+**
 BC6C4	"1maI"**\-
 BC6C5	"0maI"**\-
 BC6C6	"/maI"**\-
@@ -1770,7 +1770,7 @@ BC6E8	";}_A"**\-
 BC6E9	":}_A"**\-
 BC6EA	"9}_A"**\-
 BC6EB	"8}_A"**\-
-BC6EC	"JFu "+**
+BC6EC	"JFt!"+**
 BC6ED	"maI"**8-
 BC6EE	"maI"**7-
 BC6EF	"maI"**6-
@@ -1847,7 +1847,7 @@ BC735	"zo9"**1-
 BC736	"zo9"**
 BC737	"zo9"**1+
 BC738	"zo9"**2+
-BC739	"Y;s "+**
+BC739	"Y;r!"+**
 BC73A	"zo9"**4+
 BC73B	"zo9"**5+
 BC73C	"|SK"**
@@ -1862,7 +1862,7 @@ BC744	"|SK"**8+
 BC745	"|SK"**9+
 BC746	"qcE"**7+
 BC747	"qcE"**8+
-BC748	"HGw "+**
+BC748	"HGv!"+**
 BC749	"Cyt7"**\-
 BC74A	"Byt7"**\-
 BC74B	"Ayt7"**\-
@@ -1925,7 +1925,7 @@ BC783	"yt7"**9-
 BC784	"\~_W"*+*
 BC785	"yt7"**7-
 BC786	"yt7"**6-
-BC787	"KIm "+**
+BC787	"KIl!"+**
 BC788	"yt7"**4-
 BC789	"yt7"**3-
 BC78A	"yt7"**2-
@@ -1933,7 +1933,7 @@ BC78B	"yt7"**1-
 BC78C	"yt7"**
 BC78D	"yt7"**1+
 BC78E	"yt7"**2+
-BC78F	"SGc "+**
+BC78F	"SGb!"+**
 BC790	"yt7"**4+
 BC791	"yt7"**5+
 BC792	"yt7"**6+
@@ -1945,12 +1945,12 @@ BC797	"/fWW"**\-
 BC798	".fWW"**\-
 BC799	"]~mK"*+*
 BC79A	",fWW"**\-
-BC79B	"s1i "+**
+BC79B	"s1h!"+**
 BC79C	"okA"**9-
 BC79D	"okA"**8-
 BC79E	"okA"**7-
 BC79F	"okA"**6-
-BC7A0	"} ~C"+**
+BC7A0	"}~y2"*+*
 BC7A1	"~}_A"**+
 BC7A2	"okA"**3-
 BC7A3	"okA"**2-
@@ -2015,7 +2015,7 @@ BC7DD	"#th@"**\-
 BC7DE	"~fXV"**+
 BC7DF	"!th@"**\-
 BC7E0	" th@"**\-
-BC7E1	"i9a "+**
+BC7E1	"i9`!"+**
 BC7E2	"S~|J"*+*
 BC7E3	"-kXR"**\-
 BC7E4	",kXR"**\-

@@ -360,7 +360,7 @@ FAD166	"*|g'!"***+
 FAD167	"+|g'!"***+
 FAD168	",|g'!"***+
 FAD169	"O=~I-"*+**
-FAD16A	"V+#_ "+***
+FAD16A	"V+#^!"+***
 FAD16B	"/|g'!"***+
 FAD16C	"0|g'!"***+
 FAD16D	"1|g'!"***+
@@ -638,7 +638,7 @@ FAD27C	"htC/-"***+
 FAD27D	"#yA7&"***+
 FAD27E	"$yA7&"***+
 FAD27F	"%yA7&"***+
-FAD280	"r`~ +"*+**
+FAD280	"&yA7&"***+
 FAD281	"'yA7&"***+
 FAD282	"(yA7&"***+
 FAD283	")yA7&"***+
@@ -675,7 +675,7 @@ FAD2A1	"GyA7&"***+
 FAD2A2	"~XDC)"***\-
 FAD2A3	"}XDC)"***\-
 FAD2A4	"|XDC)"***\-
-FAD2A5	"O)#q "+***
+FAD2A5	"O)#p!"+***
 FAD2A6	"&~qY+"**+*
 FAD2A7	"yXDC)"***\-
 FAD2A8	"xXDC)"***\-
@@ -1022,7 +1022,7 @@ FAD3FC	"jM5&"***
 FAD3FD	"jM5&"***1+
 FAD3FE	"jM5&"***2+
 FAD3FF	"jM5&"***3+
-FAD400	"` ~_7"*+**
+FAD400	"jM5&"***4+
 FAD401	"jM5&"***5+
 FAD402	"jM5&"***6+
 FAD403	"iG?#"***
@@ -1184,7 +1184,7 @@ FAD49E	"w[.!"***8+
 FAD49F	"w[.!"***9+
 FAD4A0	"|I~e"+**8*
 FAD4A1	"Yv^'&"***+
-FAD4A2	"o~D D"**+*
+FAD4A2	"Zv^'&"***+
 FAD4A3	"[v^'&"***+
 FAD4A4	"\v^'&"***+
 FAD4A5	"]v^'&"***+
@@ -1214,7 +1214,7 @@ FAD4BC	"&w[.!"***+
 FAD4BD	"'w[.!"***+
 FAD4BE	"(w[.!"***+
 FAD4BF	")w[.!"***+
-FAD4C0	"~lw "+**8*
+FAD4C0	"~lv!"+**8*
 FAD4C1	"+w[.!"***+
 FAD4C2	",w[.!"***+
 FAD4C3	"-w[.!"***+
@@ -1249,7 +1249,7 @@ FAD4DF	"Iw[.!"***+
 FAD4E0	"LL~D("*+**
 FAD4E1	"Kw[.!"***+
 FAD4E2	"Lw[.!"***+
-FAD4E3	"M))_ "+***
+FAD4E3	"M))^!"+***
 FAD4E4	"Nw[.!"***+
 FAD4E5	"Ow[.!"***+
 FAD4E6	"Pw[.!"***+
@@ -1502,7 +1502,7 @@ FAD5DC	"YU5)"***3+
 FAD5DD	"YU5)"***4+
 FAD5DE	"YU5)"***5+
 FAD5DF	"YU5)"***6+
-FAD5E0	"c ~S="*+**
+FAD5E0	"YU5)"***7+
 FAD5E1	"YU5)"***8+
 FAD5E2	"YU5)"***9+
 FAD5E3	"-xg&#"***\-
@@ -1918,7 +1918,7 @@ FAD77C	"O_W3'"***+
 FAD77D	"P_W3'"***+
 FAD77E	"Q_W3'"***+
 FAD77F	"R_W3'"***+
-FAD780	"@~q G"**+*
+FAD780	"S_W3'"***+
 FAD781	"T_W3'"***+
 FAD782	"U_W3'"***+
 FAD783	"V_W3'"***+
@@ -1997,16 +1997,16 @@ FAD7CB	"~z=//"***\-9-
 FAD7CC	"zr~G"+**2-6*
 FAD7CD	"~z=//"***\-7-
 FAD7CE	"~z=//"***\-6-
-FAD7CF	"zr~ !"*+**9-
-FAD7D0	"zr~ !"*+**8-
-FAD7D1	"zr~ !"*+**7-
-FAD7D2	"zr~ !"*+**6-
+FAD7CF	"zL~G"+**1-9*
+FAD7D0	"zr~G"+**6*8-
+FAD7D1	"zr~G"+**6*7-
+FAD7D2	"zr~G"+**1-6*
 FAD7D3	"~}~C5%"**+*+
 FAD7D4	"~z=//"***\-
 FAD7D5	"}z=//"***\-
 FAD7D6	"|z=//"***\-
 FAD7D7	"{z=//"***\-
-FAD7D8	"zr~ !"*+**
+FAD7D8	"zr~G"+**6*
 FAD7D9	"yz=//"***\-
 FAD7DA	"xz=//"***\-
 FAD7DB	"wz=//"***\-

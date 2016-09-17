@@ -22,7 +22,7 @@ ADA014	"$GC4."***\-
 ADA015	"#GC4."***\-
 ADA016	"dfC-%"***+
 ADA017	"!GC4."***\-
-ADA018	" GC4."***\-
+ADA018	"!{vb"**\-8*
 ADA019	"gfC-%"***+
 ADA01A	" a?1&"***+
 ADA01B	"!a?1&"***+
@@ -142,7 +142,7 @@ ADA08C	"TGC4."***+
 ADA08D	"]M~e"+**7*
 ADA08E	"VGC4."***+
 ADA08F	"WGC4."***+
-ADA090	"oVu "+**8*
+ADA090	"oVt!"+**8*
 ADA091	"YGC4."***+
 ADA092	"ZGC4."***+
 ADA093	"~cQ+!"***\-
@@ -253,7 +253,7 @@ ADA0FB	"%{;1 "***\-
 ADA0FC	"${;1 "***\-
 ADA0FD	"{vp"**5-7*
 ADA0FE	"LI~7#"*+**6-
-ADA0FF	"!{;1 "***\-
+ADA0FF	"0}wU"**\-9*
 ADA100	"{vb"**4-8*
 ADA101	"LI~7#"*+**3-
 ADA102	"LI~7#"*+**2-
@@ -281,21 +281,21 @@ ADA117	"cQ+!"***6+
 ADA118	"{vb"**1-8*
 ADA119	"{vp"**1-7*
 ADA11A	"cQ+!"***9+
-ADA11B	"{;1 "***5-
-ADA11C	"{;1 "***4-
+ADA11B	"{vp"**7*5-
+ADA11C	"{vp"**7*4-
 ADA11D	"a~C5!"**+*
-ADA11E	"{;1 "***2-
-ADA11F	"{;1 "***1-
+ADA11E	"{vp"**7*2-
+ADA11F	"{vp"**7*1-
 ADA120	"{vp"**7*
-ADA121	"{;1 "***1+
-ADA122	"{;1 "***2+
-ADA123	"{;1 "***3+
-ADA124	"{;1 "***4+
-ADA125	"{;1 "***5+
-ADA126	"{;1 "***6+
+ADA121	"{vp"**7*1+
+ADA122	"{vp"**7*2+
+ADA123	"{vp"**7*3+
+ADA124	"{vp"**7*4+
+ADA125	"{vp"**7*5+
+ADA126	"{vp"**7*6+
 ADA127	"{vp"**1+7*
 ADA128	"{vb"**1+8*
-ADA129	"{;1 "***9+
+ADA129	"{vp"**7*9+
 ADA12A	"rq52&"***\-
 ADA12B	"qq52&"***\-
 ADA12C	"pq52&"***\-
@@ -438,7 +438,7 @@ ADA1B4	"Q=1/"***1+
 ADA1B5	"Q=1/"***2+
 ADA1B6	"Q=1/"***3+
 ADA1B7	"Q=1/"***4+
-ADA1B8	"JJ~ ="*+**
+ADA1B8	"Q=1/"***5+
 ADA1B9	"Q=1/"***6+
 ADA1BA	"Q=1/"***7+
 ADA1BB	"Q=1/"***8+
@@ -451,18 +451,18 @@ ADA1C1	"!G>7/"***\-
 ADA1C2	" G>7/"***\-
 ADA1C3	"}a^' "***\-
 ADA1C4	"|a^' "***\-
-ADA1C5	"{a^' "***\-
+ADA1C5	"3tmd"**\-9*
 ADA1C6	"za^' "***\-
 ADA1C7	"ya^' "***\-
-ADA1C8	"xa^' "***\-
+ADA1C8	"0|sr"**\-7*
 ADA1C9	"wa^' "***\-
 ADA1CA	"va^' "***\-
 ADA1CB	"ua^' "***\-
 ADA1CC	"ta^' "***\-
 ADA1CD	"sa^' "***\-
-ADA1CE	"ra^' "***\-
-ADA1CF	"qa^' "***\-
-ADA1D0	"pa^' "***\-
+ADA1CE	"2tmd"**\-9*
+ADA1CF	"/|sr"**\-7*
+ADA1D0	"~znj"**\-8*
 ADA1D1	"oa^' "***\-
 ADA1D2	"na^' "***\-
 ADA1D3	"ma^' "***\-
@@ -494,31 +494,31 @@ ADA1EC	"Ta^' "***\-
 ADA1ED	"Sa^' "***\-
 ADA1EE	"Ra^' "***\-
 ADA1EF	"Qa^' "***\-
-ADA1F0	"zYc "+**8*
+ADA1F0	"zYb!"+**8*
 ADA1F1	"Oa^' "***\-
-ADA1F2	"Na^' "***\-
+ADA1F2	"*|sr"**\-7*
 ADA1F3	"Ma^' "***\-
 ADA1F4	"La^' "***\-
 ADA1F5	"Ka^' "***\-
 ADA1F6	"Ja^' "***\-
 ADA1F7	"Ia^' "***\-
-ADA1F8	"Ha^' "***\-
-ADA1F9	"Ga^' "***\-
+ADA1F8	"yznj"**\-8*
+ADA1F9	")|sr"**\-7*
 ADA1FA	"Fa^' "***\-
-ADA1FB	"Ea^' "***\-
+ADA1FB	"-tmd"**\-9*
 ADA1FC	"Da^' "***\-
 ADA1FD	"Ca^' "***\-
 ADA1FE	"Ba^' "***\-
 ADA1FF	"Aa^' "***\-
-ADA200	"pd_ "+**8*
+ADA200	"pd^!"+**8*
 ADA201	"?a^' "***\-
 ADA202	">a^' "***\-
 ADA203	"=a^' "***\-
-ADA204	"<a^' "***\-
+ADA204	",tmd"**\-9*
 ADA205	";a^' "***\-
 ADA206	":a^' "***\-
-ADA207	"9a^' "***\-
-ADA208	"8a^' "***\-
+ADA207	"'|sr"**\-7*
+ADA208	"wznj"**\-8*
 ADA209	"7a^' "***\-
 ADA20A	"6a^' "***\-
 ADA20B	"5a^' "***\-
@@ -526,23 +526,23 @@ ADA20C	"4a^' "***\-
 ADA20D	"qC~)"+**9*
 ADA20E	"M&~G5"*+**
 ADA20F	"1a^' "***\-
-ADA210	"0a^' "***\-
+ADA210	"vznj"**\-8*
 ADA211	"/a^' "***\-
 ADA212	".a^' "***\-
 ADA213	"-a^' "***\-
 ADA214	",a^' "***\-
-ADA215	"+a^' "***\-
-ADA216	"*a^' "***\-
+ADA215	"%|sr"**\-7*
+ADA216	"*tmd"**\-9*
 ADA217	")a^' "***\-
-ADA218	"(a^' "***\-
+ADA218	"uznj"**\-8*
 ADA219	"'a^' "***\-
 ADA21A	"&a^' "***\-
 ADA21B	"%a^' "***\-
-ADA21C	"$a^' "***\-
+ADA21C	"$|sr"**\-7*
 ADA21D	"#a^' "***\-
 ADA21E	"RjG*$"***\-
-ADA21F	"!a^' "***\-
-ADA220	" a^' "***\-
+ADA21F	")tmd"**\-9*
+ADA220	"tznj"**\-8*
 ADA221	"OjG*$"***\-
 ADA222	"NjG*$"***\-
 ADA223	"MjG*$"***\-
@@ -573,14 +573,14 @@ ADA23B	"a^' "***5-
 ADA23C	"a^' "***4-
 ADA23D	"a^' "***3-
 ADA23E	"a^' "***2-
-ADA23F	"a^' "***1-
+ADA23F	"){vp"**+7*
 ADA240	"a^' "***
 ADA241	"a^' "***1+
 ADA242	"a^' "***2+
 ADA243	"a^' "***3+
 ADA244	"a^' "***4+
 ADA245	"a^' "***5+
-ADA246	"a^' "***6+
+ADA246	"*{vp"**+7*
 ADA247	"a^' "***7+
 ADA248	"a^' "***8+
 ADA249	"a^' "***9+
@@ -646,7 +646,7 @@ ADA284	"$[:1,"***\-
 ADA285	"3{vp"**+7*
 ADA286	")UU-#"***\-
 ADA287	"![:1,"***\-
-ADA288	" [:1,"***\-
+ADA288	"gznj"**\-8*
 ADA289	"&UU-#"***\-
 ADA28A	"%UU-#"***\-
 ADA28B	"}wU"**4-9*
@@ -758,7 +758,7 @@ ADA2F4	"$|E&#"***\-
 ADA2F5	"|sr"**5-7*
 ADA2F6	"hzA)#"***\-
 ADA2F7	"Q~=;'"**+*
-ADA2F8	" |E&#"***\-
+ADA2F8	"Yznj"**\-8*
 ADA2F9	"ezA)#"***\-
 ADA2FA	"dzA)#"***\-
 ADA2FB	"czA)#"***\-
@@ -878,7 +878,7 @@ ADA36C	"tmd"**4-9*
 ADA36D	"#m:2$"***\-
 ADA36E	"1CCA'"***\-
 ADA36F	"!m:2$"***\-
-ADA370	" m:2$"***\-
+ADA370	"Jznj"**\-8*
 ADA371	".CCA'"***\-
 ADA372	"-CCA'"***\-
 ADA373	"U{vp"**+7*
@@ -1280,7 +1280,7 @@ ADA4FE	"H>=;3"***\-
 ADA4FF	"G>=;3"***\-
 ADA500	"|{vb"**+8*
 ADA501	"yn_"**9-9*
-ADA502	"wI~ %"*+**
+ADA502	"F|sr"**+7*
 ADA503	"C>=;3"***\-
 ADA504	"B>=;3"***\-
 ADA505	"A>=;3"***\-
@@ -1455,31 +1455,31 @@ ADA5AD	"[n_!!"***+
 ADA5AE	"\n_!!"***+
 ADA5AF	"]n_!!"***+
 ADA5B0	"znj"**2-8*
-ADA5B1	"m_} "+**7*
+ADA5B1	"m_|!"+**7*
 ADA5B2	"`n_!!"***+
 ADA5B3	"an_!!"***+
 ADA5B4	"bn_!!"***+
 ADA5B5	"cn_!!"***+
 ADA5B6	"dn_!!"***+
-ADA5B7	"z75 "***9-
+ADA5B7	"znj"**8*9-
 ADA5B8	"znj"**1-8*
-ADA5B9	"z75 "***7-
-ADA5BA	"z75 "***6-
-ADA5BB	"z75 "***5-
-ADA5BC	"z75 "***4-
-ADA5BD	"z75 "***3-
-ADA5BE	"z75 "***2-
-ADA5BF	"z75 "***1-
+ADA5B9	"znj"**8*7-
+ADA5BA	"znj"**8*6-
+ADA5BB	"znj"**8*5-
+ADA5BC	"znj"**8*4-
+ADA5BD	"znj"**8*3-
+ADA5BE	"znj"**8*2-
+ADA5BF	"znj"**8*1-
 ADA5C0	"znj"**8*
-ADA5C1	"z75 "***1+
-ADA5C2	"z75 "***2+
-ADA5C3	"z75 "***3+
+ADA5C1	"znj"**8*1+
+ADA5C2	"znj"**8*2+
+ADA5C3	"znj"**8*3+
 ADA5C4	"rG&%"***
-ADA5C5	"z75 "***5+
-ADA5C6	"z75 "***6+
-ADA5C7	"z75 "***7+
+ADA5C5	"znj"**8*5+
+ADA5C6	"znj"**8*6+
+ADA5C7	"znj"**8*7+
 ADA5C8	"znj"**1+8*
-ADA5C9	"z75 "***9+
+ADA5C9	"znj"**8*9+
 ADA5CA	"rG&%"***6+
 ADA5CB	"rG&%"***7+
 ADA5CC	"rG&%"***8+
@@ -1518,7 +1518,7 @@ ADA5EC	"(rG&%"***+
 ADA5ED	")rG&%"***+
 ADA5EE	"*rG&%"***+
 ADA5EF	"+rG&%"***+
-ADA5F0	"wVk "+**8*
+ADA5F0	"h|sr"**+7*
 ADA5F1	"-rG&%"***+
 ADA5F2	".rG&%"***+
 ADA5F3	"/rG&%"***+
@@ -1528,7 +1528,7 @@ ADA5F6	"2rG&%"***+
 ADA5F7	"3rG&%"***+
 ADA5F8	"znj"**7+8*
 ADA5F9	"5rG&%"***+
-ADA5FA	"C~h 3"**+*
+ADA5FA	"6rG&%"***+
 ADA5FB	"7rG&%"***+
 ADA5FC	"8rG&%"***+
 ADA5FD	"9rG&%"***+
@@ -1576,7 +1576,7 @@ ADA626	"brG&%"***+
 ADA627	"crG&%"***+
 ADA628	"g~ws"*+*8*
 ADA629	"erG&%"***+
-ADA62A	"jOw "+**9*
+ADA62A	"jOv!"+**9*
 ADA62B	"}v9/$"***\-
 ADA62C	"|v9/$"***\-
 ADA62D	"{v9/$"***\-
@@ -1606,7 +1606,7 @@ ADA644	"y~yn"*+*7*
 ADA645	"1|gc"**+9*
 ADA646	"bv9/$"***\-
 ADA647	"av9/$"***\-
-ADA648	"tS~ !"*+**
+ADA648	"tS~G"+**6*
 ADA649	"_v9/$"***\-
 ADA64A	"^v9/$"***\-
 ADA64B	"u|sr"**+7*
@@ -1909,8 +1909,8 @@ ADA773	"=y>)%"***+
 ADA774	">y>)%"***+
 ADA775	"?y>)%"***+
 ADA776	"@y>)%"***+
-ADA777	"oY$ "***9-
-ADA778	"oY$ "***8-
+ADA777	"=yn_"**+9*
+ADA778	"7znj"**+8*
 ADA779	"oY$ "***7-
 ADA77A	"oY$ "***6-
 ADA77B	"oY$ "***5-
@@ -1926,8 +1926,8 @@ ADA784	"oY$ "***4+
 ADA785	"oY$ "***5+
 ADA786	"oY$ "***6+
 ADA787	"oY$ "***7+
-ADA788	"oY$ "***8+
-ADA789	"oY$ "***9+
+ADA788	"9znj"**+8*
+ADA789	"?yn_"**+9*
 ADA78A	"zbO*#"***\-
 ADA78B	"ybO*#"***\-
 ADA78C	"xbO*#"***\-
@@ -2029,7 +2029,7 @@ ADA7EB	"5p//."***\-
 ADA7EC	"$vr^"**+9*
 ADA7ED	"3p//."***\-
 ADA7EE	"2p//."***\-
-ADA7EF	"oaw "+**7*
+ADA7EF	"oav!"+**7*
 ADA7F0	"Fznj"**+8*
 ADA7F1	"/p//."***\-
 ADA7F2	".p//."***\-

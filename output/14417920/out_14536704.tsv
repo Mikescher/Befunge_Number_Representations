@@ -4,7 +4,7 @@ DDD002	"ph '"***2+
 DDD003	"ph '"***3+
 DDD004	"ph '"***4+
 DDD005	"I+~U5"*+**
-DDD006	"ph '"***6+
+DDD006	"vvt"**6+9*
 DDD007	"ph '"***7+
 DDD008	"ph '"***8+
 DDD009	"ph '"***9+
@@ -526,7 +526,7 @@ DDD20C	"$O>85"***\-
 DDD20D	"#O>85"***\-
 DDD20E	":^\))"***\-
 DDD20F	"!O>85"***\-
-DDD210	" O>85"***\-
+DDD210	"6vuu"**\-9*
 DDD211	"7^\))"***\-
 DDD212	"k~^&&"**+*
 DDD213	"5^\))"***\-
@@ -740,7 +740,7 @@ DDD2E2	"kf%$"***6-
 DDD2E3	"kf%$"***5-
 DDD2E4	"kf%$"***4-
 DDD2E5	"kf%$"***3-
-DDD2E6	"M~X C"**+*
+DDD2E6	"kf%$"***2-
 DDD2E7	"kf%$"***1-
 DDD2E8	"kf%$"***
 DDD2E9	"kf%$"***1+
@@ -895,7 +895,7 @@ DDD37D	"vn# "***3-
 DDD37E	"vn# "***2-
 DDD37F	"vn# "***1-
 DDD380	"vn# "***
-DDD381	"vn# "***1+
+DDD381	"ivvt"**+9*
 DDD382	"vn# "***2+
 DDD383	"vn# "***3+
 DDD384	"vn# "***4+
@@ -1786,7 +1786,7 @@ DDD6F8	"zb& "***8-
 DDD6F9	"zb& "***7-
 DDD6FA	"zb& "***6-
 DDD6FB	"zb& "***5-
-DDD6FC	"zb& "***4-
+DDD6FC	"Vvuu"**+9*
 DDD6FD	"zb& "***3-
 DDD6FE	"zb& "***2-
 DDD6FF	"zb& "***1-
@@ -1795,7 +1795,7 @@ DDD701	"zb& "***1+
 DDD702	"zb& "***2+
 DDD703	"zb& "***3+
 DDD704	"zb& "***4+
-DDD705	"zb& "***5+
+DDD705	"Wvuu"**+9*
 DDD706	"zb& "***6+
 DDD707	"zb& "***7+
 DDD708	"zb& "***8+
@@ -1813,7 +1813,7 @@ DDD713	"DoQ1!"***+
 DDD714	"EoQ1!"***+
 DDD715	"FoQ1!"***+
 DDD716	"GoQ1!"***+
-DDD717	"QOG "***9-
+DDD717	"Yvuu"**+9*
 DDD718	"QOG "***8-
 DDD719	"QOG "***7-
 DDD71A	"QOG "***6-
@@ -1840,7 +1840,7 @@ DDD72E	".zb& "***+
 DDD72F	"/zb& "***+
 DDD730	"0zb& "***+
 DDD731	"1zb& "***+
-DDD732	"2zb& "***+
+DDD732	"\vuu"**+9*
 DDD733	"3zb& "***+
 DDD734	"4zb& "***+
 DDD735	"5zb& "***+
@@ -1849,7 +1849,7 @@ DDD737	"7zb& "***+
 DDD738	"8zb& "***+
 DDD739	"9zb& "***+
 DDD73A	":zb& "***+
-DDD73B	";zb& "***+
+DDD73B	"]vuu"**+9*
 DDD73C	"<zb& "***+
 DDD73D	"=/~s+"*+**
 DDD73E	">zb& "***+
@@ -1858,7 +1858,7 @@ DDD740	" QOG "***+
 DDD741	"!QOG "***+
 DDD742	"Bzb& "***+
 DDD743	"#QOG "***+
-DDD744	"$QOG "***+
+DDD744	"^vuu"**+9*
 DDD745	"%QOG "***+
 DDD746	"&QOG "***+
 DDD747	"'QOG "***+
@@ -1867,7 +1867,7 @@ DDD749	")QOG "***+
 DDD74A	"*QOG "***+
 DDD74B	"+QOG "***+
 DDD74C	",QOG "***+
-DDD74D	"-QOG "***+
+DDD74D	"_vuu"**+9*
 DDD74E	".QOG "***+
 DDD74F	"/QOG "***+
 DDD750	"hE~2&"*+**
@@ -1876,7 +1876,7 @@ DDD752	"2QOG "***+
 DDD753	"3QOG "***+
 DDD754	"4QOG "***+
 DDD755	"5QOG "***+
-DDD756	"6QOG "***+
+DDD756	"`vuu"**+9*
 DDD757	"7QOG "***+
 DDD758	"8QOG "***+
 DDD759	"9QOG "***+
@@ -1885,7 +1885,7 @@ DDD75B	";QOG "***+
 DDD75C	"<QOG "***+
 DDD75D	"=QOG "***+
 DDD75E	">QOG "***+
-DDD75F	"?QOG "***+
+DDD75F	"avuu"**+9*
 DDD760	"@QOG "***+
 DDD761	"AQOG "***+
 DDD762	"BQOG "***+

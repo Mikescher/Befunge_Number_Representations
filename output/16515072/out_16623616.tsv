@@ -376,13 +376,13 @@ FDA976	"*kk,!"***+
 FDA977	"+kk,!"***+
 FDA978	",kk,!"***+
 FDA979	"-kk,!"***+
-FDA97A	"ge~ ."*+**
+FDA97A	".kk,!"***+
 FDA97B	"/kk,!"***+
 FDA97C	"0kk,!"***+
 FDA97D	"1kk,!"***+
 FDA97E	"2kk,!"***+
 FDA97F	"3kk,!"***+
-FDA980	"}@~ ="*+**
+FDA980	"4kk,!"***+
 FDA981	"5kk,!"***+
 FDA982	"6kk,!"***+
 FDA983	"7kk,!"***+
@@ -408,7 +408,7 @@ FDA996	"qm;7/"***\-
 FDA997	"pm;7/"***\-
 FDA998	"om;7/"***\-
 FDA999	"nm;7/"***\-
-FDA99A	"om~ '"*+**
+FDA99A	"om~g"+**6*
 FDA99B	"lm;7/"***\-
 FDA99C	"km;7/"***\-
 FDA99D	"jm;7/"***\-
@@ -546,8 +546,8 @@ FDAA20	" t544"***\-
 FDAA21	" m;7/"***+6-
 FDAA22	" m;7/"***+5-
 FDAA23	" m;7/"***+4-
-FDAA24	" m;7/"***+3-
-FDAA25	" m;7/"***+2-
+FDAA24	"Cxoh"**+6*2*
+FDAA25	"tG+!!"***+5*
 FDAA26	"~C(~g;"*+**+
 FDAA27	" m;7/"***+
 FDAA28	"!m;7/"***+
@@ -716,15 +716,15 @@ FDAACA	"E:544"***+2*
 FDAACB	" ]C:."***+9-
 FDAACC	"g=1"**9-9*6*
 FDAACD	" ]C:."***+7-
-FDAACE	" ]C:."***+6-
-FDAACF	" ]C:."***+5-
-FDAAD0	" ]C:."***+4-
+FDAACE	"G:544"***+2*
+FDAACF	"Q++%"***8-3*
+FDAAD0	"H:544"***+2*
 FDAAD1	" ]C:."***+3-
-FDAAD2	" ]C:."***+2-
+FDAAD2	"I:544"***+2*
 FDAAD3	" ]C:."***+1-
 FDAAD4	" ]C:."***+
 FDAAD5	"!]C:."***+
-FDAAD6	" ]C:."***+2+
+FDAAD6	"K:544"***+2*
 FDAAD7	"#]C:."***+
 FDAAD8	"$]C:."***+
 FDAAD9	"%]C:."***+
@@ -902,7 +902,7 @@ FDAB84	"R~JJ%"**+*
 FDAB85	"gIC!"***8+
 FDAB86	"gIC!"***9+
 FDAB87	"j#~CA"*+**9+
-FDAB88	"n~~s )"**++*
+FDAB88	"gIC!"***2+9+
 FDAB89	"gIC!"***3+9+
 FDAB8A	"gIC!"***4+9+
 FDAB8B	"gIC!"***5+9+
@@ -1592,7 +1592,7 @@ FDAE36	"maS;#"***\-
 FDAE37	"laS;#"***\-
 FDAE38	"kaS;#"***\-
 FDAE39	"jaS;#"***\-
-FDAE3A	"b%#c "+***
+FDAE3A	"b%#b!"+***
 FDAE3B	"haS;#"***\-
 FDAE3C	"gaS;#"***\-
 FDAE3D	"faS;#"***\-

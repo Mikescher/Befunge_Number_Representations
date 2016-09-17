@@ -37,7 +37,7 @@ STATISTICS.bat        | Show statistics about the current safe file
 UPDATE_SINGLE.bat     | Do a single iteration of the calculation algorithms
 UPDATE_FULL.bat       | Do a full calculations (iterate until there are no more improvements to be made)
 FULL.bat              | Do a reset, followed by a full calculation (does everything except outputting)
-OUTPUT (POSITIVE).bat | Output Numbers from `0` to `2^24` to the folder `output/`. Make sure that the folder exists.
+OUTPUT_POSITIVE.bat | Output Numbers from `0` to `2^24` to the folder `output/`.
 
 Be aware that you calculate a lot of numbers here. All operations will take a good amount of time (I let it run for a **whole day** to calculate everything).  
 Also the safe file becomes pretty big **(around 100 megabyte)** and when you output all numbers the textfiles are together around **300 megabyte** big.

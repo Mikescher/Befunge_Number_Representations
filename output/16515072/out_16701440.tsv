@@ -30,7 +30,7 @@ FED81C	"+CAA;"***+
 FED81D	",CAA;"***+
 FED81E	"-CAA;"***+
 FED81F	".CAA;"***+
-FED820	"G ~UU"*+**
+FED820	"/CAA;"***+
 FED821	"0CAA;"***+
 FED822	"1CAA;"***+
 FED823	"_#~S;"*+**
@@ -708,21 +708,21 @@ FEDAC2	"r[.#"***6+
 FEDAC3	"r[.#"***7+
 FEDAC4	"r[.#"***8+
 FEDAC5	"r[.#"***9+
-FEDAC6	"5/-u "+***5-
-FEDAC7	"5/-u "+***4-
-FEDAC8	"5/-u "+***3-
-FEDAC9	"5/-u "+***2-
-FEDACA	"5/-u "+***1-
-FEDACB	"5/-u "+***
-FEDACC	"5/-u "+***1+
-FEDACD	"5/-u "+***2+
-FEDACE	"5/-u "+***3+
-FEDACF	"5/-u "+***4+
-FEDAD0	"5/-u "+***5+
-FEDAD1	"5/-u "+***6+
-FEDAD2	"5/-u "+***7+
-FEDAD3	"5/-u "+***8+
-FEDAD4	"5/-u "+***9+
+FEDAC6	"r[.#"***1+9+
+FEDAC7	"r[.#"***2+9+
+FEDAC8	"r[.#"***3+9+
+FEDAC9	"r[.#"***4+9+
+FEDACA	"r[.#"***5+9+
+FEDACB	"5/-t!"+***
+FEDACC	"r[.#"***7+9+
+FEDACD	"r[.#"***8+9+
+FEDACE	"r[.#"***9+9+
+FEDACF	"5/-t!"+***4+
+FEDAD0	"5/-t!"+***5+
+FEDAD1	"5/-t!"+***6+
+FEDAD2	"5/-t!"+***7+
+FEDAD3	"5/-t!"+***8+
+FEDAD4	"5/-t!"+***9+
 FEDAD5	"O>>7"***9-6-
 FEDAD6	"O>>7"***9-5-
 FEDAD7	"O>>7"***9-4-
@@ -1022,7 +1022,7 @@ FEDBFC	",{\)$"***+
 FEDBFD	"-{\)$"***+
 FEDBFE	".{\)$"***+
 FEDBFF	"/{\)$"***+
-FEDC00	"` ~q/"*+**
+FEDC00	"0{\)$"***+
 FEDC01	"1{\)$"***+
 FEDC02	"JG~G+"*+**
 FEDC03	"3{\)$"***+
@@ -1607,7 +1607,7 @@ FEDE45	"2qU/%"***\-
 FEDE46	"~xS+'"***+
 FEDE47	"0qU/%"***\-
 FEDE48	"/qU/%"***\-
-FEDE49	"O+!u "+***
+FEDE49	"O+!t!"+***
 FEDE4A	"-qU/%"***\-
 FEDE4B	",qU/%"***\-
 FEDE4C	"+qU/%"***\-
@@ -1660,7 +1660,7 @@ FEDE7A	"qU/%"***3+
 FEDE7B	"qU/%"***4+
 FEDE7C	"qU/%"***5+
 FEDE7D	"qU/%"***6+
-FEDE7E	"~eL D"***+
+FEDE7E	"qU/%"***7+
 FEDE7F	"qU/%"***8+
 FEDE80	"qU/%"***9+
 FEDE81	"a995"***4-

@@ -138,7 +138,7 @@ FFB888	"GC~O+"*+**9+
 FFB889	"Cs.! "***+3*
 FFB88A	"%sA;&"***\-9+
 FFB88B	"$sA;&"***\-9+
-FFB88C	"g[~~ 0"*++**
+FFB88C	"g[t!"+**6*2*
 FFB88D	"vs~y"+**5-5*
 FFB88E	"!sA;&"***\-9+
 FFB88F	"aQO"**2-9*3*
@@ -326,7 +326,7 @@ FFB944	"~kG~4("*+**+
 FFB945	"[~k+("**+*3+
 FFB946	" ba+)"***+
 FFB947	"!ba+)"***+
-FFB948	"C~s~ @"*+*+*
+FFB948	"[~k+("**+*6+
 FFB949	"#ba+)"***+
 FFB94A	"$ba+)"***+
 FFB94B	"%ba+)"***+
@@ -964,7 +964,7 @@ FFBBC2	"Nf^.&"***\-
 FFBBC3	"Mf^.&"***\-
 FFBBC4	"Lf^.&"***\-
 FFBBC5	"Kf^.&"***\-
-FFBBC6	"}z} "+**7*
+FFBBC6	"}z|!"+**7*
 FFBBC7	"If^.&"***\-
 FFBBC8	"Hf^.&"***\-
 FFBBC9	"Gf^.&"***\-
@@ -1219,7 +1219,7 @@ FFBCC1	"xzQ5 "***+9+
 FFBCC2	"yzQ5 "***+9+
 FFBCC3	"zzQ5 "***+9+
 FFBCC4	"rk~g"+**8-6*
-FFBCC5	"|zQ5 "***+9+
+FFBCC5	";Q&!!"***+5*
 FFBCC6	"}zQ5 "***+9+
 FFBCC7	"zj0"**5+9*3*
 FFBCC8	".3/.&"***+4*
@@ -1238,13 +1238,13 @@ FFBCD4	"|m>"**9+5*4*
 FFBCD5	")~A~e="*+*+*
 FFBCD6	"rk~g"+**5-6*
 FFBCD7	" ~}G;"**+*9-
-FFBCD8	" ~}G;"**+*8-
-FFBCD9	" ~}G;"**+*7-
+FFBCD8	"&=5$$"***+4*
+FFBCD9	"qg`"**9-5*3*
 FFBCDA	" ~}G;"**+*6-
 FFBCDB	" ~}G;"**+*5-
 FFBCDC	" ~}G;"**+*4-
 FFBCDD	" ~}G;"**+*3-
-FFBCDE	" ~}G;"**+*2-
+FFBCDE	"@Q&!!"***+5*
 FFBCDF	"E5~~G="*++**
 FFBCE0	" ~}G;"**+*
 FFBCE1	" ~}G;"**+*1+
@@ -1266,7 +1266,7 @@ FFBCF0	"pqg- "***\-
 FFBCF1	"oqg- "***\-
 FFBCF2	"nqg- "***\-
 FFBCF3	"mqg- "***\-
-FFBCF4	"rk~ '"*+**
+FFBCF4	"rk~g"+**6*
 FFBCF5	"kqg- "***\-
 FFBCF6	"jqg- "***\-
 FFBCF7	"iqg- "***\-
@@ -1340,7 +1340,7 @@ FFBD3A	"&qg- "***\-
 FFBD3B	"%qg- "***\-
 FFBD3C	"$qg- "***\-
 FFBD3D	"#qg- "***\-
-FFBD3E	"+qg- "***\-9+
+FFBD3E	"CG:7%"***\-2*
 FFBD3F	"!qg- "***\-
 FFBD40	" qg- "***\-
 FFBD41	"(qg- "***\-9+
@@ -1480,7 +1480,7 @@ FFBDC6	"tG7%"***2+
 FFBDC7	"tG7%"***3+
 FFBDC8	"tG7%"***4+
 FFBDC9	"tG7%"***5+
-FFBDCA	"k~I C"**+*
+FFBDCA	"tG7%"***6+
 FFBDCB	"tG7%"***7+
 FFBDCC	"tG7%"***8+
 FFBDCD	"tG7%"***9+
@@ -1602,7 +1602,7 @@ FFBE40	"mC3-"***1-
 FFBE41	"mC3-"***
 FFBE42	"mC3-"***1+
 FFBE43	"mC3-"***2+
-FFBE44	"^~t 0"**+*
+FFBE44	"mC3-"***3+
 FFBE45	"mC3-"***4+
 FFBE46	"mC3-"***5+
 FFBE47	"mC3-"***6+
@@ -2037,10 +2037,10 @@ FFBFF3	"Y."*:*9-8-
 FFBFF4	"Y."*:*9-7-
 FFBFF5	"Y."*:*9-6-
 FFBFF6	"Y."*:*9-5-
-FFBFF7	"|` ,"***9-
-FFBFF8	"|` ,"***8-
-FFBFF9	"|` ,"***7-
-FFBFFA	"|` ,"***6-
+FFBFF7	"Y."*:*9-4-
+FFBFF8	"Y."*:*9-3-
+FFBFF9	"Y."*:*9-2-
+FFBFFA	"Y."*:*9-1-
 FFBFFB	"Y."*:*9-
 FFBFFC	"Y."*:*8-
 FFBFFD	"Y."*:*7-

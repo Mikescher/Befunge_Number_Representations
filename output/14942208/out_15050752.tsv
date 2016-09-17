@@ -630,7 +630,7 @@ E5AA74	"4XIG!"***\-
 E5AA75	"3XIG!"***\-
 E5AA76	"2XIG!"***\-
 E5AA77	"1XIG!"***\-
-E5AA78	"z\u "+**9*
+E5AA78	"z\t!"+**9*
 E5AA79	"/XIG!"***\-
 E5AA7A	".XIG!"***\-
 E5AA7B	"-XIG!"***\-
@@ -693,19 +693,19 @@ E5AAB3	"XIG!"***2+9+
 E5AAB4	"XIG!"***3+9+
 E5AAB5	"XIG!"***4+9+
 E5AAB6	"XIG!"***5+9+
-E5AAB7	"z\u "+**7+9*
+E5AAB7	"XIG!"***6+9+
 E5AAB8	"yI~W"+**2+8*
 E5AAB9	"XIG!"***8+9+
 E5AABA	"qo0"**6-5*5*
-E5AABB	"~ ~~;;"*++**5-
+E5AABB	"XIG!"***1+9+9+
 E5AABC	"yIG"**6*5+4*
 E5AABD	"yIG"**8*7+3*
 E5AABE	"Iq2%$"***\-2*
 E5AABF	" XIG!"***+9-
-E5AAC0	"~ ~~;;"*++**
+E5AAC0	"qoK"**9-8*2*
 E5AAC1	" XIG!"***+7-
 E5AAC2	" XIG!"***+6-
-E5AAC3	" XIG!"***+5-
+E5AAC3	"yIG"**8*9+3*
 E5AAC4	"qo<"**7-5*4*
 E5AAC5	" XIG!"***+3-
 E5AAC6	"V~a~+'"*+*+*
@@ -751,7 +751,7 @@ E5AAED	"ZYE9+"***\-
 E5AAEE	"YYE9+"***\-
 E5AAEF	"XYE9+"***\-
 E5AAF0	"WYE9+"***\-
-E5AAF1	"I+#i "+***
+E5AAF1	"I+#h!"+***
 E5AAF2	"UYE9+"***\-
 E5AAF3	"TYE9+"***\-
 E5AAF4	"SYE9+"***\-
@@ -1150,7 +1150,7 @@ E5AC7C	"!u=9%"***\-
 E5AC7D	" u=9%"***\-
 E5AC7E	"b}G5 "***\-
 E5AC7F	"a}G5 "***\-
-E5AC80	"pk} "+**8*
+E5AC80	"pk|!"+**8*
 E5AC81	"_}G5 "***\-
 E5AC82	"^}G5 "***\-
 E5AC83	"]}G5 "***\-
@@ -1710,7 +1710,7 @@ E5AEAC	"4b^+&"***+
 E5AEAD	"5b^+&"***+
 E5AEAE	"6b^+&"***+
 E5AEAF	"7b^+&"***+
-E5AEB0	"~mi "+**8*
+E5AEB0	"~mh!"+**8*
 E5AEB1	"9b^+&"***+
 E5AEB2	":b^+&"***+
 E5AEB3	";b^+&"***+
@@ -1801,7 +1801,7 @@ E5AF07	"Bq99)"***\-
 E5AF08	"Aq99)"***\-
 E5AF09	"@q99)"***\-
 E5AF0A	"?q99)"***\-
-E5AF0B	"C1#c "+***
+E5AF0B	"C1#b!"+***
 E5AF0C	"=q99)"***\-
 E5AF0D	"<q99)"***\-
 E5AF0E	";q99)"***\-
@@ -1886,7 +1886,7 @@ E5AF5C	"je&%"***
 E5AF5D	"je&%"***1+
 E5AF5E	"je&%"***2+
 E5AF5F	"je&%"***3+
-E5AF60	"P~q 4"**+*
+E5AF60	"je&%"***4+
 E5AF61	"je&%"***5+
 E5AF62	"je&%"***6+
 E5AF63	"je&%"***7+
@@ -2037,12 +2037,12 @@ E5AFF3	"=a=50"***\-
 E5AFF4	"@#"*:*4-3*
 E5AFF5	";a=50"***\-
 E5AFF6	":a=50"***\-
-E5AFF7	"xp #"***9-
-E5AFF8	"xp #"***8-
-E5AFF9	"xp #"***7-
-E5AFFA	"xp #"***6-
-E5AFFB	"xp #"***5-
-E5AFFC	"xp #"***4-
-E5AFFD	"xp #"***3-
-E5AFFE	"xp #"***2-
-E5AFFF	"xp #"***1-
+E5AFF7	"@#"*:*3-3*
+E5AFF8	"@#"*:*3*8-
+E5AFF9	"@#"*:*3*7-
+E5AFFA	"@#"*:*2-3*
+E5AFFB	"@#"*:*3*5-
+E5AFFC	"@#"*:*3*4-
+E5AFFD	"@#"*:*1-3*
+E5AFFE	"@#"*:*3*2-
+E5AFFF	"@#"*:*3*1-

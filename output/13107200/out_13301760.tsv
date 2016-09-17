@@ -481,7 +481,7 @@ CAF9DF	"ok# "***1-
 CAF9E0	"ok# "***
 CAF9E1	"ok# "***1+
 CAF9E2	"ok# "***2+
-CAF9E3	"ok# "***3+
+CAF9E3	"/~sf"**+9*
 CAF9E4	"ok# "***4+
 CAF9E5	"ok# "***5+
 CAF9E6	"ok# "***6+
@@ -534,7 +534,7 @@ CAFA14	"vS>7/"***\-
 CAFA15	"uS>7/"***\-
 CAFA16	"tS>7/"***\-
 CAFA17	"sS>7/"***\-
-CAFA18	"wY} "+**8*
+CAFA18	"wY|!"+**8*
 CAFA19	"xqm"**7-9*
 CAFA1A	"pS>7/"***\-
 CAFA1B	"oS>7/"***\-
@@ -886,7 +886,7 @@ CAFB74	"YO,+"***8-
 CAFB75	"YO,+"***7-
 CAFB76	"YO,+"***6-
 CAFB77	"YO,+"***5-
-CAFB78	"tE~ 0"*+**
+CAFB78	"YO,+"***4-
 CAFB79	"YO,+"***3-
 CAFB7A	"YO,+"***2-
 CAFB7B	"YO,+"***1-
@@ -922,7 +922,7 @@ CAFB98	"hjS*$"***+
 CAFB99	"ijS*$"***+
 CAFB9A	"jjS*$"***+
 CAFB9B	"kjS*$"***+
-CAFB9C	" YO,+"***+
+CAFB9C	"$xqm"**+9*
 CAFB9D	"!YO,+"***+
 CAFB9E	"njS*$"***+
 CAFB9F	"#YO,+"***+
@@ -958,7 +958,7 @@ CAFBBC	"bC~2&"*+**
 CAFBBD	"AYO,+"***+
 CAFBBE	"BYO,+"***+
 CAFBBF	"CYO,+"***+
-CAFBC0	"|xu "+**6*
+CAFBC0	"|xt!"+**6*
 CAFBC1	"EYO,+"***+
 CAFBC2	"FYO,+"***+
 CAFBC3	"GYO,+"***+
@@ -1147,7 +1147,7 @@ CAFC79	"eb* "***7-
 CAFC7A	"eb* "***6-
 CAFC7B	"eb* "***5-
 CAFC7C	"eb* "***4-
-CAFC7D	"eb* "***3-
+CAFC7D	"=xqm"**+9*
 CAFC7E	"eb* "***2-
 CAFC7F	"eb* "***1-
 CAFC80	"eb* "***
@@ -1156,7 +1156,7 @@ CAFC82	"eb* "***2+
 CAFC83	"eb* "***3+
 CAFC84	"eb* "***4+
 CAFC85	"eb* "***5+
-CAFC86	"eb* "***6+
+CAFC86	">xqm"**+9*
 CAFC87	"eb* "***7+
 CAFC88	"eb* "***8+
 CAFC89	"eb* "***9+
@@ -1183,7 +1183,7 @@ CAFC9D	"=z:/("***+
 CAFC9E	">z:/("***+
 CAFC9F	"?z:/("***+
 CAFCA0	" eb* "***+
-CAFCA1	"!eb* "***+
+CAFCA1	"Axqm"**+9*
 CAFCA2	"Bz:/("***+
 CAFCA3	"#eb* "***+
 CAFCA4	"$eb* "***+
@@ -1192,7 +1192,7 @@ CAFCA6	"&eb* "***+
 CAFCA7	"'eb* "***+
 CAFCA8	"(eb* "***+
 CAFCA9	")eb* "***+
-CAFCAA	"*eb* "***+
+CAFCAA	"Bxqm"**+9*
 CAFCAB	"+eb* "***+
 CAFCAC	",eb* "***+
 CAFCAD	"-eb* "***+
@@ -1201,7 +1201,7 @@ CAFCAF	"/eb* "***+
 CAFCB0	"0eb* "***+
 CAFCB1	"1eb* "***+
 CAFCB2	"2eb* "***+
-CAFCB3	"3eb* "***+
+CAFCB3	"Cxqm"**+9*
 CAFCB4	"4eb* "***+
 CAFCB5	"5eb* "***+
 CAFCB6	"6eb* "***+
@@ -1210,7 +1210,7 @@ CAFCB8	"|aO"**7*2*
 CAFCB9	"9eb* "***+
 CAFCBA	":eb* "***+
 CAFCBB	";eb* "***+
-CAFCBC	"<eb* "***+
+CAFCBC	"Dxqm"**+9*
 CAFCBD	"=eb* "***+
 CAFCBE	">eb* "***+
 CAFCBF	"?eb* "***+
@@ -1219,7 +1219,7 @@ CAFCC1	"Aeb* "***+
 CAFCC2	"Beb* "***+
 CAFCC3	"Ceb* "***+
 CAFCC4	"Deb* "***+
-CAFCC5	"Eeb* "***+
+CAFCC5	"Exqm"**+9*
 CAFCC6	"Feb* "***+
 CAFCC7	"Geb* "***+
 CAFCC8	"Heb* "***+
@@ -1228,7 +1228,7 @@ CAFCCA	"Jeb* "***+
 CAFCCB	"Keb* "***+
 CAFCCC	"Leb* "***+
 CAFCCD	"Meb* "***+
-CAFCCE	"Neb* "***+
+CAFCCE	"Fxqm"**+9*
 CAFCCF	"Oeb* "***+
 CAFCD0	"Peb* "***+
 CAFCD1	"Qeb* "***+
@@ -1306,7 +1306,7 @@ CAFD18	"=}K+!"***\-
 CAFD19	"{a~a"+**5*
 CAFD1A	";}K+!"***\-
 CAFD1B	":}K+!"***\-
-CAFD1C	"g^~ '"*+**
+CAFD1C	"g^~g"+**6*
 CAFD1D	"8}K+!"***\-
 CAFD1E	"7}K+!"***\-
 CAFD1F	"Oxqm"**+9*
@@ -1486,7 +1486,7 @@ CAFDCC	"j^U-%"***\-
 CAFDCD	"i^U-%"***\-
 CAFDCE	"h^U-%"***\-
 CAFDCF	"g^U-%"***\-
-CAFDD0	"wfi "+**8*
+CAFDD0	"wfh!"+**8*
 CAFDD1	"e^U-%"***\-
 CAFDD2	"d^U-%"***\-
 CAFDD3	"cxqm"**+9*
@@ -1594,7 +1594,7 @@ CAFE38	"^U-%"***2+
 CAFE39	"^U-%"***3+
 CAFE3A	"^U-%"***4+
 CAFE3B	"^U-%"***5+
-CAFE3C	"aB~ ="*+**
+CAFE3C	"^U-%"***6+
 CAFE3D	"^U-%"***7+
 CAFE3E	"^U-%"***8+
 CAFE3F	"^U-%"***9+
@@ -1615,7 +1615,7 @@ CAFE4D	"3jj% "***\-
 CAFE4E	"2jj% "***\-
 CAFE4F	"1jj% "***\-
 CAFE50	"0jj% "***\-
-CAFE51	"qg_ "+**9*
+CAFE51	"qg^!"+**9*
 CAFE52	".jj% "***\-
 CAFE53	"-jj% "***\-
 CAFE54	",jj% "***\-
@@ -1660,7 +1660,7 @@ CAFE7A	"jj %"***6-
 CAFE7B	"jj %"***5-
 CAFE7C	"jj %"***4-
 CAFE7D	"jj %"***3-
-CAFE7E	"jj %"***2-
+CAFE7E	"vxqm"**+9*
 CAFE7F	"jj %"***1-
 CAFE80	"jj %"***
 CAFE81	"jj %"***1+
@@ -1669,7 +1669,7 @@ CAFE83	"jj %"***3+
 CAFE84	"jj %"***4+
 CAFE85	"jj %"***5+
 CAFE86	"jj %"***6+
-CAFE87	"jj %"***7+
+CAFE87	"wxqm"**+9*
 CAFE88	"jj %"***8+
 CAFE89	"jj %"***9+
 CAFE8A	"VUIC "***\-
@@ -1849,7 +1849,7 @@ CAFF37	"bM+)"***9+
 CAFF38	"H{A4 "***\-
 CAFF39	"G{A4 "***\-
 CAFF3A	"F{A4 "***\-
-CAFF3B	"E{A4 "***\-
+CAFF3B	"}vtl"**\-9*
 CAFF3C	"D{A4 "***\-
 CAFF3D	"C{A4 "***\-
 CAFF3E	"B{A4 "***\-
@@ -1858,7 +1858,7 @@ CAFF40	"@{A4 "***\-
 CAFF41	"?{A4 "***\-
 CAFF42	">{A4 "***\-
 CAFF43	"={A4 "***\-
-CAFF44	"<{A4 "***\-
+CAFF44	"|vtl"**\-9*
 CAFF45	";{A4 "***\-
 CAFF46	":{A4 "***\-
 CAFF47	"9{A4 "***\-
@@ -1867,7 +1867,7 @@ CAFF49	"7{A4 "***\-
 CAFF4A	"6{A4 "***\-
 CAFF4B	"5{A4 "***\-
 CAFF4C	"4{A4 "***\-
-CAFF4D	"3{A4 "***\-
+CAFF4D	"{vtl"**\-9*
 CAFF4E	"2{A4 "***\-
 CAFF4F	"1{A4 "***\-
 CAFF50	"0{A4 "***\-
@@ -1876,7 +1876,7 @@ CAFF52	".{A4 "***\-
 CAFF53	"-{A4 "***\-
 CAFF54	",{A4 "***\-
 CAFF55	"+{A4 "***\-
-CAFF56	"*{A4 "***\-
+CAFF56	"zvtl"**\-9*
 CAFF57	"){A4 "***\-
 CAFF58	"({A4 "***\-
 CAFF59	"'{A4 "***\-
@@ -1885,7 +1885,7 @@ CAFF5B	"%{A4 "***\-
 CAFF5C	"${A4 "***\-
 CAFF5D	"#{A4 "***\-
 CAFF5E	"(gg&!"***\-
-CAFF5F	"!{A4 "***\-
+CAFF5F	"yvtl"**\-9*
 CAFF60	" {A4 "***\-
 CAFF61	"%gg&!"***\-
 CAFF62	"$gg&!"***\-
@@ -1939,7 +1939,7 @@ CAFF91	"otp  "***\-
 CAFF92	"~rS&%"***+
 CAFF93	"mtp  "***\-
 CAFF94	"ltp  "***\-
-CAFF95	"ktp  "***\-
+CAFF95	"svtl"**\-9*
 CAFF96	"jtp  "***\-
 CAFF97	"itp  "***\-
 CAFF98	"htp  "***\-
@@ -1948,7 +1948,7 @@ CAFF9A	"ftp  "***\-
 CAFF9B	"etp  "***\-
 CAFF9C	"dtp  "***\-
 CAFF9D	"ctp  "***\-
-CAFF9E	"btp  "***\-
+CAFF9E	"rvtl"**\-9*
 CAFF9F	"eY(%"***9-
 CAFFA0	"eY(%"***8-
 CAFFA1	"eY(%"***7-
@@ -1975,7 +1975,7 @@ CAFFB5	"Ktp  "***\-
 CAFFB6	"Jtp  "***\-
 CAFFB7	"Itp  "***\-
 CAFFB8	"Htp  "***\-
-CAFFB9	"Gtp  "***\-
+CAFFB9	"ovtl"**\-9*
 CAFFBA	"kkS"**7*2*
 CAFFBB	"Etp  "***\-
 CAFFBC	"Dtp  "***\-
@@ -1984,7 +1984,7 @@ CAFFBE	"Btp  "***\-
 CAFFBF	"Atp  "***\-
 CAFFC0	"@tp  "***\-
 CAFFC1	"?tp  "***\-
-CAFFC2	">tp  "***\-
+CAFFC2	"nvtl"**\-9*
 CAFFC3	"=tp  "***\-
 CAFFC4	"<tp  "***\-
 CAFFC5	";tp  "***\-
@@ -1993,7 +1993,7 @@ CAFFC7	"9tp  "***\-
 CAFFC8	"8tp  "***\-
 CAFFC9	"7tp  "***\-
 CAFFCA	"6tp  "***\-
-CAFFCB	"5tp  "***\-
+CAFFCB	"mvtl"**\-9*
 CAFFCC	"4tp  "***\-
 CAFFCD	"3tp  "***\-
 CAFFCE	"2tp  "***\-
@@ -2002,7 +2002,7 @@ CAFFD0	"0tp  "***\-
 CAFFD1	"/tp  "***\-
 CAFFD2	".tp  "***\-
 CAFFD3	"-tp  "***\-
-CAFFD4	",tp  "***\-
+CAFFD4	"lvtl"**\-9*
 CAFFD5	"+tp  "***\-
 CAFFD6	"*tp  "***\-
 CAFFD7	")tp  "***\-
@@ -2011,7 +2011,7 @@ CAFFD9	"'tp  "***\-
 CAFFDA	"&tp  "***\-
 CAFFDB	"%tp  "***\-
 CAFFDC	"$tp  "***\-
-CAFFDD	"#tp  "***\-
+CAFFDD	"kvtl"**\-9*
 CAFFDE	"6eY(%"***+
 CAFFDF	"!tp  "***\-
 CAFFE0	" tp  "***\-

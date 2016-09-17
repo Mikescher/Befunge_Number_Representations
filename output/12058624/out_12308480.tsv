@@ -246,7 +246,7 @@ BBD0F4	"ooo"**5+9*
 BBD0F5	"[D;;4"***\-
 BBD0F6	"ZD;;4"***\-
 BBD0F7	"|^! "***9-
-BBD0F8	"|^! "***8-
+BBD0F8	"k{vj"**+8*
 BBD0F9	"|^! "***7-
 BBD0FA	"|^! "***6-
 BBD0FB	"|^! "***5-
@@ -262,7 +262,7 @@ BBD104	"|^! "***4+
 BBD105	"|^! "***5+
 BBD106	"ooo"**7+9*
 BBD107	"|^! "***7+
-BBD108	"|^! "***8+
+BBD108	"m{vj"**+8*
 BBD109	"|^! "***9+
 BBD10A	"q91'"***5-
 BBD10B	"q91'"***4-
@@ -278,7 +278,7 @@ BBD114	"q91'"***5+
 BBD115	"q91'"***6+
 BBD116	"q91'"***7+
 BBD117	"q91'"***8+
-BBD118	"xWc "+**9*
+BBD118	"q91'"***9+
 BBD119	"7D;;4"***\-
 BBD11A	"6D;;4"***\-
 BBD11B	"5D;;4"***\-
@@ -305,7 +305,7 @@ BBD12F	"!D;;4"***\-
 BBD130	"r{vj"**+8*
 BBD131	"Oq\% "***\-
 BBD132	"Nq\% "***\-
-BBD133	"Mq\% "***\-
+BBD133	"czoe"**\-9*
 BBD134	"Lq\% "***\-
 BBD135	"Kq\% "***\-
 BBD136	"Jq\% "***\-
@@ -314,11 +314,11 @@ BBD138	"s{vj"**+8*
 BBD139	"Gq\% "***\-
 BBD13A	"Fq\% "***\-
 BBD13B	"Eq\% "***\-
-BBD13C	"Dq\% "***\-
+BBD13C	"bzoe"**\-9*
 BBD13D	"Cq\% "***\-
 BBD13E	"Bq\% "***\-
 BBD13F	"Aq\% "***\-
-BBD140	"pd} "+**7*
+BBD140	"pd|!"+**7*
 BBD141	"?q\% "***\-
 BBD142	">q\% "***\-
 BBD143	"=q\% "***\-
@@ -374,7 +374,7 @@ BBD174	"F]Q+&"***\-
 BBD175	"E]Q+&"***\-
 BBD176	"D]Q+&"***\-
 BBD177	"q\ %"***9-
-BBD178	"q\ %"***8-
+BBD178	"{{vj"**+8*
 BBD179	"q\ %"***7-
 BBD17A	"q\ %"***6-
 BBD17B	"q\ %"***5-
@@ -390,7 +390,7 @@ BBD184	"q\ %"***4+
 BBD185	"q\ %"***5+
 BBD186	"q\ %"***6+
 BBD187	"q\ %"***7+
-BBD188	"q\ %"***8+
+BBD188	"}{vj"**+8*
 BBD189	"q\ %"***9+
 BBD18A	"0]Q+&"***\-
 BBD18B	"/]Q+&"***\-
@@ -485,7 +485,7 @@ BBD1E3	"gkS*!"***\-
 BBD1E4	"fkS*!"***\-
 BBD1E5	"ekS*!"***\-
 BBD1E6	"dkS*!"***\-
-BBD1E7	"yY_ "+**9*
+BBD1E7	"yY^!"+**9*
 BBD1E8	"bkS*!"***\-
 BBD1E9	"akS*!"***\-
 BBD1EA	"`kS*!"***\-
@@ -798,7 +798,7 @@ BBD31C	"*YY*%"***+
 BBD31D	"+YY*%"***+
 BBD31E	",YY*%"***+
 BBD31F	"-YY*%"***+
-BBD320	"kP~ )"*+**
+BBD320	".YY*%"***+
 BBD321	"/YY*%"***+
 BBD322	"0YY*%"***+
 BBD323	"1YY*%"***+
@@ -1358,7 +1358,7 @@ BBD54C	"Vk=.)"***\-
 BBD54D	"Uk=.)"***\-
 BBD54E	"Tk=.)"***\-
 BBD54F	"Sk=.)"***\-
-BBD550	"{xk "+**6*
+BBD550	"{xj!"+**6*
 BBD551	"Qk=.)"***\-
 BBD552	"Pk=.)"***\-
 BBD553	"Ok=.)"***\-
@@ -1574,7 +1574,7 @@ BBD624	"g75)"***7+
 BBD625	"g75)"***8+
 BBD626	"g75)"***9+
 BBD627	"-_>7&"***\-
-BBD628	"yl} "+**6*
+BBD628	"yl|!"+**6*
 BBD629	"+_>7&"***\-
 BBD62A	"*_>7&"***\-
 BBD62B	")_>7&"***\-
@@ -1898,7 +1898,7 @@ BBD768	"4^I.'"***\-
 BBD769	"!]>=#"***\-
 BBD76A	" ]>=#"***\-
 BBD76B	"1^I.'"***\-
-BBD76C	"lUu "+**9*
+BBD76C	"lUt!"+**9*
 BBD76D	"/^I.'"***\-
 BBD76E	".~g51"**+*
 BBD76F	"-^I.'"***\-
@@ -1966,23 +1966,23 @@ BBD7AC	"$hY&#"***\-
 BBD7AD	"#hY&#"***\-
 BBD7AE	"rgS- "***\-
 BBD7AF	"!hY&#"***\-
-BBD7B0	" hY&#"***\-
+BBD7B0	"fzwj"**\-8*
 BBD7B1	"ogS- "***\-
 BBD7B2	"ngS- "***\-
 BBD7B3	"mgS- "***\-
-BBD7B4	"lgS- "***\-
+BBD7B4	"Myw_"**\-9*
 BBD7B5	"kgS- "***\-
 BBD7B6	"jgS- "***\-
 BBD7B7	"igS- "***\-
-BBD7B8	"hgS- "***\-
+BBD7B8	"ezwj"**\-8*
 BBD7B9	"ggS- "***\-
 BBD7BA	"fgS- "***\-
 BBD7BB	"egS- "***\-
 BBD7BC	"dgS- "***\-
-BBD7BD	"cgS- "***\-
+BBD7BD	"Lyw_"**\-9*
 BBD7BE	"bgS- "***\-
 BBD7BF	"agS- "***\-
-BBD7C0	"`gS- "***\-
+BBD7C0	"dzwj"**\-8*
 BBD7C1	"_gS- "***\-
 BBD7C2	"^gS- "***\-
 BBD7C3	"]gS- "***\-
@@ -2014,35 +2014,35 @@ BBD7DC	"DgS- "***\-
 BBD7DD	"CgS- "***\-
 BBD7DE	"BgS- "***\-
 BBD7DF	"AgS- "***\-
-BBD7E0	"@gS- "***\-
-BBD7E1	"?gS- "***\-
+BBD7E0	"`zwj"**\-8*
+BBD7E1	"Hyw_"**\-9*
 BBD7E2	">gS- "***\-
 BBD7E3	"=gS- "***\-
 BBD7E4	"<gS- "***\-
 BBD7E5	";gS- "***\-
 BBD7E6	":gS- "***\-
 BBD7E7	"9gS- "***\-
-BBD7E8	"8gS- "***\-
+BBD7E8	"_zwj"**\-8*
 BBD7E9	"7gS- "***\-
-BBD7EA	"6gS- "***\-
+BBD7EA	"Gyw_"**\-9*
 BBD7EB	"5gS- "***\-
 BBD7EC	"4gS- "***\-
 BBD7ED	"3gS- "***\-
 BBD7EE	"2gS- "***\-
 BBD7EF	"1gS- "***\-
-BBD7F0	"0gS- "***\-
+BBD7F0	"^zwj"**\-8*
 BBD7F1	"/gS- "***\-
 BBD7F2	".gS- "***\-
-BBD7F3	"-gS- "***\-
+BBD7F3	"Fyw_"**\-9*
 BBD7F4	",gS- "***\-
 BBD7F5	"+gS- "***\-
 BBD7F6	"*gS- "***\-
 BBD7F7	")gS- "***\-
-BBD7F8	"(gS- "***\-
+BBD7F8	"]zwj"**\-8*
 BBD7F9	"'gS- "***\-
 BBD7FA	"j/~C#"*+**
 BBD7FB	"%gS- "***\-
-BBD7FC	"$gS- "***\-
+BBD7FC	"Eyw_"**\-9*
 BBD7FD	"#gS- "***\-
 BBD7FE	".hY&#"***+
 BBD7FF	";~YG!"**+*

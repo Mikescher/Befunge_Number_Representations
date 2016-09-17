@@ -1,11 +1,11 @@
 FCC800	"oj,"**8-8*4*
-FCC801	"sjw "+**7+9*
+FCC801	"{I-)"***9+9+
 FCC802	"m;8."***9+9+
 FCC803	"{{~]"+**4+5*
 FCC804	"I-))"***7+3*
 FCC805	"vm~:"+**3+7*
 FCC806	" {I-)"***+9-
-FCC807	"W~%%k "+**+*
+FCC807	"W~%%j!"+**+*
 FCC808	"{{~]"+**5+5*
 FCC809	" {I-)"***+6-
 FCC80A	"YQ~~>!"*++**
@@ -118,7 +118,7 @@ FCC874	"ee:"**7*9-4*
 FCC875	"og~Q"+**4-7*
 FCC876	"{{I"**9+5*3*
 FCC877	"|d~)"+**8*9-
-FCC878	"~ym} "+**+8*
+FCC878	"|d~)"+**8*8-
 FCC879	"|d~)"+**8*7-
 FCC87A	"|d~)"+**8*6-
 FCC87B	"|d~)"+**8*5-
@@ -637,7 +637,7 @@ FCCA7B	"sb*#"***7+
 FCCA7C	"sb*#"***8+
 FCCA7D	"sb*#"***9+
 FCCA7E	"sb*#"***1+9+
-FCCA7F	"+)~I_ "+*+**
+FCCA7F	"+)~I^!"+*+**
 FCCA80	"`I~~@!"*++**
 FCCA81	"a?~7/"*+**8-
 FCCA82	"~VVF "***\-
@@ -749,7 +749,7 @@ FCCAEB	"@uY+%"***\-
 FCCAEC	"?uY+%"***\-
 FCCAED	">uY+%"***\-
 FCCAEE	"=uY+%"***\-
-FCCAEF	"C;!_ "+***
+FCCAEF	"C;!^!"+***
 FCCAF0	";uY+%"***\-
 FCCAF1	":uY+%"***\-
 FCCAF2	"9uY+%"***\-
@@ -787,7 +787,7 @@ FCCB11	"pV+("***8+9+
 FCCB12	"pV+("***9+9+
 FCCB13	"Y+'%"***8-3*
 FCCB14	"pVV"**1+5*4*
-FCCB15	"++( "***3+7*
+FCCB15	"V("*:*5/3+7*
 FCCB16	"Y+'%"***7-3*
 FCCB17	" VVF "***+9-
 FCCB18	"pV~Y"+**3+8*
@@ -796,8 +796,8 @@ FCCB1A	" VVF "***+6-
 FCCB1B	" VVF "***+5-
 FCCB1C	"sbF"**8+7*3*
 FCCB1D	" VVF "***+3-
-FCCB1E	" VVF "***+2-
-FCCB1F	" VVF "***+1-
+FCCB1E	"pVV"**4*6+5*
+FCCB1F	"Y+'%"***4-3*
 FCCB20	" VVF "***+
 FCCB21	"!VVF "***+
 FCCB22	"uY+%"***9-
@@ -947,7 +947,7 @@ FCCBB1	"~uY+%"***+8+
 FCCBB2	"~uY+%"***+9+
 FCCBB3	"~YI32"***\-5-
 FCCBB4	"xvu"**2+5*2*
-FCCBB5	"K;' "***7+3*
+FCCBB5	"xvN"**5*7+3*
 FCCBB6	".~~q[#"**++*
 FCCBB7	"eX~k"+**8*9-
 FCCBB8	"~YI32"***\-
@@ -1334,7 +1334,7 @@ FCCD34	"za(#"***4+
 FCCD35	"za(#"***5+
 FCCD36	"za(#"***6+
 FCCD37	"za(#"***7+
-FCCD38	"{qu "+**8*
+FCCD38	"za(#"***8+
 FCCD39	"za(#"***9+
 FCCD3A	" [I:+"***\-
 FCCD3B	"/mO4%"***+
@@ -1602,7 +1602,7 @@ FCCE40	"kO8#"***8-
 FCCE41	"kO8#"***7-
 FCCE42	"kO8#"***6-
 FCCE43	"kO8#"***5-
-FCCE44	"^~V @"**+*
+FCCE44	"kO8#"***4-
 FCCE45	"kO8#"***3-
 FCCE46	"kO8#"***2-
 FCCE47	"kO8#"***1-

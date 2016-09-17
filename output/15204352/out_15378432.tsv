@@ -10,7 +10,7 @@ EAA808	"(|A5$"***\-
 EAA809	"'|A5$"***\-
 EAA80A	"&|A5$"***\-
 EAA80B	"%|A5$"***\-
-EAA80C	"{\w "+**9*
+EAA80C	"{\v!"+**9*
 EAA80D	"#|A5$"***\-
 EAA80E	")i=11"***+
 EAA80F	"/~iY#"**+*
@@ -154,7 +154,7 @@ EAA898	"h|A5$"***+
 EAA899	"i|A5$"***+
 EAA89A	"j|A5$"***+
 EAA89B	"k|A5$"***+
-EAA89C	"z^u "+**9*
+EAA89C	"z^t!"+**9*
 EAA89D	"m|A5$"***+
 EAA89E	"n|A5$"***+
 EAA89F	"rG2&"***9-
@@ -192,9 +192,9 @@ EAA8BE	"q~e_"*+*7*2*
 EAA8BF	" rG2&"***+9-
 EAA8C0	"|jA"**8+9*2*
 EAA8C1	"rLG"**1+5*5*
-EAA8C2	" rG2&"***+6-
-EAA8C3	" rG2&"***+5-
-EAA8C4	" rG2&"***+4-
+EAA8C2	"IA>5$"***+2*
+EAA8C3	"G2&&"***9+3*
+EAA8C4	"JA>5$"***+2*
 EAA8C5	"jV~s"+**9-7*
 EAA8C6	"5~y3/"**+*9-
 EAA8C7	"5~y3/"**+*8-
@@ -215,14 +215,14 @@ EAA8D5	"-rG2&"***+
 EAA8D6	".rG2&"***+
 EAA8D7	"/rG2&"***+
 EAA8D8	"0rG2&"***+
-EAA8D9	"=+)o "+***
+EAA8D9	"=+)n!"+***
 EAA8DA	"2rG2&"***+
 EAA8DB	"3rG2&"***+
 EAA8DC	"4rG2&"***+
 EAA8DD	"5rG2&"***+
 EAA8DE	"6rG2&"***+
 EAA8DF	"7rG2&"***+
-EAA8E0	" ~eGC"**+*
+EAA8E0	"8rG2&"***+
 EAA8E1	"9~sC#"**+*
 EAA8E2	":rG2&"***+
 EAA8E3	";rG2&"***+
@@ -294,7 +294,7 @@ EAA924	"|rG2&"***+
 EAA925	"}rG2&"***+
 EAA926	"~rG2&"***+
 EAA927	"jV~s"+**5+7*
-EAA928	"|~D~ 5"*+*+*
+EAA928	"wrG2&"***+9+
 EAA929	"sp~I"+**6*9+
 EAA92A	"yrG2&"***+9+
 EAA92B	"zrG2&"***+9+
@@ -303,7 +303,7 @@ EAA92D	"|rG2&"***+9+
 EAA92E	"jV~s"+**6+7*
 EAA92F	"q+~U"+**5*3*
 EAA930	"sT~I"+**2+8*
-EAA931	"|~D~ 5"*+*+*9+
+EAA931	"wrG2&"***+9+9+
 EAA932	"sp~I"+**3+6*
 EAA933	"$~=~}7"*+*+*7+
 EAA934	"r_G"**7+5*4*
@@ -334,14 +334,14 @@ EAA94C	"e~S/'"**+*1-
 EAA94D	"e~S/'"**+*
 EAA94E	"e~S/'"**+*1+
 EAA94F	"e~S/'"**+*2+
-EAA950	"la~~ &"*++**
+EAA950	"e~S/'"**+*3+
 EAA951	"e~S/'"**+*4+
 EAA952	"e~S/'"**+*5+
 EAA953	"=9~~a+"*++**
 EAA954	"e~S/'"**+*7+
 EAA955	"e~S/'"**+*8+
 EAA956	"e~S/'"**+*9+
-EAA957	"~=+)o "+***+
+EAA957	"~=+)n!"+***+
 EAA958	"^~v~G"+*+*7*
 EAA959	"~jS.&"***\-1-
 EAA95A	"~jS.&"***\-
@@ -616,7 +616,7 @@ EAAA66	";/"*:*6-2*
 EAAA67	"rI8!"***9-
 EAAA68	";/"*:*5-2*
 EAAA69	"v;//"***9-
-EAAA6A	"oU~ /"*+**
+EAAA6A	"rI8!"***6-
 EAAA6B	"v;//"***7-
 EAAA6C	"4~}7+"**+*
 EAAA6D	"v;//"***5-
@@ -772,7 +772,7 @@ EAAB02	"xY- "***2+
 EAAB03	"xY- "***3+
 EAAB04	"xY- "***4+
 EAAB05	"xY- "***5+
-EAAB06	"xY- "***6+
+EAAB06	"*&"*5+:*6*
 EAAB07	"xY- "***7+
 EAAB08	"xY- "***8+
 EAAB09	"xY- "***9+
@@ -912,7 +912,7 @@ EAAB8E	"'GC=5"***\-
 EAAB8F	"&GC=5"***\-
 EAAB90	"%GC=5"***\-
 EAAB91	"$GC=5"***\-
-EAAB92	"R%%i "+***
+EAAB92	"R%%h!"+***
 EAAB93	"W~51/"***\-
 EAAB94	"!GC=5"***\-
 EAAB95	" GC=5"***\-
@@ -1774,7 +1774,7 @@ EAAEEC	"Le^-$"***\-
 EAAEED	"Ke^-$"***\-
 EAAEEE	"Je^-$"***\-
 EAAEEF	"Ie^-$"***\-
-EAAEF0	"tt_ "+**9*
+EAAEF0	"tt^!"+**9*
 EAAEF1	"Ge^-$"***\-
 EAAEF2	"Fe^-$"***\-
 EAAEF3	"Ee^-$"***\-
@@ -2008,7 +2008,7 @@ EAAFD6	"VuO4 "***+
 EAAFD7	"WuO4 "***+
 EAAFD8	"XuO4 "***+
 EAAFD9	"YuO4 "***+
-EAAFDA	"~ci "+**9*
+EAAFDA	"~ch!"+**9*
 EAAFDB	"[uO4 "***+
 EAAFDC	"\uO4 "***+
 EAAFDD	"]uO4 "***+

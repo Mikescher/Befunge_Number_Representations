@@ -61,7 +61,7 @@ BF03B	"zy5"**9+
 BF03C	"maJ"**6-
 BF03D	"c~eM"*+*
 BF03E	"maJ"**4-
-BF03F	"Y;u "+**
+BF03F	"Y;t!"+**
 BF040	"x(~%"+**
 BF041	"maJ"**1-
 BF042	"maJ"**
@@ -101,7 +101,7 @@ BF063	"8kgG"**\-
 BF064	"7kgG"**\-
 BF065	"6kgG"**\-
 BF066	"5kgG"**\-
-BF067	"o5e "+**
+BF067	"o5d!"+**
 BF068	"3kgG"**\-
 BF069	"2kgG"**\-
 BF06A	"1kgG"**\-
@@ -109,7 +109,7 @@ BF06B	"0kgG"**\-
 BF06C	"R~kX"*+*
 BF06D	".kgG"**\-
 BF06E	"-kgG"**\-
-BF06F	"e=_ "+**
+BF06F	"e=^!"+**
 BF070	"+kgG"**\-
 BF071	"*kgG"**\-
 BF072	")kgG"**\-
@@ -150,7 +150,7 @@ BF094	"kgG"**7-
 BF095	"kgG"**6-
 BF096	"kgG"**5-
 BF097	"I~kc"*+*
-BF098	"Y8} "+**
+BF098	"Y8|!"+**
 BF099	"kgG"**2-
 BF09A	"kgG"**1-
 BF09B	"kgG"**
@@ -206,11 +206,11 @@ BF0CC	"7c]U"**\-
 BF0CD	"o^K"**9-
 BF0CE	"o^K"**8-
 BF0CF	"o^K"**7-
-BF0D0	"w0i "+**
+BF0D0	"w0h!"+**
 BF0D1	"o^K"**5-
 BF0D2	"~t_G"**+
 BF0D3	"o^K"**3-
-BF0D4	"e4u "+**
+BF0D4	"e4t!"+**
 BF0D5	"o^K"**1-
 BF0D6	"o^K"**
 BF0D7	"o^K"**1+
@@ -222,7 +222,7 @@ BF0DC	"o^K"**6+
 BF0DD	"o^K"**7+
 BF0DE	"o^K"**8+
 BF0DF	"o^K"**9+
-BF0E0	"PIf "+**
+BF0E0	"PIe!"+**
 BF0E1	"%kjE"**\-
 BF0E2	"GB~)"+**
 BF0E3	" c]U"**\-
@@ -236,7 +236,7 @@ BF0EA	":ybB"**\-
 BF0EB	"9ybB"**\-
 BF0EC	"8ybB"**\-
 BF0ED	"7ybB"**\-
-BF0EE	"ON_ "+**
+BF0EE	"ON^!"+**
 BF0EF	"5ybB"**\-
 BF0F0	"4ybB"**\-
 BF0F1	"Y~kQ"*+*
@@ -256,7 +256,7 @@ BF0FE	"c]U"**5-
 BF0FF	"c]U"**4-
 BF100	"c]U"**3-
 BF101	"c]U"**2-
-BF102	"g:c "+**
+BF102	"g:b!"+**
 BF103	"c]U"**
 BF104	"c]U"**1+
 BF105	"c]U"**2+
@@ -295,7 +295,7 @@ BF125	"ybB"**1+
 BF126	"ybB"**2+
 BF127	"ybB"**3+
 BF128	"ybB"**4+
-BF129	"IGw "+**
+BF129	"IGv!"+**
 BF12A	"ybB"**6+
 BF12B	"ybB"**7+
 BF12C	"ybB"**8+
@@ -353,13 +353,13 @@ BF15F	"sSR"**3-
 BF160	"sSR"**2-
 BF161	"sSR"**1-
 BF162	"sSR"**
-BF163	"[=m "+**
+BF163	"[=l!"+**
 BF164	"sSR"**2+
 BF165	"sSR"**3+
 BF166	"vcC"**
 BF167	"sSR"**5+
 BF168	"sSR"**6+
-BF169	"g3u "+**
+BF169	"g3t!"+**
 BF16A	"sSR"**8+
 BF16B	"sSR"**9+
 BF16C	"vcC"**6+
@@ -444,9 +444,9 @@ BF1BA	"{VJ"**6+
 BF1BB	"{VJ"**7+
 BF1BC	"{VJ"**8+
 BF1BD	"{VJ"**9+
-BF1BE	"w.o "+**
+BF1BE	"w.n!"+**
 BF1BF	"iiG"**8+
-BF1C0	"l0w "+**
+BF1C0	"l0v!"+**
 BF1C1	"5~m9"**\-
 BF1C2	"4~m9"**\-
 BF1C3	"3~m9"**\-
@@ -490,7 +490,7 @@ BF1E8	"2z]E"**\-
 BF1E9	"1z]E"**\-
 BF1EA	"0z]E"**\-
 BF1EB	"/z]E"**\-
-BF1EC	"\C_ "+**
+BF1EC	"\C^!"+**
 BF1ED	"~m9"**9-
 BF1EE	"~jhG"**+
 BF1EF	"~k_M"**+
@@ -508,9 +508,9 @@ BF1FA	"~m9"**4+
 BF1FB	"~m9"**5+
 BF1FC	"Y~fU"*+*
 BF1FD	"~m9"**7+
-BF1FE	"JGu "+**
+BF1FE	"JGt!"+**
 BF1FF	"u~eA"*+*
-BF200	"X@k "+**
+BF200	"X@j!"+**
 BF201	".{_C"**\-
 BF202	"-{_C"**\-
 BF203	"e~}="*+*
@@ -518,7 +518,7 @@ BF204	"+{_C"**\-
 BF205	"*{_C"**\-
 BF206	"){_C"**\-
 BF207	"({_C"**\-
-BF208	"SHc "+**
+BF208	"SHb!"+**
 BF209	"&{_C"**\-
 BF20A	"%{_C"**\-
 BF20B	"${_C"**\-
@@ -563,7 +563,7 @@ BF231	"{_C"**2+
 BF232	"~{VJ"**+
 BF233	"{_C"**4+
 BF234	"{_C"**5+
-BF235	"w3a "+**
+BF235	"w3`!"+**
 BF236	"{_C"**7+
 BF237	"g~sA"*+*
 BF238	"{_C"**9+
@@ -587,7 +587,7 @@ BF249	"s\J"**1+
 BF24A	"s\J"**2+
 BF24B	"s\J"**3+
 BF24C	"s\J"**4+
-BF24D	"KIo "+**
+BF24D	"KIn!"+**
 BF24E	"s\J"**6+
 BF24F	"s\J"**7+
 BF250	"s\J"**8+
@@ -597,7 +597,7 @@ BF253	"|RM"**5-
 BF254	"|RM"**4-
 BF255	"|RM"**3-
 BF256	"|RM"**2-
-BF257	"U=w "+**
+BF257	"U=v!"+**
 BF258	"|RM"**
 BF259	"|RM"**1+
 BF25A	"~|k;"**+
@@ -730,7 +730,7 @@ BF2D8	"(p\L"**\-
 BF2D9	"'p\L"**\-
 BF2DA	"&p\L"**\-
 BF2DB	"%p\L"**\-
-BF2DC	"JJo "+**
+BF2DC	"JJn!"+**
 BF2DD	"#p\L"**\-
 BF2DE	"#oUS"**\-
 BF2DF	"!p\L"**\-
@@ -778,9 +778,9 @@ BF308	"p\L"**8+
 BF309	"p\L"**9+
 BF30A	"oUS"**9+
 BF30B	"UnYP"**\-
-BF30C	"t+} "+**
+BF30C	"t+|!"+**
 BF30D	"SnYP"**\-
-BF30E	"z1c "+**
+BF30E	"z1b!"+**
 BF30F	"QnYP"**\-
 BF310	"x~d@"*+*
 BF311	"OnYP"**\-
@@ -806,7 +806,7 @@ BF324	"<nYP"**\-
 BF325	"{~OO"*+*
 BF326	":nYP"**\-
 BF327	"9nYP"**\-
-BF328	"IHu "+**
+BF328	"IHt!"+**
 BF329	"7nYP"**\-
 BF32A	"[~jP"*+*
 BF32B	"5nYP"**\-
@@ -894,12 +894,12 @@ BF37C	"/a_U"**\-
 BF37D	".a_U"**\-
 BF37E	"FC~)"+**
 BF37F	"~oUS"**+
-BF380	"t ~U"+**
+BF380	"zk<"**8-
 BF381	"zk<"**7-
 BF382	"zk<"**6-
 BF383	"zk<"**5-
 BF384	"zk<"**4-
-BF385	"[9w "+**
+BF385	"[9v!"+**
 BF386	"zk<"**2-
 BF387	"zk<"**1-
 BF388	"zk<"**
@@ -917,7 +917,7 @@ BF393	"%c\V"**\-
 BF394	"$c\V"**\-
 BF395	"#c\V"**\-
 BF396	"=ugA"**\-
-BF397	"e7m "+**
+BF397	"e7l!"+**
 BF398	" c\V"**\-
 BF399	":ugA"**\-
 BF39A	"9ugA"**\-
@@ -927,7 +927,7 @@ BF39D	"6ugA"**\-
 BF39E	"5ugA"**\-
 BF39F	"4ugA"**\-
 BF3A0	"{ ~I"+**
-BF3A1	"s1k "+**
+BF3A1	"s1j!"+**
 BF3A2	"a_U"**9-
 BF3A3	"a_U"**8-
 BF3A4	"a_U"**7-
@@ -952,7 +952,7 @@ BF3B6	"c\V"**2-
 BF3B7	"c\V"**1-
 BF3B8	"c\V"**
 BF3B9	"c\V"**1+
-BF3BA	"JIq "+**
+BF3BA	"JIp!"+**
 BF3BB	"c\V"**3+
 BF3BC	"c\V"**4+
 BF3BD	"c\V"**5+
@@ -1025,14 +1025,14 @@ BF3FF	"ySN"**5+
 BF400	"xf@"**
 BF401	"ySN"**7+
 BF402	"ySN"**8+
-BF403	"IIs "+**
-BF404	"OJf "+**
+BF403	"IIr!"+**
+BF404	"OJe!"+**
 BF405	"xf@"**5+
 BF406	"~zk<"**+
 BF407	"xf@"**7+
 BF408	"xf@"**8+
 BF409	"xf@"**9+
-BF40A	"_>e "+**
+BF40A	"_>d!"+**
 BF40B	"=|u6"**\-
 BF40C	"a~jK"*+*
 BF40D	";|u6"**\-
@@ -1042,7 +1042,7 @@ BF410	"8|u6"**\-
 BF411	"7|u6"**\-
 BF412	"Y6~%"+**
 BF413	"5|u6"**\-
-BF414	"s4c "+**
+BF414	"s4b!"+**
 BF415	"3|u6"**\-
 BF416	"2|u6"**\-
 BF417	"1|u6"**\-
@@ -1294,7 +1294,7 @@ BF50C	"4|PO"**\-
 BF50D	"3|PO"**\-
 BF50E	"2|PO"**\-
 BF50F	"1|PO"**\-
-BF510	"VDf "+**
+BF510	"VDe!"+**
 BF511	"/|PO"**\-
 BF512	".|PO"**\-
 BF513	"-|PO"**\-
@@ -1302,7 +1302,7 @@ BF514	",|PO"**\-
 BF515	"+|PO"**\-
 BF516	"*|PO"**\-
 BF517	")|PO"**\-
-BF518	"n4i "+**
+BF518	"n4h!"+**
 BF519	"'|PO"**\-
 BF51A	"&|PO"**\-
 BF51B	"%|PO"**\-
@@ -1337,7 +1337,7 @@ BF537	"|PO"**9-
 BF538	"|PO"**8-
 BF539	"|PO"**7-
 BF53A	"|PO"**6-
-BF53B	"QKa "+**
+BF53B	"QK`!"+**
 BF53C	"|PO"**4-
 BF53D	"|PO"**3-
 BF53E	"^~wE"*+*
@@ -1379,7 +1379,7 @@ BF561	"%}r7"**\-
 BF562	"$}r7"**\-
 BF563	"#}r7"**\-
 BF564	"({v6"**\-
-BF565	"y3_ "+**
+BF565	"y3^!"+**
 BF566	" }r7"**\-
 BF567	"zXI"**9-
 BF568	"zXI"**8-
@@ -1387,7 +1387,7 @@ BF569	"zXI"**7-
 BF56A	"zXI"**6-
 BF56B	"zXI"**5-
 BF56C	"zXI"**4-
-BF56D	"s/q "+**
+BF56D	"s/p!"+**
 BF56E	"zXI"**2-
 BF56F	"zXI"**1-
 BF570	"zXI"**
@@ -1406,7 +1406,7 @@ BF57C	"wYJ"**6+
 BF57D	"wYJ"**7+
 BF57E	"wYJ"**8+
 BF57F	"wYJ"**9+
-BF580	"h0} "+**
+BF580	"h0|!"+**
 BF581	"}r7"**5-
 BF582	"}r7"**4-
 BF583	"}r7"**3-
@@ -1431,7 +1431,7 @@ BF595	"{v6"**9+
 BF596	"eaP"**6+
 BF597	"eaP"**7+
 BF598	"qfD"**
-BF599	"SGe "+**
+BF599	"SGd!"+**
 BF59A	"qfD"**2+
 BF59B	"o~_I"*+*
 BF59C	"qfD"**4+
@@ -1481,7 +1481,7 @@ BF5C7	"7jWU"**\-
 BF5C8	"6jWU"**\-
 BF5C9	"5jWU"**\-
 BF5CA	"4jWU"**\-
-BF5CB	"m3m "+**
+BF5CB	"m3l!"+**
 BF5CC	"2jWU"**\-
 BF5CD	"1jWU"**\-
 BF5CE	"0jWU"**\-
@@ -1566,7 +1566,7 @@ BF61C	"udC"**
 BF61D	"udC"**1+
 BF61E	"udC"**2+
 BF61F	"udC"**3+
-BF620	"XDc "+**
+BF620	"XDb!"+**
 BF621	"udC"**5+
 BF622	"udC"**6+
 BF623	"udC"**7+
@@ -1595,7 +1595,7 @@ BF639	"|m:"**1+
 BF63A	"|m:"**2+
 BF63B	"|m:"**3+
 BF63C	"\~sI"*+*
-BF63D	"g;a "+**
+BF63D	"g;`!"+**
 BF63E	"|m:"**6+
 BF63F	"|m:"**7+
 BF640	"`~xC"*+*
@@ -1622,7 +1622,7 @@ BF654	",}p8"**\-
 BF655	"+}p8"**\-
 BF656	"*}p8"**\-
 BF657	")}p8"**\-
-BF658	"x/k "+**
+BF658	"x/j!"+**
 BF659	"'}p8"**\-
 BF65A	"e~\S"*+*
 BF65B	"~z3"**9-
@@ -1654,7 +1654,7 @@ BF674	"\yx6"**\-
 BF675	"[yx6"**\-
 BF676	"Zyx6"**\-
 BF677	"}p8"**9-
-BF678	"v,w "+**
+BF678	"v,v!"+**
 BF679	"}p8"**7-
 BF67A	"}p8"**6-
 BF67B	"}p8"**5-
@@ -1697,7 +1697,7 @@ BF69F	"1yx6"**\-
 BF6A0	"0yx6"**\-
 BF6A1	"/yx6"**\-
 BF6A2	".yx6"**\-
-BF6A3	"i9c "+**
+BF6A3	"i9b!"+**
 BF6A4	"g,~/"+**
 BF6A5	"+yx6"**\-
 BF6A6	"*yx6"**\-
@@ -1713,7 +1713,7 @@ BF6AF	"!yx6"**\-
 BF6B0	" yx6"**\-
 BF6B1	"L}{3"**\-
 BF6B2	"K}{3"**\-
-BF6B3	"a;i "+**
+BF6B3	"a;h!"+**
 BF6B4	"I}{3"**\-
 BF6B5	"H}{3"**\-
 BF6B6	"G}{3"**\-
@@ -1760,10 +1760,10 @@ BF6DE	"4mmB"**\-
 BF6DF	"3mmB"**\-
 BF6E0	"k ~g"+**
 BF6E1	"1mmB"**\-
-BF6E2	"~1_ "+**
+BF6E2	"~1^!"+**
 BF6E3	"/mmB"**\-
 BF6E4	".mmB"**\-
-BF6E5	"SCm "+**
+BF6E5	"SCl!"+**
 BF6E6	",mmB"**\-
 BF6E7	"+mmB"**\-
 BF6E8	"*mmB"**\-
@@ -1828,9 +1828,9 @@ BF722	"thA"**2+
 BF723	"thA"**3+
 BF724	"e~rC"*+*
 BF725	"thA"**5+
-BF726	"RIc "+**
+BF726	"RIb!"+**
 BF727	"thA"**7+
-BF728	"XCe "+**
+BF728	"XCd!"+**
 BF729	"thA"**9+
 BF72A	"||3"**6-
 BF72B	"||3"**5-
@@ -1850,7 +1850,7 @@ BF738	"S~vO"*+*
 BF739	"s~aE"*+*
 BF73A	"cYY"**7+
 BF73B	"cYY"**8+
-BF73C	"l5i "+**
+BF73C	"l5h!"+**
 BF73D	"5g^Q"**\-
 BF73E	"4g^Q"**\-
 BF73F	"3g^Q"**\-
@@ -1877,7 +1877,7 @@ BF753	"Y|s7"**\-
 BF754	"!iaM"**\-
 BF755	" iaM"**\-
 BF756	"V|s7"**\-
-BF757	"o-} "+**
+BF757	"o-|!"+**
 BF758	"T|s7"**\-
 BF759	"S|s7"**\-
 BF75A	"W~eX"*+*
@@ -1887,7 +1887,7 @@ BF75D	"O|s7"**\-
 BF75E	"N|s7"**\-
 BF75F	"M|s7"**\-
 BF760	"L|s7"**\-
-BF761	"_A_ "+**
+BF761	"_A^!"+**
 BF762	"J|s7"**\-
 BF763	"I|s7"**\-
 BF764	"H|s7"**\-
@@ -1900,7 +1900,7 @@ BF76A	"g^Q"**8-
 BF76B	"g^Q"**7-
 BF76C	"g^Q"**6-
 BF76D	"g^Q"**5-
-BF76E	"[>k "+**
+BF76E	"[>j!"+**
 BF76F	"g^Q"**3-
 BF770	"g^Q"**2-
 BF771	"g^Q"**1-
@@ -1956,7 +1956,7 @@ BF7A2	"<~SK"**\-
 BF7A3	"|s7"**9-
 BF7A4	"|s7"**8-
 BF7A5	"|s7"**7-
-BF7A6	"j1w "+**
+BF7A6	"j1v!"+**
 BF7A7	"|s7"**5-
 BF7A8	"|s7"**4-
 BF7A9	"|s7"**3-
@@ -1974,7 +1974,7 @@ BF7B4	"|s7"**8+
 BF7B5	"|s7"**9+
 BF7B6	"(~SK"**\-
 BF7B7	"xVL"**9-
-BF7B8	"OIh "+**
+BF7B8	"OIg!"+**
 BF7B9	"xVL"**7-
 BF7BA	"xVL"**6-
 BF7BB	"xVL"**5-
@@ -1998,7 +1998,7 @@ BF7CC	"<tbE"**\-
 BF7CD	";tbE"**\-
 BF7CE	":tbE"**\-
 BF7CF	"9tbE"**\-
-BF7D0	"p/u "+**
+BF7D0	"p/t!"+**
 BF7D1	"7tbE"**\-
 BF7D2	"6tbE"**\-
 BF7D3	"5tbE"**\-
@@ -2039,7 +2039,7 @@ BF7F5	"IqYN"**\-
 BF7F6	"HqYN"**\-
 BF7F7	"GqYN"**\-
 BF7F8	"FqYN"**\-
-BF7F9	"c9k "+**
+BF7F9	"c9j!"+**
 BF7FA	"DqYN"**\-
 BF7FB	"CqYN"**\-
 BF7FC	"f~|="*+*

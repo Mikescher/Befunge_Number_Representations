@@ -218,7 +218,7 @@ CC68D8	"a]-!"***1-
 CC68D9	"a]-!"***
 CC68DA	"a]-!"***1+
 CC68DB	"a]-!"***2+
-CC68DC	"ON~ @"*+**
+CC68DC	"a]-!"***3+
 CC68DD	"a]-!"***4+
 CC68DE	"a]-!"***5+
 CC68DF	"a]-!"***6+
@@ -620,7 +620,7 @@ CC6A6A	"@]C2+"***\-
 CC6A6B	"?]C2+"***\-
 CC6A6C	">]C2+"***\-
 CC6A6D	"=]C2+"***\-
-CC6A6E	"oZu "+**9*
+CC6A6E	"oZt!"+**9*
 CC6A6F	";]C2+"***\-
 CC6A70	":]C2+"***\-
 CC6A71	"9]C2+"***\-
@@ -702,7 +702,7 @@ CC6ABC	"{I~~y"++**4*
 CC6ABD	"Bwvj"**+9*7+
 CC6ABE	"a~ws"*+*5*2*
 CC6ABF	"Cwvj"**+9*
-CC6AC0	"\L~~ 4"*++**
+CC6AC0	"Cwvj"**+9*1+
 CC6AC1	"nf~I"+**6*7-
 CC6AC2	"nf~I"+**1-6*
 CC6AC3	"]VC"**1+5*5*
@@ -840,7 +840,7 @@ CC6B46	"Rwvj"**+9*
 CC6B47	"9aS4 "***\-
 CC6B48	"8aS4 "***\-
 CC6B49	"7aS4 "***\-
-CC6B4A	"sj} "+**7*
+CC6B4A	"sj|!"+**7*
 CC6B4B	"5aS4 "***\-
 CC6B4C	"4aS4 "***\-
 CC6B4D	"3aS4 "***\-
@@ -890,7 +890,7 @@ CC6B78	"aS4 "***8-
 CC6B79	"aS4 "***7-
 CC6B7A	"aS4 "***6-
 CC6B7B	"aS4 "***5-
-CC6B7C	"aS4 "***4-
+CC6B7C	"Xwvj"**+9*
 CC6B7D	"aS4 "***3-
 CC6B7E	"aS4 "***2-
 CC6B7F	"m5~3+"*+**
@@ -899,7 +899,7 @@ CC6B81	"aS4 "***1+
 CC6B82	"aS4 "***2+
 CC6B83	"aS4 "***3+
 CC6B84	"aS4 "***4+
-CC6B85	"aS4 "***5+
+CC6B85	"Ywvj"**+9*
 CC6B86	"aS4 "***6+
 CC6B87	"aS4 "***7+
 CC6B88	"aS4 "***8+
@@ -1007,7 +1007,7 @@ CC6BED	"maS4 "***+
 CC6BEE	"naS4 "***+
 CC6BEF	"oaS4 "***+
 CC6BF0	"paS4 "***+
-CC6BF1	"qaS4 "***+
+CC6BF1	"ewvj"**+9*
 CC6BF2	"raS4 "***+
 CC6BF3	"saS4 "***+
 CC6BF4	"taS4 "***+
@@ -1016,7 +1016,7 @@ CC6BF6	"vaS4 "***+
 CC6BF7	"pY* "***9-
 CC6BF8	"pY* "***8-
 CC6BF9	"pY* "***7-
-CC6BFA	"pY* "***6-
+CC6BFA	"fwvj"**+9*
 CC6BFB	"pY* "***5-
 CC6BFC	"pY* "***4-
 CC6BFD	"pY* "***3-
@@ -1025,7 +1025,7 @@ CC6BFF	"pY* "***1-
 CC6C00	"pY* "***
 CC6C01	"pY* "***1+
 CC6C02	"pY* "***2+
-CC6C03	"pY* "***3+
+CC6C03	"gwvj"**+9*
 CC6C04	"pY* "***4+
 CC6C05	"pY* "***5+
 CC6C06	"pY* "***6+
@@ -1052,7 +1052,7 @@ CC6C1A	"pW;:-"***\-
 CC6C1B	"oW;:-"***\-
 CC6C1C	"nW;:-"***\-
 CC6C1D	"mW;:-"***\-
-CC6C1E	"j]w "+**9*
+CC6C1E	"j]v!"+**9*
 CC6C1F	"kW;:-"***\-
 CC6C20	"jW;:-"***\-
 CC6C21	"iW;:-"***\-
@@ -1133,7 +1133,7 @@ CC6C6B	"kpY* "***+
 CC6C6C	"lpY* "***+
 CC6C6D	"mpY* "***+
 CC6C6E	"npY* "***+
-CC6C6F	"opY* "***+
+CC6C6F	"swvj"**+9*
 CC6C70	"ppY* "***+
 CC6C71	"qpY* "***+
 CC6C72	"rpY* "***+
@@ -1142,7 +1142,7 @@ CC6C74	"tpY* "***+
 CC6C75	"upY* "***+
 CC6C76	"vpY* "***+
 CC6C77	"wpY* "***+
-CC6C78	"xpY* "***+
+CC6C78	"twvj"**+9*
 CC6C79	"ypY* "***+
 CC6C7A	"zpY* "***+
 CC6C7B	"{pY* "***+

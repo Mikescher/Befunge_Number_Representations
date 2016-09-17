@@ -28,7 +28,7 @@ DEB81A	"SII!"***9-
 DEB81B	"SII!"***8-
 DEB81C	"SII!"***7-
 DEB81D	"SII!"***6-
-DEB81E	"~}Y )"***+
+DEB81E	"SII!"***5-
 DEB81F	"SII!"***4-
 DEB820	"SII!"***3-
 DEB821	"SII!"***2-
@@ -245,23 +245,23 @@ DEB8F3	"|aS1%"***\-
 DEB8F4	"{aS1%"***\-
 DEB8F5	"]I2+"***9-
 DEB8F6	"]I2+"***8-
-DEB8F7	"\J C"***9-
-DEB8F8	"\J C"***8-
-DEB8F9	"\J C"***7-
-DEB8FA	"\J C"***6-
-DEB8FB	"\J C"***5-
-DEB8FC	"\J C"***4-
-DEB8FD	"\J C"***3-
+DEB8F7	"]I2+"***7-
+DEB8F8	"]I2+"***6-
+DEB8F9	"]I2+"***5-
+DEB8FA	"]I2+"***4-
+DEB8FB	"]I2+"***3-
+DEB8FC	"]I2+"***2-
+DEB8FD	"]I2+"***1-
 DEB8FE	"]I2+"***
-DEB8FF	"\J C"***1-
+DEB8FF	"]I2+"***1+
 DEB900	"\J C"***
-DEB901	"\J C"***1+
-DEB902	"\J C"***2+
-DEB903	"\J C"***3+
+DEB901	"]I2+"***3+
+DEB902	"]I2+"***4+
+DEB903	"]I2+"***5+
 DEB904	"YO~2'"*+**
-DEB905	"\J C"***5+
-DEB906	"\J C"***6+
-DEB907	"\J C"***7+
+DEB905	"]I2+"***7+
+DEB906	"]I2+"***8+
+DEB907	"]I2+"***9+
 DEB908	"\J C"***8+
 DEB909	"\J C"***9+
 DEB90A	"c~|$!"**+*
@@ -336,7 +336,7 @@ DEB94E	"!aS1%"***\-
 DEB94F	" aS1%"***\-
 DEB950	"PkW1 "***\-
 DEB951	"OkW1 "***\-
-DEB952	"NkW1 "***\-
+DEB952	"^|xm"**\-9*
 DEB953	"MkW1 "***\-
 DEB954	"qV~ +"*+**
 DEB955	"KkW1 "***\-
@@ -345,7 +345,7 @@ DEB957	"IkW1 "***\-
 DEB958	"HkW1 "***\-
 DEB959	"GkW1 "***\-
 DEB95A	"FkW1 "***\-
-DEB95B	"EkW1 "***\-
+DEB95B	"]|xm"**\-9*
 DEB95C	"DkW1 "***\-
 DEB95D	"CkW1 "***\-
 DEB95E	"BkW1 "***\-
@@ -354,7 +354,7 @@ DEB960	"@kW1 "***\-
 DEB961	"?kW1 "***\-
 DEB962	">kW1 "***\-
 DEB963	"=kW1 "***\-
-DEB964	"<kW1 "***\-
+DEB964	"\|xm"**\-9*
 DEB965	";kW1 "***\-
 DEB966	"aS1%"***9-
 DEB967	"aS1%"***8-
@@ -381,7 +381,7 @@ DEB97B	"%kW1 "***\-
 DEB97C	"$kW1 "***\-
 DEB97D	"#kW1 "***\-
 DEB97E	"~\J C"***+
-DEB97F	"!kW1 "***\-
+DEB97F	"Y|xm"**\-9*
 DEB980	" kW1 "***\-
 DEB981	"Oxa&!"***\-
 DEB982	"Nxa&!"***\-
@@ -435,7 +435,7 @@ DEB9B1	"Ohf+ "***\-
 DEB9B2	"Nhf+ "***\-
 DEB9B3	"Mhf+ "***\-
 DEB9B4	"Lhf+ "***\-
-DEB9B5	"Khf+ "***\-
+DEB9B5	"S|xm"**\-9*
 DEB9B6	"Jhf+ "***\-
 DEB9B7	"Ihf+ "***\-
 DEB9B8	"Hhf+ "***\-
@@ -444,7 +444,7 @@ DEB9BA	"Fhf+ "***\-
 DEB9BB	"Ehf+ "***\-
 DEB9BC	"Dhf+ "***\-
 DEB9BD	"Chf+ "***\-
-DEB9BE	"Bhf+ "***\-
+DEB9BE	"R|xm"**\-9*
 DEB9BF	"Ahf+ "***\-
 DEB9C0	"@hf+ "***\-
 DEB9C1	"?hf+ "***\-
@@ -1174,23 +1174,23 @@ DEBC94	"*IEE*"***+
 DEBC95	"+IEE*"***+
 DEBC96	",IEE*"***+
 DEBC97	"|xm"**1-9*
-DEBC98	"m]- "***8-
-DEBC99	"m]- "***7-
-DEBC9A	"m]- "***6-
-DEBC9B	"m]- "***5-
-DEBC9C	"m]- "***4-
-DEBC9D	"m]- "***3-
-DEBC9E	"m]- "***2-
-DEBC9F	"m]- "***1-
+DEBC98	"|xm"**9*8-
+DEBC99	"|xm"**9*7-
+DEBC9A	"|xm"**9*6-
+DEBC9B	"|xm"**9*5-
+DEBC9C	"|xm"**9*4-
+DEBC9D	"|xm"**9*3-
+DEBC9E	"|xm"**9*2-
+DEBC9F	"|xm"**9*1-
 DEBCA0	"|xm"**9*
-DEBCA1	"m]- "***1+
-DEBCA2	"m]- "***2+
-DEBCA3	"m]- "***3+
-DEBCA4	"m]- "***4+
-DEBCA5	"m]- "***5+
-DEBCA6	"m]- "***6+
-DEBCA7	"m]- "***7+
-DEBCA8	"m]- "***8+
+DEBCA1	"|xm"**9*1+
+DEBCA2	"|xm"**9*2+
+DEBCA3	"|xm"**9*3+
+DEBCA4	"|xm"**9*4+
+DEBCA5	"|xm"**9*5+
+DEBCA6	"|xm"**9*6+
+DEBCA7	"|xm"**9*7+
+DEBCA8	"|xm"**9*8+
 DEBCA9	"|xm"**1+9*
 DEBCAA	"@IEE*"***+
 DEBCAB	"AIEE*"***+
@@ -1311,10 +1311,10 @@ DEBD1D	"#yA: "***\-
 DEBD1E	"~m]- "***+
 DEBD1F	"!yA: "***\-
 DEBD20	" yA: "***\-
-DEBD21	"~m]- "***+3+
+DEBD21	"fYC"**8*5-3*
 DEBD22	"yth"**3-5*2*
 DEBD23	"~m]- "***+5+
-DEBD24	"~m]- "***+6+
+DEBD24	"Grna"**+6*2*
 DEBD25	"~m]- "***+7+
 DEBD26	"~m]- "***+8+
 DEBD27	"YDC$"***9-
@@ -1374,7 +1374,7 @@ DEBD5C	"Lz;4'"***\-
 DEBD5D	"gW~7"+**9*
 DEBD5E	"Jz;4'"***\-
 DEBD5F	"Iz;4'"***\-
-DEBD60	"rjw "+**8*
+DEBD60	"rjv!"+**8*
 DEBD61	"Gz;4'"***\-
 DEBD62	"Fz;4'"***\-
 DEBD63	"kkU"**5*3*
@@ -1524,7 +1524,7 @@ DEBDF2	"SKC#"***7-
 DEBDF3	"SKC#"***6-
 DEBDF4	"SKC#"***5-
 DEBDF5	"SKC#"***4-
-DEBDF6	"u~_ )"**+*
+DEBDF6	"SKC#"***3-
 DEBDF7	"SKC#"***2-
 DEBDF8	"SKC#"***1-
 DEBDF9	"SKC#"***
@@ -1877,14 +1877,14 @@ DEBF53	"wD,)"***3+
 DEBF54	"wD,)"***4+
 DEBF55	"wD,)"***5+
 DEBF56	"wD,)"***6+
-DEBF57	"gg +"***9-
-DEBF58	"gg +"***8-
-DEBF59	"gg +"***7-
+DEBF57	"wD,)"***7+
+DEBF58	"wD,)"***8+
+DEBF59	"wD,)"***9+
 DEBF5A	"gg +"***6-
 DEBF5B	"gg +"***5-
 DEBF5C	"gg +"***4-
 DEBF5D	"gg +"***3-
-DEBF5E	"gg +"***2-
+DEBF5E	"N|xm"**+9*
 DEBF5F	"gg +"***1-
 DEBF60	"gg +"***
 DEBF61	"gg +"***1+
@@ -1893,7 +1893,7 @@ DEBF63	"gg +"***3+
 DEBF64	"gg +"***4+
 DEBF65	"gg +"***5+
 DEBF66	"gg +"***6+
-DEBF67	"gg +"***7+
+DEBF67	"O|xm"**+9*
 DEBF68	"gg +"***8+
 DEBF69	"gg +"***9+
 DEBF6A	"Vb_1 "***\-
@@ -2037,8 +2037,8 @@ DEBFF3	"^YQ--"***\-
 DEBFF4	"]YQ--"***\-
 DEBFF5	"\YQ--"***\-
 DEBFF6	"[YQ--"***\-
-DEBFF7	"l` ,"***9-
-DEBFF8	"te~ #"*+**
+DEBFF7	"_|xm"**+9*
+DEBFF8	"teY"**7*2*
 DEBFF9	"l` ,"***7-
 DEBFFA	"l` ,"***6-
 DEBFFB	"l` ,"***5-

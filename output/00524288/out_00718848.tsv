@@ -15,7 +15,7 @@ AF80D	"'d[O"**\-
 AF80E	"&d[O"**\-
 AF80F	"%d[O"**\-
 AF810	"$d[O"**\-
-AF811	"s/e "+**
+AF811	"s/d!"+**
 AF812	"~yn6"**+
 AF813	"}QG"**8-
 AF814	"}QG"**7-
@@ -60,8 +60,8 @@ AF83A	"d[O"**6+
 AF83B	"d[O"**7+
 AF83C	"d[O"**8+
 AF83D	"d[O"**9+
-AF83E	"JCq "+**
-AF83F	"EEw "+**
+AF83E	"JCp!"+**
+AF83F	"EEv!"+**
 AF840	"^ ~q"+**
 AF841	"!zSG"**\-
 AF842	" zSG"**\-
@@ -78,7 +78,7 @@ AF84C	"$nVL"**\-
 AF84D	"#nVL"**\-
 AF84E	"&maD"**\-
 AF84F	"!nVL"**\-
-AF850	"p1c "+**
+AF850	"p1b!"+**
 AF851	"#maD"**\-
 AF852	"Dwr5"**\-
 AF853	"!maD"**\-
@@ -97,7 +97,7 @@ AF85F	"zSG"**3-
 AF860	"zSG"**2-
 AF861	"zSG"**1-
 AF862	"zSG"**
-AF863	"o3_ "+**
+AF863	"o3^!"+**
 AF864	"zSG"**2+
 AF865	"zSG"**3+
 AF866	"K~nV"*+*
@@ -126,8 +126,8 @@ AF87C	"maD"**8+
 AF87D	"maD"**9+
 AF87E	"v~u3"*+*
 AF87F	",qe?"**\-
-AF880	"R@i "+**
-AF881	"ICs "+**
+AF880	"R@h!"+**
+AF881	"ICr!"+**
 AF882	")qe?"**\-
 AF883	"(qe?"**\-
 AF884	"'qe?"**\-
@@ -286,7 +286,7 @@ AF91C	"qVJ"**
 AF91D	"qVJ"**1+
 AF91E	"qVJ"**2+
 AF91F	"qVJ"**3+
-AF920	"c ~e"+**
+AF920	"c~VS"*+*
 AF921	"qVJ"**5+
 AF922	"qVJ"**6+
 AF923	"qVJ"**7+
@@ -297,7 +297,7 @@ AF927	"9|t2"**\-
 AF928	"8|t2"**\-
 AF929	"i~SQ"*+*
 AF92A	"6|t2"**\-
-AF92B	"k/o "+**
+AF92B	"k/n!"+**
 AF92C	"4|t2"**\-
 AF92D	"3|t2"**\-
 AF92E	"2|t2"**\-
@@ -340,7 +340,7 @@ AF952	";q_C"**\-
 AF953	":q_C"**\-
 AF954	"9q_C"**\-
 AF955	"8q_C"**\-
-AF956	"z-c "+**
+AF956	"z-b!"+**
 AF957	"|t2"**9-
 AF958	"|t2"**8-
 AF959	"|t2"**7-
@@ -400,7 +400,7 @@ AF98E	"~eYP"**+
 AF98F	"q_C"**2+
 AF990	"q_C"**3+
 AF991	"q_C"**4+
-AF992	"}*i "+**
+AF992	"}*h!"+**
 AF993	"q_C"**6+
 AF994	"q_C"**7+
 AF995	"q_C"**8+
@@ -475,10 +475,10 @@ AF9D9	"zXC"**9+
 AF9DA	"e~jB"*+*
 AF9DB	"ut5"**7+
 AF9DC	"ut5"**8+
-AF9DD	"s-k "+**
+AF9DD	"s-j!"+**
 AF9DE	"~|t2"**+
 AF9DF	"Ixm7"**\-
-AF9E0	"v0_ "+**
+AF9E0	"v0^!"+**
 AF9E1	" kSQ"**\-
 AF9E2	"Fxm7"**\-
 AF9E3	"Exm7"**\-
@@ -495,7 +495,7 @@ AF9ED	";xm7"**\-
 AF9EE	":xm7"**\-
 AF9EF	"gaH"**9-
 AF9F0	"gaH"**8-
-AF9F1	"y)q "+**
+AF9F1	"y)p!"+**
 AF9F2	"gaH"**6-
 AF9F3	"gaH"**5-
 AF9F4	"gaH"**4-
@@ -522,9 +522,9 @@ AFA08	"kSQ"**7+
 AFA09	"kSQ"**8+
 AFA0A	"kSQ"**9+
 AFA0B	"~q_C"**+
-AFA0C	"GDu "+**
+AFA0C	"GDt!"+**
 AFA0D	"Cs\D"**\-
-AFA0E	"O:} "+**
+AFA0E	"O:|!"+**
 AFA0F	"As\D"**\-
 AFA10	"@s\D"**\-
 AFA11	"?s\D"**\-
@@ -537,7 +537,7 @@ AFA17	"9s\D"**\-
 AFA18	"8s\D"**\-
 AFA19	"7s\D"**\-
 AFA1A	"6s\D"**\-
-AFA1B	"Y;i "+**
+AFA1B	"Y;h!"+**
 AFA1C	"4s\D"**\-
 AFA1D	"3s\D"**\-
 AFA1E	"V#~q"+**
@@ -565,7 +565,7 @@ AFA33	"#v[C"**\-
 AFA34	"8kRR"**\-
 AFA35	"!v[C"**\-
 AFA36	" v[C"**\-
-AFA37	"IIg "+**
+AFA37	"IIf!"+**
 AFA38	"4kRR"**\-
 AFA39	"3kRR"**\-
 AFA3A	"b~oA"*+*
@@ -583,7 +583,7 @@ AFA45	"'kRR"**\-
 AFA46	"~{VD"**+
 AFA47	"s\D"**9-
 AFA48	"t~|1"*+*
-AFA49	"u+o "+**
+AFA49	"u+n!"+**
 AFA4A	"s\D"**6-
 AFA4B	"s\D"**5-
 AFA4C	"s\D"**4-
@@ -605,7 +605,7 @@ AFA5B	"v[C"**5+
 AFA5C	"v[C"**6+
 AFA5D	"v[C"**7+
 AFA5E	"v[C"**8+
-AFA5F	"g7_ "+**
+AFA5F	"g7^!"+**
 AFA60	" pXI"**\-
 AFA61	"Kc\O"**\-
 AFA62	"Jc\O"**\-
@@ -673,8 +673,8 @@ AFA9F	".iYM"**\-
 AFAA0	"-iYM"**\-
 AFAA1	",iYM"**\-
 AFAA2	"+iYM"**\-
-AFAA3	"Q?m "+**
-AFAA4	"e4i "+**
+AFAA3	"Q?l!"+**
+AFAA4	"e4h!"+**
 AFAA5	"c\O"**7-
 AFAA6	"~xm7"**+
 AFAA7	"c\O"**5-
@@ -811,7 +811,7 @@ AFB29	"t^B"**7-
 AFB2A	"t^B"**6-
 AFB2B	"t^B"**5-
 AFB2C	"t^B"**4-
-AFB2D	"g3i "+**
+AFB2D	"g3h!"+**
 AFB2E	"t^B"**2-
 AFB2F	"t^B"**1-
 AFB30	"t^B"**
@@ -820,7 +820,7 @@ AFB32	"t^B"**2+
 AFB33	"t^B"**3+
 AFB34	"t^B"**4+
 AFB35	"t^B"**5+
-AFB36	"s*u "+**
+AFB36	"s*t!"+**
 AFB37	"t^B"**7+
 AFB38	"t^B"**8+
 AFB39	"t^B"**9+
@@ -864,7 +864,7 @@ AFB5E	"~w0"**2-
 AFB5F	"~w0"**1-
 AFB60	"~w0"**
 AFB61	"~w0"**1+
-AFB62	"RCc "+**
+AFB62	"RCb!"+**
 AFB63	"~w0"**3+
 AFB64	"~w0"**4+
 AFB65	"~w0"**5+
@@ -948,7 +948,7 @@ AFBB2	"{ML"**2-
 AFBB3	"{ML"**1-
 AFBB4	"{ML"**
 AFBB5	"{ML"**1+
-AFBB6	"JGi "+**
+AFBB6	"JGh!"+**
 AFBB7	"{ML"**3+
 AFBB8	"zv2"**
 AFBB9	"{ML"**5+
@@ -986,7 +986,7 @@ AFBD8	"@tk:"**\-
 AFBD9	"?tk:"**\-
 AFBDA	">tk:"**\-
 AFBDB	"=tk:"**\-
-AFBDC	"m4_ "+**
+AFBDC	"m4^!"+**
 AFBDD	"a)~7"+**
 AFBDE	":tk:"**\-
 AFBDF	"9tk:"**\-
@@ -998,7 +998,7 @@ AFBE4	"4tk:"**\-
 AFBE5	"3tk:"**\-
 AFBE6	"2tk:"**\-
 AFBE7	"1tk:"**\-
-AFBE8	"ODf "+**
+AFBE8	"ODe!"+**
 AFBE9	"/tk:"**\-
 AFBEA	".tk:"**\-
 AFBEB	"-tk:"**\-
@@ -1009,7 +1009,7 @@ AFBEF	")tk:"**\-
 AFBF0	"(tk:"**\-
 AFBF1	"'tk:"**\-
 AFBF2	"&tk:"**\-
-AFBF3	"S;s "+**
+AFBF3	"S;r!"+**
 AFBF4	"$tk:"**\-
 AFBF5	"#tk:"**\-
 AFBF6	"BleB"**\-
@@ -1022,7 +1022,7 @@ AFBFC	"<leB"**\-
 AFBFD	";leB"**\-
 AFBFE	":leB"**\-
 AFBFF	"9leB"**\-
-AFC00	"LJ` "+**
+AFC00	"LJ_!"+**
 AFC01	"7leB"**\-
 AFC02	"6leB"**\-
 AFC03	"5leB"**\-
@@ -1090,7 +1090,7 @@ AFC40	"leB"**8+
 AFC41	"leB"**9+
 AFC42	"o^E"**8-
 AFC43	"o^E"**7-
-AFC44	"NGb "+**
+AFC44	"NGa!"+**
 AFC45	"o^E"**5-
 AFC46	"o^E"**4-
 AFC47	"o^E"**3-
@@ -1155,7 +1155,7 @@ AFC81	"}x0"**1+
 AFC82	"}x0"**2+
 AFC83	"k~]G"*+*
 AFC84	"}x0"**4+
-AFC85	"_5o "+**
+AFC85	"_5n!"+**
 AFC86	"b]O"**
 AFC87	"}x0"**7+
 AFC88	"}x0"**8+
@@ -1170,7 +1170,7 @@ AFC90	"X~jL"*+*
 AFC91	"R]YW"**\-
 AFC92	"Q]YW"**\-
 AFC93	"P]YW"**\-
-AFC94	"JFk "+**
+AFC94	"JFj!"+**
 AFC95	"N]YW"**\-
 AFC96	"~tk:"**+
 AFC97	"L]YW"**\-
@@ -1222,7 +1222,7 @@ AFCC4	"<ta@"**\-
 AFCC5	"w~OK"*+*
 AFCC6	"A:~A"+**
 AFCC7	"9ta@"**\-
-AFCC8	"IHi "+**
+AFCC8	"IHh!"+**
 AFCC9	"7ta@"**\-
 AFCCA	"6ta@"**\-
 AFCCB	"5ta@"**\-
@@ -1240,7 +1240,7 @@ AFCD6	"*ta@"**\-
 AFCD7	")ta@"**\-
 AFCD8	"(ta@"**\-
 AFCD9	"'ta@"**\-
-AFCDA	"~-_ "+**
+AFCDA	"~-^!"+**
 AFCDB	"]YW"**8-
 AFCDC	"]YW"**7-
 AFCDD	"]YW"**6-
@@ -1303,7 +1303,7 @@ AFD15	"'wYD"**\-
 AFD16	"K~g\"*+*
 AFD17	"%wYD"**\-
 AFD18	"$wYD"**\-
-AFD19	"GEs "+**
+AFD19	"GEr!"+**
 AFD1A	"&|y0"**\-
 AFD1B	"jVO"**9-
 AFD1C	"jVO"**8-
@@ -1367,7 +1367,7 @@ AFD55	"%}VC"**\-
 AFD56	"$}VC"**\-
 AFD57	"#}VC"**\-
 AFD58	"~~VA"*+*
-AFD59	"k5_ "+**
+AFD59	"k5^!"+**
 AFD5A	"caK"**7-
 AFD5B	"caK"**6-
 AFD5C	"caK"**5-
@@ -1420,7 +1420,7 @@ AFD8A	"vm8"**6-
 AFD8B	"vm8"**5-
 AFD8C	"vm8"**4-
 AFD8D	"vm8"**3-
-AFD8E	"j-w "+**
+AFD8E	"j-v!"+**
 AFD8F	"vm8"**1-
 AFD90	"vm8"**
 AFD91	"vm8"**1+
@@ -1441,7 +1441,7 @@ AFD9F	"og?"**8+
 AFDA0	"{z0"**
 AFDA1	"{z0"**1+
 AFDA2	"{z0"**2+
-AFDA3	"IEo "+**
+AFDA3	"IEn!"+**
 AFDA4	"{z0"**4+
 AFDA5	"{z0"**5+
 AFDA6	"{z0"**6+
@@ -1466,7 +1466,7 @@ AFDB8	"0ts6"**\-
 AFDB9	"a^O"**9-
 AFDBA	"a^O"**8-
 AFDBB	"a^O"**7-
-AFDBC	"|%} "+**
+AFDBC	"|%|!"+**
 AFDBD	"C~}U"*+*
 AFDBE	"~|y0"**+
 AFDBF	"a^O"**3-
@@ -1519,7 +1519,7 @@ AFDED	"xWE"**5+
 AFDEE	"rYG"**
 AFDEF	"xWE"**7+
 AFDF0	"X~|A"*+*
-AFDF1	"u/c "+**
+AFDF1	"u/b!"+**
 AFDF2	"R#~}"+**
 AFDF3	"rYG"**5+
 AFDF4	"rYG"**6+
@@ -1587,7 +1587,7 @@ AFE31	"e~[M"*+*
 AFE32	"y~|/"*+*
 AFE33	"|SF"**5-
 AFE34	"|SF"**4-
-AFE35	"IGk "+**
+AFE35	"IGj!"+**
 AFE36	"|SF"**2-
 AFE37	"|SF"**1-
 AFE38	"|SF"**
@@ -1621,7 +1621,7 @@ AFE53	")vVG"**\-
 AFE54	"(vVG"**\-
 AFE55	"'vVG"**\-
 AFE56	"&vVG"**\-
-AFE57	"]=_ "+**
+AFE57	"]=^!"+**
 AFE58	"xOL"**8-
 AFE59	"xOL"**7-
 AFE5A	"xOL"**6-
@@ -1650,7 +1650,7 @@ AFE70	"p~w5"*+*
 AFE71	"%{e:"**\-
 AFE72	"E.~e"+**
 AFE73	"vVG"**9-
-AFE74	"},c "+**
+AFE74	"},b!"+**
 AFE75	"o~_C"*+*
 AFE76	">~y_"*+*
 AFE77	"vVG"**5-
@@ -1714,7 +1714,7 @@ AFEB0	"P~kS"*+*
 AFEB1	"`{]?"**\-
 AFEB2	"_{]?"**\-
 AFEB3	"^{]?"**\-
-AFEB4	"|'u "+**
+AFEB4	"|'t!"+**
 AFEB5	"\{]?"**\-
 AFEB6	"[{]?"**\-
 AFEB7	"E;~3"+**
@@ -1726,7 +1726,7 @@ AFEBC	"U{]?"**\-
 AFEBD	"~[[W"**+
 AFEBE	"S{]?"**\-
 AFEBF	"_)~;"+**
-AFEC0	"l0k "+**
+AFEC0	"l0j!"+**
 AFEC1	"P{]?"**\-
 AFEC2	"O{]?"**\-
 AFEC3	"G3~I"+**
@@ -1744,7 +1744,7 @@ AFECE	"jgB"**2+
 AFECF	"jgB"**3+
 AFED0	"jgB"**4+
 AFED1	"jgB"**5+
-AFED2	"~+e "+**
+AFED2	"~+d!"+**
 AFED3	"jgB"**7+
 AFED4	"jgB"**8+
 AFED5	"jgB"**9+
@@ -1780,7 +1780,7 @@ AFEF2	"Rtm9"**\-
 AFEF3	"Qtm9"**\-
 AFEF4	"Ptm9"**\-
 AFEF5	"Otm9"**\-
-AFEF6	"f-} "+**
+AFEF6	"f-|!"+**
 AFEF7	"Mtm9"**\-
 AFEF8	"Ltm9"**\-
 AFEF9	"Ktm9"**\-
@@ -1800,7 +1800,7 @@ AFF06	">tm9"**\-
 AFF07	"=tm9"**\-
 AFF08	"{]?"**9-
 AFF09	"{]?"**8-
-AFF0A	"GFq "+**
+AFF0A	"GFp!"+**
 AFF0B	"{]?"**6-
 AFF0C	"{]?"**5-
 AFF0D	"{]?"**4-
@@ -1865,7 +1865,7 @@ AFF47	"tm9"**3+
 AFF48	"tm9"**4+
 AFF49	"tm9"**5+
 AFF4A	"tm9"**6+
-AFF4B	"U=k "+**
+AFF4B	"U=j!"+**
 AFF4C	"tm9"**8+
 AFF4D	"tm9"**9+
 AFF4E	"~n4"**2-
@@ -1873,7 +1873,7 @@ AFF4F	"~n4"**1-
 AFF50	"~n4"**
 AFF51	"~n4"**1+
 AFF52	"~n4"**2+
-AFF53	"o+w "+**
+AFF53	"o+v!"+**
 AFF54	"~n4"**4+
 AFF55	"~n4"**5+
 AFF56	"~n4"**6+
@@ -2002,7 +2002,7 @@ AFFD0	"4lYK"**\-
 AFFD1	"3lYK"**\-
 AFFD2	"2lYK"**\-
 AFFD3	"1lYK"**\-
-AFFD4	"VB_ "+**
+AFFD4	"VB^!"+**
 AFFD5	"C5~M"+**
 AFFD6	".lYK"**\-
 AFFD7	"S-~C"+**
@@ -2012,8 +2012,8 @@ AFFDA	"*lYK"**\-
 AFFDB	")lYK"**\-
 AFFDC	"_~[R"*+*
 AFFDD	"'lYK"**\-
-AFFDE	"v)u "+**
-AFFDF	"GGo "+**
+AFFDE	"v)t!"+**
+AFFDF	"GGn!"+**
 AFFE0	"`~kE"*+*
 AFFE1	"#lYK"**\-
 AFFE2	"}OI"**9-
@@ -2024,7 +2024,7 @@ AFFE6	"}OI"**5-
 AFFE7	"}OI"**4-
 AFFE8	"}OI"**3-
 AFFE9	"}OI"**2-
-AFFEA	"M>w "+**
+AFFEA	"M>v!"+**
 AFFEB	"}OI"**
 AFFEC	"N~jV"*+*
 AFFED	"}OI"**2+

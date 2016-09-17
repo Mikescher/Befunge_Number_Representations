@@ -151,7 +151,7 @@ DFA095	"Cm811"***\-
 DFA096	"Bm811"***\-
 DFA097	"Am811"***\-
 DFA098	"@m811"***\-
-DFA099	"yyo "+**7*
+DFA099	"yyn!"+**7*
 DFA09A	">m811"***\-
 DFA09B	"=m811"***\-
 DFA09C	"<m811"***\-
@@ -200,7 +200,7 @@ DFA0C6	"zYS> "***\-
 DFA0C7	"yYS> "***\-
 DFA0C8	"xYS> "***\-
 DFA0C9	"wYS> "***\-
-DFA0CA	"vYS> "***\-
+DFA0CA	"iwws"**\-9*
 DFA0CB	"uYS> "***\-
 DFA0CC	"tYS> "***\-
 DFA0CD	"sYS> "***\-
@@ -227,7 +227,7 @@ DFA0E1	"m811"***9+
 DFA0E2	"^YS> "***\-
 DFA0E3	"]YS> "***\-
 DFA0E4	"\YS> "***\-
-DFA0E5	"[YS> "***\-
+DFA0E5	"fwws"**\-9*
 DFA0E6	"ZYS> "***\-
 DFA0E7	"YYS> "***\-
 DFA0E8	"XYS> "***\-
@@ -236,7 +236,7 @@ DFA0EA	"VYS> "***\-
 DFA0EB	"UYS> "***\-
 DFA0EC	"TYS> "***\-
 DFA0ED	"SYS> "***\-
-DFA0EE	"RYS> "***\-
+DFA0EE	"ewws"**\-9*
 DFA0EF	"QYS> "***\-
 DFA0F0	"PYS> "***\-
 DFA0F1	"OYS> "***\-
@@ -245,7 +245,7 @@ DFA0F3	"MYS> "***\-
 DFA0F4	"LYS> "***\-
 DFA0F5	"KYS> "***\-
 DFA0F6	"JYS> "***\-
-DFA0F7	"IYS> "***\-
+DFA0F7	"dwws"**\-9*
 DFA0F8	"HYS> "***\-
 DFA0F9	"GYS> "***\-
 DFA0FA	"FYS> "***\-
@@ -254,7 +254,7 @@ DFA0FC	"DYS> "***\-
 DFA0FD	"CYS> "***\-
 DFA0FE	"BYS> "***\-
 DFA0FF	"AYS> "***\-
-DFA100	"@YS> "***\-
+DFA100	"cwws"**\-9*
 DFA101	"?YS> "***\-
 DFA102	">YS> "***\-
 DFA103	"=YS> "***\-
@@ -272,7 +272,7 @@ DFA10E	"2YS> "***\-
 DFA10F	"1YS> "***\-
 DFA110	"0YS> "***\-
 DFA111	"/YS> "***\-
-DFA112	".YS> "***\-
+DFA112	"awws"**\-9*
 DFA113	"-YS> "***\-
 DFA114	",YS> "***\-
 DFA115	"+YS> "***\-
@@ -281,7 +281,7 @@ DFA117	")YS> "***\-
 DFA118	"(YS> "***\-
 DFA119	"'YS> "***\-
 DFA11A	"&YS> "***\-
-DFA11B	"%YS> "***\-
+DFA11B	"`wws"**\-9*
 DFA11C	"$YS> "***\-
 DFA11D	"#YS> "***\-
 DFA11E	"`g>3-"***\-
@@ -424,7 +424,7 @@ DFA1A6	"(g>3-"***+
 DFA1A7	")g>3-"***+
 DFA1A8	"*g>3-"***+
 DFA1A9	"mO.%"***9-
-DFA1AA	"[~k /"**+*
+DFA1AA	"mO.%"***8-
 DFA1AB	"mO.%"***7-
 DFA1AC	"^&~a)"*+**
 DFA1AD	"mO.%"***5-
@@ -606,7 +606,7 @@ DFA25C	"!_U7!"***\-
 DFA25D	" _U7!"***\-
 DFA25E	".mS-$"***\-
 DFA25F	"zG/$"***9-
-DFA260	"p[~ )"*+**
+DFA260	"zG/$"***8-
 DFA261	"zG/$"***7-
 DFA262	"zG/$"***6-
 DFA263	"zG/$"***5-
@@ -1026,7 +1026,7 @@ DFA400	"je%%"***2-
 DFA401	"je%%"***1-
 DFA402	"je%%"***
 DFA403	"je%%"***1+
-DFA404	"wR~ +"*+**
+DFA404	"je%%"***2+
 DFA405	"je%%"***3+
 DFA406	"je%%"***4+
 DFA407	"je%%"***5+
@@ -1342,7 +1342,7 @@ DFA53C	"9_G5)"***\-
 DFA53D	"8_G5)"***\-
 DFA53E	"7_G5)"***\-
 DFA53F	"6_G5)"***\-
-DFA540	"tju "+**8*
+DFA540	"tjt!"+**8*
 DFA541	"4_G5)"***\-
 DFA542	"3_G5)"***\-
 DFA543	"2_G5)"***\-
@@ -1838,7 +1838,7 @@ DFA72C	"eC9&"***2+
 DFA72D	"eC9&"***3+
 DFA72E	"eC9&"***4+
 DFA72F	"eC9&"***5+
-DFA730	"~oc "+**8*
+DFA730	"eC9&"***6+
 DFA731	"eC9&"***7+
 DFA732	"eC9&"***8+
 DFA733	"eC9&"***9+

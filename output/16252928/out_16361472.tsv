@@ -50,16 +50,16 @@ F9A830	"xdJC!"***+
 F9A831	"ydJC!"***+
 F9A832	"zdJC!"***+
 F9A833	"{dJC!"***+
-F9A834	"jG~ @"*+**
+F9A834	"|dJC!"***+
 F9A835	"}dJC!"***+
 F9A836	"~dJC!"***+
-F9A837	"jG~ @"*+**3+
-F9A838	"jG~ @"*+**4+
-F9A839	"jG~ @"*+**5+
-F9A83A	"jG~ @"*+**6+
-F9A83B	"jG~ @"*+**7+
+F9A837	"vdJC!"***+9+
+F9A838	"wdJC!"***+9+
+F9A839	"xdJC!"***+9+
+F9A83A	"ydJC!"***+9+
+F9A83B	"zdJC!"***+9+
 F9A83C	"cO~~.("*++**
-F9A83D	"jG~ @"*+**9+
+F9A83D	"|dJC!"***+9+
 F9A83E	"S?~[!"*+**7-
 F9A83F	"S?~[!"*+**6-
 F9A840	"S?~[!"*+**5-
@@ -1328,7 +1328,7 @@ F9AD2E	"E~j4+"**+*
 F9AD2F	"DMIG)"***+
 F9AD30	"EMIG)"***+
 F9AD31	"FMIG)"***+
-F9AD32	"G~z ;"**+*
+F9AD32	"GMIG)"***+
 F9AD33	"HMIG)"***+
 F9AD34	"IMIG)"***+
 F9AD35	"JMIG)"***+
@@ -1341,7 +1341,7 @@ F9AD3B	"PMIG)"***+
 F9AD3C	"QMIG)"***+
 F9AD3D	"RMIG)"***+
 F9AD3E	"SMIG)"***+
-F9AD3F	"11/q "+***
+F9AD3F	"11/p!"+***
 F9AD40	"UMIG)"***+
 F9AD41	"VMIG)"***+
 F9AD42	" gS:!"***+
@@ -1606,7 +1606,7 @@ F9AE44	":WQ6+"***\-
 F9AE45	"9WQ6+"***\-
 F9AE46	"8WQ6+"***\-
 F9AE47	"7WQ6+"***\-
-F9AE48	"xmk "+**9*
+F9AE48	"xmj!"+**9*
 F9AE49	"5WQ6+"***\-
 F9AE4A	"4WQ6+"***\-
 F9AE4B	"3WQ6+"***\-
@@ -2037,12 +2037,12 @@ F9AFF3	"aHG!"***5-
 F9AFF4	"aHG!"***4-
 F9AFF5	"aHG!"***3-
 F9AFF6	"kR~/%"*+**
-F9AFF7	"^U @"***9-
+F9AFF7	"aHG!"***1-
 F9AFF8	"aHG!"***
-F9AFF9	"^U @"***7-
-F9AFFA	"^U @"***6-
-F9AFFB	"^U @"***5-
-F9AFFC	"^U @"***4-
-F9AFFD	"^U @"***3-
-F9AFFE	"^U @"***2-
-F9AFFF	"^U @"***1-
+F9AFF9	"aHG!"***1+
+F9AFFA	"aHG!"***2+
+F9AFFB	"aHG!"***3+
+F9AFFC	"aHG!"***4+
+F9AFFD	"aHG!"***5+
+F9AFFE	"aHG!"***6+
+F9AFFF	"aHG!"***7+

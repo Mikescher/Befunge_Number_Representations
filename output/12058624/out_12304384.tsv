@@ -166,7 +166,7 @@ BBC0A4	"$SG:$"***\-
 BBC0A5	"#SG:$"***\-
 BBC0A6	"$g51."***\-
 BBC0A7	"!SG:$"***\-
-BBC0A8	" SG:$"***\-
+BBC0A8	"8}sk"**\-8*
 BBC0A9	"!g51."***\-
 BBC0AA	" g51."***\-
 BBC0AB	"-^U,#"***\-
@@ -264,7 +264,7 @@ BBC106	"a>>!"***2+
 BBC107	"qom"**4-9*
 BBC108	"a>>!"***4+
 BBC109	"a>>!"***5+
-BBC10A	"K~m /"**+*
+BBC10A	"a>>!"***6+
 BBC10B	"a>>!"***7+
 BBC10C	"a>>!"***8+
 BBC10D	"a>>!"***9+
@@ -290,7 +290,7 @@ BBC120	"H^U,#"***+
 BBC121	"I^U,#"***+
 BBC122	"qom"**1-9*
 BBC123	"K^U,#"***+
-BBC124	" a>>!"***+
+BBC124	"qom"**9*7-
 BBC125	"!a>>!"***+
 BBC126	"N^U,#"***+
 BBC127	"#a>>!"***+
@@ -406,7 +406,7 @@ BBC194	"\pI+#"***\-
 BBC195	"[pI+#"***\-
 BBC196	"ZpI+#"***\-
 BBC197	"YpI+#"***\-
-BBC198	"mgi "+**8*
+BBC198	"mgh!"+**8*
 BBC199	"WpI+#"***\-
 BBC19A	"VpI+#"***\-
 BBC19B	"UpI+#"***\-
@@ -462,7 +462,7 @@ BBC1CC	"$pI+#"***\-
 BBC1CD	"iW~%!"*+**
 BBC1CE	"J{=)("***\-
 BBC1CF	"!pI+#"***\-
-BBC1D0	" pI+#"***\-
+BBC1D0	"f~pm"**\-8*
 BBC1D1	"G{=)("***\-
 BBC1D2	"F{=)("***\-
 BBC1D3	"E{=)("***\-
@@ -630,7 +630,7 @@ BBC274	"Sy7++"***\-
 BBC275	"Ry7++"***\-
 BBC276	"Qy7++"***\-
 BBC277	"Py7++"***\-
-BBC278	"|ou "+**6*
+BBC278	"|ot!"+**6*
 BBC279	"Ny7++"***\-
 BBC27A	"My7++"***\-
 BBC27B	"Ly7++"***\-
@@ -646,7 +646,7 @@ BBC284	"Cy7++"***\-
 BBC285	"By7++"***\-
 BBC286	"Ay7++"***\-
 BBC287	"vO(!"***9-
-BBC288	"ea} "+**8*
+BBC288	"vO(!"***8-
 BBC289	"vO(!"***7-
 BBC28A	"vO(!"***6-
 BBC28B	"vO(!"***5-
@@ -750,23 +750,23 @@ BBC2EC	"}11)"***7+
 BBC2ED	"}11)"***8+
 BBC2EE	"}11)"***9+
 BBC2EF	"qqS) "***\-
-BBC2F0	"pqS) "***\-
+BBC2F0	"B~pm"**\-8*
 BBC2F1	"oqS) "***\-
 BBC2F2	"nqS) "***\-
 BBC2F3	"mqS) "***\-
 BBC2F4	"|Y~a"+**5*
 BBC2F5	"kqS) "***\-
-BBC2F6	"jqS) "***\-
+BBC2F6	":ppm"**\-9*
 BBC2F7	"iqS) "***\-
-BBC2F8	"hqS) "***\-
+BBC2F8	"A~pm"**\-8*
 BBC2F9	"gqS) "***\-
 BBC2FA	"fqS) "***\-
 BBC2FB	"eqS) "***\-
 BBC2FC	"dqS) "***\-
 BBC2FD	"cqS) "***\-
 BBC2FE	"bqS) "***\-
-BBC2FF	"aqS) "***\-
-BBC300	"`qS) "***\-
+BBC2FF	"9ppm"**\-9*
+BBC300	"@~pm"**\-8*
 BBC301	"_qS) "***\-
 BBC302	"^qS) "***\-
 BBC303	"z:/%"***9-
@@ -790,45 +790,45 @@ BBC314	"z:/%"***8+
 BBC315	"z:/%"***9+
 BBC316	"JqS) "***\-
 BBC317	"IqS) "***\-
-BBC318	"HqS) "***\-
+BBC318	"=~pm"**\-8*
 BBC319	"GqS) "***\-
-BBC31A	"FqS) "***\-
+BBC31A	"6ppm"**\-9*
 BBC31B	"EqS) "***\-
 BBC31C	"DqS) "***\-
 BBC31D	"CqS) "***\-
 BBC31E	"BqS) "***\-
 BBC31F	"AqS) "***\-
-BBC320	"@qS) "***\-
+BBC320	"<~pm"**\-8*
 BBC321	"?qS) "***\-
 BBC322	">qS) "***\-
-BBC323	"=qS) "***\-
+BBC323	"5ppm"**\-9*
 BBC324	"<qS) "***\-
 BBC325	";qS) "***\-
 BBC326	":qS) "***\-
 BBC327	"9qS) "***\-
-BBC328	"8qS) "***\-
+BBC328	";~pm"**\-8*
 BBC329	"7qS) "***\-
 BBC32A	"6qS) "***\-
 BBC32B	"5qS) "***\-
-BBC32C	"4qS) "***\-
+BBC32C	"4ppm"**\-9*
 BBC32D	"3qS) "***\-
 BBC32E	"2qS) "***\-
 BBC32F	"1qS) "***\-
-BBC330	"0qS) "***\-
+BBC330	":~pm"**\-8*
 BBC331	"/qS) "***\-
 BBC332	".qS) "***\-
 BBC333	"-qS) "***\-
 BBC334	",qS) "***\-
-BBC335	"+qS) "***\-
+BBC335	"3ppm"**\-9*
 BBC336	"*qS) "***\-
 BBC337	")qS) "***\-
-BBC338	"(qS) "***\-
+BBC338	"9~pm"**\-8*
 BBC339	"'qS) "***\-
 BBC33A	"&qS) "***\-
 BBC33B	"%qS) "***\-
 BBC33C	"$qS) "***\-
 BBC33D	"#qS) "***\-
-BBC33E	"BtU' "***\-
+BBC33E	"2ppm"**\-9*
 BBC33F	"!qS) "***\-
 BBC340	"yp~e"+**4*
 BBC341	"?tU' "***\-
@@ -838,7 +838,7 @@ BBC344	"<tU' "***\-
 BBC345	"~y7++"***+
 BBC346	":tU' "***\-
 BBC347	"G?~K#"*+**
-BBC348	"8tU' "***\-
+BBC348	"7~pm"**\-8*
 BBC349	"7tU' "***\-
 BBC34A	"6tU' "***\-
 BBC34B	"5tU' "***\-
@@ -846,7 +846,7 @@ BBC34C	"4tU' "***\-
 BBC34D	"Y3~7/"*+**
 BBC34E	"2tU' "***\-
 BBC34F	"1tU' "***\-
-BBC350	"0tU' "***\-
+BBC350	"6~pm"**\-8*
 BBC351	"/tU' "***\-
 BBC352	".tU' "***\-
 BBC353	"-tU' "***\-
@@ -864,7 +864,7 @@ BBC35E	"qS )"***2-
 BBC35F	"qS )"***1-
 BBC360	"qS )"***
 BBC361	"qS )"***1+
-BBC362	"qS )"***2+
+BBC362	"}~jf"*+*9*
 BBC363	"~}11)"***+
 BBC364	"qS )"***4+
 BBC365	"qS )"***5+
@@ -1230,7 +1230,7 @@ BBC4CC	"4mb$ "***\-
 BBC4CD	"3mb$ "***\-
 BBC4CE	"2mb$ "***\-
 BBC4CF	"1mb$ "***\-
-BBC4D0	"rgc "+**8*
+BBC4D0	"rgb!"+**8*
 BBC4D1	"/mb$ "***\-
 BBC4D2	".mb$ "***\-
 BBC4D3	"ppm"**5-9*
@@ -1271,21 +1271,21 @@ BBC4F5	"/qd!!"***\-
 BBC4F6	".qd!!"***\-
 BBC4F7	"ppm"**1-9*
 BBC4F8	"~pm"**1-8*
-BBC4F9	"mb$ "***7-
-BBC4FA	"mb$ "***6-
-BBC4FB	"mb$ "***5-
-BBC4FC	"mb$ "***4-
-BBC4FD	"mb$ "***3-
-BBC4FE	"mb$ "***2-
+BBC4F9	"~pm"**8*7-
+BBC4FA	"~pm"**8*6-
+BBC4FB	"~pm"**8*5-
+BBC4FC	"~pm"**8*4-
+BBC4FD	"~pm"**8*3-
+BBC4FE	"~pm"**8*2-
 BBC4FF	"S~A5+"**+*
 BBC500	"~pm"**8*
-BBC501	"mb$ "***1+
-BBC502	"mb$ "***2+
-BBC503	"mb$ "***3+
-BBC504	"mb$ "***4+
-BBC505	"mb$ "***5+
-BBC506	"mb$ "***6+
-BBC507	"mb$ "***7+
+BBC501	"~pm"**8*1+
+BBC502	"~pm"**8*2+
+BBC503	"~pm"**8*3+
+BBC504	"~pm"**8*4+
+BBC505	"~pm"**8*5+
+BBC506	"~pm"**8*6+
+BBC507	"~pm"**8*7+
 BBC508	"~pm"**1+8*
 BBC509	"9~E;5"**+*
 BBC50A	"RIDC%"***\-
@@ -1342,7 +1342,7 @@ BBC53C	" IDC%"***\-
 BBC53D	"ag>/)"***\-
 BBC53E	"`g>/)"***\-
 BBC53F	"ppm"**7+9*
-BBC540	"^ ~A="*+**
+BBC540	"~pm"**8+8*
 BBC541	"]g>/)"***\-
 BBC542	"\g>/)"***\-
 BBC543	"[g>/)"***\-
@@ -1516,7 +1516,7 @@ BBC5EA	"hR'%"***6-
 BBC5EB	"hR'%"***5-
 BBC5EC	"hR'%"***4-
 BBC5ED	"hR'%"***3-
-BBC5EE	"I~p /"**+*
+BBC5EE	"hR'%"***2-
 BBC5EF	"hR'%"***1-
 BBC5F0	"hR'%"***
 BBC5F1	"hR'%"***1+
@@ -1525,9 +1525,9 @@ BBC5F3	"hR'%"***3+
 BBC5F4	"hR'%"***4+
 BBC5F5	"wO~="+**7*
 BBC5F6	"hR'%"***6+
-BBC5F7	"sX &"***9-
-BBC5F8	"sX &"***8-
-BBC5F9	"sX &"***7-
+BBC5F7	"hR'%"***7+
+BBC5F8	"hR'%"***8+
+BBC5F9	"hR'%"***9+
 BBC5FA	"sX &"***6-
 BBC5FB	"sX &"***5-
 BBC5FC	"sX &"***4-
@@ -1542,7 +1542,7 @@ BBC604	"sX &"***4+
 BBC605	"g;--"***
 BBC606	"sX &"***6+
 BBC607	"sX &"***7+
-BBC608	"sX &"***8+
+BBC608	"!~pm"**+8*
 BBC609	"sX &"***9+
 BBC60A	"g;--"***5+
 BBC60B	"g;--"***6+
@@ -1754,7 +1754,7 @@ BBC6D8	"Bk>5#"***+
 BBC6D9	"Ck>5#"***+
 BBC6DA	"Dk>5#"***+
 BBC6DB	"Ek>5#"***+
-BBC6DC	"znc "+**7*
+BBC6DC	"znb!"+**7*
 BBC6DD	"s:-)"***9-
 BBC6DE	"s:-)"***8-
 BBC6DF	"s:-)"***7-
@@ -1822,7 +1822,7 @@ BBC71C	"6s:-)"***+
 BBC71D	"7s:-)"***+
 BBC71E	"8s:-)"***+
 BBC71F	"9s:-)"***+
-BBC720	"tYu "+**8*
+BBC720	"tYt!"+**8*
 BBC721	";s:-)"***+
 BBC722	"<s:-)"***+
 BBC723	"=s:-)"***+

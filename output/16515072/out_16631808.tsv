@@ -140,7 +140,7 @@ FDC88A	"SI=-"***9-
 FDC88B	"SI=-"***8-
 FDC88C	"SI=-"***7-
 FDC88D	"O~SA'"**+*
-FDC88E	"UU~ D"*+**
+FDC88E	"SI=-"***5-
 FDC88F	"SI=-"***4-
 FDC890	"SI=-"***3-
 FDC891	"SI=-"***2-
@@ -1039,8 +1039,8 @@ FDCC0D	"~_[4%"***\-9-
 FDCC0E	"|lE"**1-9*2*
 FDCC0F	"]QE "***9-8-
 FDCC10	"|Q~Q"+**2-8*
-FDCC11	"]QE "***9-6-
-FDCC12	"A~V~ Y"*+*+*
+FDCC11	"].$$"***5-3*
+FDCC12	"]E$$"***7-2*
 FDCC13	"]QE "***9-4-
 FDCC14	"|l~Q"+**2-6*
 FDCC15	"]QE "***9-2-
@@ -1338,7 +1338,7 @@ FDCD38	"^iI>#"***+
 FDCD39	"_iI>#"***+
 FDCD3A	"`iI>#"***+
 FDCD3B	"aiI>#"***+
-FDCD3C	"qb~ +"*+**
+FDCD3C	"biI>#"***+
 FDCD3D	"5'~YY"*+**
 FDCD3E	"diI>#"***+
 FDCD3F	"eiI>#"***+
@@ -1378,7 +1378,7 @@ FDCD60	"mW~,%"*+**2+
 FDCD61	"mW~,%"*+**3+
 FDCD62	".~SCA"**+*
 FDCD63	"mW~,%"*+**5+
-FDCD64	"uc~~ %"*++**
+FDCD64	"mW~,%"*+**6+
 FDCD65	"mW~,%"*+**7+
 FDCD66	"mW~,%"*+**8+
 FDCD67	"mW~,%"*+**9+
@@ -1402,7 +1402,7 @@ FDCD78	"Dw8' "***\-2*
 FDCD79	"~wp' "***\-9-
 FDCD7A	"~wp' "***\-8-
 FDCD7B	"~C)#~/"+***+
-FDCD7C	"~wp' "***\-6-
+FDCD7C	"m{sb"**\-6*2*
 FDCD7D	"~wp' "***\-5-
 FDCD7E	"~wp' "***\-4-
 FDCD7F	"ooZ"**9-5*3*
@@ -1528,7 +1528,7 @@ FDCDF6	"Bmm(#"***\-
 FDCDF7	"wp '"***9-
 FDCDF8	"wp '"***8-
 FDCDF9	"wp '"***7-
-FDCDFA	"wp '"***6-
+FDCDFA	"-%"*:*2-6*
 FDCDFB	"wp '"***5-
 FDCDFC	"wp '"***4-
 FDCDFD	"wp '"***3-
@@ -1662,7 +1662,7 @@ FDCE7C	"Dmm(#"***+
 FDCE7D	"Emm(#"***+
 FDCE7E	"Fmm(#"***+
 FDCE7F	"Gmm(#"***+
-FDCE80	"t ~CA"*+**
+FDCE80	"Hmm(#"***+
 FDCE81	"Imm(#"***+
 FDCE82	"~sq( "***\-
 FDCE83	"}sq( "***\-
@@ -1805,10 +1805,10 @@ FDCF0B	"{eI0/"***+
 FDCF0C	"|eI0/"***+
 FDCF0D	"}eI0/"***+
 FDCF0E	"~eI0/"***+
-FDCF0F	"sq ("***6+9+
-FDCF10	"sq ("***7+9+
+FDCF0F	"sq@"**4*3+5*
+FDCF10	"sqP"**1+8*2*
 FDCF11	"[W~~++"*++**
-FDCF12	"sq ("***9+9+
+FDCF12	"sqP"**8*9+2*
 FDCF13	"r5~G%"*+**7-
 FDCF14	"r5~G%"*+**6-
 FDCF15	"r5~G%"*+**5-

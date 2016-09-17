@@ -391,10 +391,10 @@ FD1985	"zng"**4*7+3*
 FD1986	"QG:5&"***\-2*
 FD1987	" zg(!"***+9-
 FD1988	"zng"**2+6*2*
-FD1989	" zg(!"***+7-
+FD1989	"zgX"**3*5+5*
 FD198A	" zg(!"***+6-
-FD198B	" zg(!"***+5-
-FD198C	" zg(!"***+4-
+FD198B	"zng"**4*9+3*
+FD198C	"zng"**3*7+4*
 FD198D	" zg(!"***+3-
 FD198E	"zgX"**2+5*3*
 FD198F	" zg(!"***+1-
@@ -904,7 +904,7 @@ FD1B86	"yw$ "***6+
 FD1B87	"yw$ "***7+
 FD1B88	"yw$ "***8+
 FD1B89	"yw$ "***9+
-FD1B8A	"yw$ "***1+9+
+FD1B8A	"yw`"**6*5+2*
 FD1B8B	"yw$ "***2+9+
 FD1B8C	"E=~m#"*+**9-
 FD1B8D	"E=~m#"*+**8-
@@ -1755,7 +1755,7 @@ FD1ED9	"_URD#"***\-
 FD1EDA	"^URD#"***\-
 FD1EDB	"]URD#"***\-
 FD1EDC	"\URD#"***\-
-FD1EDD	"111m "+***
+FD1EDD	"111l!"+***
 FD1EDE	"ZURD#"***\-
 FD1EDF	"sI4&"***9-
 FD1EE0	"sI4&"***8-
@@ -1854,7 +1854,7 @@ FD1F3C	"URD#"***4+
 FD1F3D	"URD#"***5+
 FD1F3E	"URD#"***6+
 FD1F3F	"URD#"***7+
-FD1F40	"`~L G"**+*
+FD1F40	"URD#"***8+
 FD1F41	"URD#"***9+
 FD1F42	"dmY-&"***\-
 FD1F43	"cmY-&"***\-
@@ -2014,7 +2014,7 @@ FD1FDC	"$xx$ "***\-
 FD1FDD	"#xx$ "***\-
 FD1FDE	"6SS8+"***+
 FD1FDF	"!xx$ "***\-
-FD1FE0	"pg~ )"*+**
+FD1FE0	"($"*:*4-8*
 FD1FE1	"9SS8+"***+
 FD1FE2	":SS8+"***+
 FD1FE3	";SS8+"***+
@@ -2037,12 +2037,12 @@ FD1FF3	"KSS8+"***+
 FD1FF4	"P$"*:*6-2*
 FD1FF5	"MSS8+"***+
 FD1FF6	"P$"*:*5-2*
-FD1FF7	"xx $"***9-
-FD1FF8	"xx $"***8-
-FD1FF9	"xx $"***7-
-FD1FFA	"xx $"***6-
-FD1FFB	"xx $"***5-
-FD1FFC	"xx $"***4-
-FD1FFD	"xx $"***3-
-FD1FFE	"xx $"***2-
-FD1FFF	"xx $"***1-
+FD1FF7	"P$"*:*2*9-
+FD1FF8	"P$"*:*4-2*
+FD1FF9	"P$"*:*2*7-
+FD1FFA	"P$"*:*3-2*
+FD1FFB	"P$"*:*2*5-
+FD1FFC	"P$"*:*2-2*
+FD1FFD	"P$"*:*2*3-
+FD1FFE	"P$"*:*1-2*
+FD1FFF	"P$"*:*2*1-

@@ -6,7 +6,7 @@ CCD004	"tq  "***4+
 CCD005	"tq  "***5+
 CCD006	"tq  "***6+
 CCD007	"tq  "***7+
-CCD008	"tq  "***8+
+CCD008	"i|{n"**+8*
 CCD009	"tq  "***9+
 CCD00A	"6ID44"***\-
 CCD00B	"5ID44"***\-
@@ -249,7 +249,7 @@ CCD0F7	";lC5#"***+
 CCD0F8	"<lC5#"***+
 CCD0F9	"=lC5#"***+
 CCD0FA	">lC5#"***+
-CCD0FB	"wSw "+**9*
+CCD0FB	"wSv!"+**9*
 CCD0FC	"@lC5#"***+
 CCD0FD	"AlC5#"***+
 CCD0FE	"BlC5#"***+
@@ -294,7 +294,7 @@ CCD124	"hlC5#"***+
 CCD125	"ilC5#"***+
 CCD126	"jlC5#"***+
 CCD127	"klC5#"***+
-CCD128	"l~a ("**+*
+CCD128	"llC5#"***+
 CCD129	"mlC5#"***+
 CCD12A	"nlC5#"***+
 CCD12B	"olC5#"***+
@@ -321,7 +321,7 @@ CCD13F	"3aU,%"***+
 CCD140	"4aU,%"***+
 CCD141	"5aU,%"***+
 CCD142	"6aU,%"***+
-CCD143	"scc "+**9*
+CCD143	"scb!"+**9*
 CCD144	"8aU,%"***+
 CCD145	"9aU,%"***+
 CCD146	":aU,%"***+
@@ -673,7 +673,7 @@ CCD29F	"/_>5+"***\-
 CCD2A0	"._>5+"***\-
 CCD2A1	"-_>5+"***\-
 CCD2A2	"||a"**2+9*
-CCD2A3	";+%o "+***
+CCD2A3	";+%n!"+***
 CCD2A4	"*_>5+"***\-
 CCD2A5	")_>5+"***\-
 CCD2A6	"(_>5+"***\-
@@ -798,7 +798,7 @@ CCD31C	"$pS&&"***\-
 CCD31D	"#pS&&"***\-
 CCD31E	"\^Q+)"***\-
 CCD31F	"!pS&&"***\-
-CCD320	" pS&&"***\-
+CCD320	"pxqn"**\-9*
 CCD321	"Y^Q+)"***\-
 CCD322	"X^Q+)"***\-
 CCD323	"W^Q+)"***\-
@@ -816,7 +816,7 @@ CCD32E	"L^Q+)"***\-
 CCD32F	"K^Q+)"***\-
 CCD330	"J^Q+)"***\-
 CCD331	"I^Q+)"***\-
-CCD332	"unu "+**7*
+CCD332	"unt!"+**7*
 CCD333	"G^Q+)"***\-
 CCD334	"F^Q+)"***\-
 CCD335	"E^Q+)"***\-
@@ -906,7 +906,7 @@ CCD388	"msI)'"***\-
 CCD389	"lsI)'"***\-
 CCD38A	"ksI)'"***\-
 CCD38B	"jsI)'"***\-
-CCD38C	"}r} "+**6*
+CCD38C	"}r|!"+**6*
 CCD38D	"hsI)'"***\-
 CCD38E	"gsI)'"***\-
 CCD38F	"fsI)'"***\-
@@ -987,7 +987,7 @@ CCD3D9	"gvO- "***\-
 CCD3DA	"kgW"**7*2*
 CCD3DB	"evO- "***\-
 CCD3DC	"dvO- "***\-
-CCD3DD	"cvO- "***\-
+CCD3DD	"[xqn"**\-9*
 CCD3DE	"bvO- "***\-
 CCD3DF	"avO- "***\-
 CCD3E0	"`C~5%"*+**
@@ -996,7 +996,7 @@ CCD3E2	"^vO- "***\-
 CCD3E3	"]vO- "***\-
 CCD3E4	"\vO- "***\-
 CCD3E5	"[vO- "***\-
-CCD3E6	"ZvO- "***\-
+CCD3E6	"Zxqn"**\-9*
 CCD3E7	"YvO- "***\-
 CCD3E8	"XvO- "***\-
 CCD3E9	"WvO- "***\-
@@ -1023,7 +1023,7 @@ CCD3FD	"sI)'"***8+
 CCD3FE	"sI)'"***9+
 CCD3FF	"AvO- "***\-
 CCD400	"@vO- "***\-
-CCD401	"?vO- "***\-
+CCD401	"Wxqn"**\-9*
 CCD402	">vO- "***\-
 CCD403	"=vO- "***\-
 CCD404	"<vO- "***\-
@@ -1032,7 +1032,7 @@ CCD406	":vO- "***\-
 CCD407	"9vO- "***\-
 CCD408	"8vO- "***\-
 CCD409	"7vO- "***\-
-CCD40A	"6vO- "***\-
+CCD40A	"Vxqn"**\-9*
 CCD40B	"5vO- "***\-
 CCD40C	"j.~G%"*+**
 CCD40D	"3vO- "***\-
@@ -1041,7 +1041,7 @@ CCD40F	"1vO- "***\-
 CCD410	"0vO- "***\-
 CCD411	"/vO- "***\-
 CCD412	".vO- "***\-
-CCD413	"-vO- "***\-
+CCD413	"Uxqn"**\-9*
 CCD414	",vO- "***\-
 CCD415	"+vO- "***\-
 CCD416	"*vO- "***\-
@@ -1050,7 +1050,7 @@ CCD418	"(vO- "***\-
 CCD419	"'vO- "***\-
 CCD41A	"&vO- "***\-
 CCD41B	"%vO- "***\-
-CCD41C	"$vO- "***\-
+CCD41C	"Txqn"**\-9*
 CCD41D	"#vO- "***\-
 CCD41E	"^nV+!"***\-
 CCD41F	"!vO- "***\-
@@ -1494,7 +1494,7 @@ CCD5D4	"g;//"***9-
 CCD5D5	"g;//"***8-
 CCD5D6	"g;//"***7-
 CCD5D7	"g;//"***6-
-CCD5D8	"\S~ 3"*+**
+CCD5D8	"g;//"***5-
 CCD5D9	"g;//"***4-
 CCD5DA	"g;//"***3-
 CCD5DB	"g;//"***2-
@@ -2004,7 +2004,7 @@ CCD7D2	".sr  "***\-
 CCD7D3	"!OD31"***\-
 CCD7D4	" OD31"***\-
 CCD7D5	"+sr  "***\-
-CCD7D6	"*sr  "***\-
+CCD7D6	"+wsm"**\-9*
 CCD7D7	")sr  "***\-
 CCD7D8	"dV~)#"*+**
 CCD7D9	"'sr  "***\-
@@ -2013,7 +2013,7 @@ CCD7DB	"%sr  "***\-
 CCD7DC	"$sr  "***\-
 CCD7DD	"#sr  "***\-
 CCD7DE	"[u=9!"***\-
-CCD7DF	"!sr  "***\-
+CCD7DF	"*wsm"**\-9*
 CCD7E0	" sr  "***\-
 CCD7E1	"Xu=9!"***\-
 CCD7E2	"Wu=9!"***\-
@@ -2037,12 +2037,12 @@ CCD7F3	"OD31"***1-
 CCD7F4	"OD31"***
 CCD7F5	"OD31"***1+
 CCD7F6	"OD31"***2+
-CCD7F7	"x\ &"***9-
-CCD7F8	"x\ &"***8-
-CCD7F9	"x\ &"***7-
-CCD7FA	"x\ &"***6-
-CCD7FB	"x\ &"***5-
-CCD7FC	"x\ &"***4-
-CCD7FD	"x\ &"***3-
+CCD7F7	"OD31"***3+
+CCD7F8	"OD31"***4+
+CCD7F9	"OD31"***5+
+CCD7FA	"OD31"***6+
+CCD7FB	"OD31"***7+
+CCD7FC	"OD31"***8+
+CCD7FD	"OD31"***9+
 CCD7FE	"x\ &"***2-
 CCD7FF	"x\ &"***1-

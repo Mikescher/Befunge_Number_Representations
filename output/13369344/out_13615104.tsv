@@ -4,7 +4,7 @@ CFC002	"^]K= "***\-
 CFC003	"]]K= "***\-
 CFC004	"\]K= "***\-
 CFC005	"[]K= "***\-
-CFC006	"Z]K= "***\-
+CFC006	"n{{d"**\-9*
 CFC007	"Y]K= "***\-
 CFC008	"X]K= "***\-
 CFC009	"W]K= "***\-
@@ -86,23 +86,23 @@ CFC054	"ue_+!"***\-
 CFC055	"te_+!"***\-
 CFC056	"se_+!"***\-
 CFC057	"|zd"**1-9*
-CFC058	"]K= "***8-
-CFC059	"]K= "***7-
-CFC05A	"]K= "***6-
-CFC05B	"]K= "***5-
-CFC05C	"]K= "***4-
-CFC05D	"]K= "***3-
-CFC05E	"]K= "***2-
-CFC05F	"]K= "***1-
+CFC058	"|zd"**9*8-
+CFC059	"|zd"**9*7-
+CFC05A	"|zd"**9*6-
+CFC05B	"|zd"**9*5-
+CFC05C	"|zd"**9*4-
+CFC05D	"|zd"**9*3-
+CFC05E	"|zd"**9*2-
+CFC05F	"|zd"**9*1-
 CFC060	"|zd"**9*
-CFC061	"]K= "***1+
-CFC062	"]K= "***2+
-CFC063	"]K= "***3+
+CFC061	"|zd"**9*1+
+CFC062	"|zd"**9*2+
+CFC063	"|zd"**9*3+
 CFC064	"eC~.)"*+**
-CFC065	"]K= "***5+
-CFC066	"]K= "***6+
-CFC067	"]K= "***7+
-CFC068	"]K= "***8+
+CFC065	"|zd"**9*5+
+CFC066	"|zd"**9*6+
+CFC067	"|zd"**9*7+
+CFC068	"|zd"**9*8+
 CFC069	"|zd"**1+9*
 CFC06A	"_:~C#"*+**
 CFC06B	"^e_+!"***\-
@@ -117,7 +117,7 @@ CFC073	"Ve_+!"***\-
 CFC074	"Ue_+!"***\-
 CFC075	"Te_+!"***\-
 CFC076	"Se_+!"***\-
-CFC077	"55%c "+***
+CFC077	"55%b!"+***
 CFC078	"Qe_+!"***\-
 CFC079	"Pe_+!"***\-
 CFC07A	"Oe_+!"***\-
@@ -216,7 +216,7 @@ CFC0D6	"5o?;!"***\-
 CFC0D7	"4o?;!"***\-
 CFC0D8	"3o?;!"***\-
 CFC0D9	"2o?;!"***\-
-CFC0DA	"zku "+**7*
+CFC0DA	"zkt!"+**7*
 CFC0DB	"0o?;!"***\-
 CFC0DC	"/o?;!"***\-
 CFC0DD	".o?;!"***\-
@@ -310,7 +310,7 @@ CFC134	"$M>>."***\-
 CFC135	"WO~5#"*+**
 CFC136	"+o?;!"***+
 CFC137	"!M>>."***\-
-CFC138	" M>>."***\-
+CFC138	"L{{d"**\-9*
 CFC139	".o?;!"***+
 CFC13A	"/o?;!"***+
 CFC13B	"0o?;!"***+
@@ -502,7 +502,7 @@ CFC1F4	"III#"***9+
 CFC1F5	"<]Y/#"***\-
 CFC1F6	";]Y/#"***\-
 CFC1F7	":]Y/#"***\-
-CFC1F8	"{ei "+**8*
+CFC1F8	"{eh!"+**8*
 CFC1F9	"8]Y/#"***\-
 CFC1FA	"7]Y/#"***\-
 CFC1FB	"6]Y/#"***\-
@@ -510,7 +510,7 @@ CFC1FC	"5]Y/#"***\-
 CFC1FD	"4]Y/#"***\-
 CFC1FE	"3]Y/#"***\-
 CFC1FF	"2]Y/#"***\-
-CFC200	"tpc "+**8*
+CFC200	"tpb!"+**8*
 CFC201	"0]Y/#"***\-
 CFC202	"/]Y/#"***\-
 CFC203	".]Y/#"***\-
@@ -607,7 +607,7 @@ CFC25D	" IGG%"***\-
 CFC25E	"BgQ3 "***\-
 CFC25F	"AgQ3 "***\-
 CFC260	"^X~(&"*+**
-CFC261	"?gQ3 "***\-
+CFC261	"+{{d"**\-9*
 CFC262	">gQ3 "***\-
 CFC263	"=gQ3 "***\-
 CFC264	"<gQ3 "***\-
@@ -616,7 +616,7 @@ CFC266	":gQ3 "***\-
 CFC267	"9gQ3 "***\-
 CFC268	"8gQ3 "***\-
 CFC269	"~III#"***+
-CFC26A	"6gQ3 "***\-
+CFC26A	"*{{d"**\-9*
 CFC26B	"5gQ3 "***\-
 CFC26C	"4gQ3 "***\-
 CFC26D	"3gQ3 "***\-
@@ -760,7 +760,7 @@ CFC2F6	"FzY&!"***\-
 CFC2F7	"EzY&!"***\-
 CFC2F8	"DzY&!"***\-
 CFC2F9	"CzY&!"***\-
-CFC2FA	"c~q &"**+*
+CFC2FA	"u_##"***9-
 CFC2FB	"~IGG%"***+
 CFC2FC	"u_##"***7-
 CFC2FD	"u_##"***6-
@@ -830,7 +830,7 @@ CFC33C	"zY&!"***
 CFC33D	"zY&!"***1+
 CFC33E	"zY&!"***2+
 CFC33F	"zY&!"***3+
-CFC340	"R ~S="*+**
+CFC340	"zY&!"***4+
 CFC341	"zY&!"***5+
 CFC342	"~~mm"*+*9*
 CFC343	"zY&!"***7+
@@ -886,7 +886,7 @@ CFC374	"Sk511"***\-
 CFC375	"Rk511"***\-
 CFC376	"Qk511"***\-
 CFC377	"}\ %"***9-
-CFC378	"}\ %"***8-
+CFC378	"X|zd"**+9*
 CFC379	"}\ %"***7-
 CFC37A	"}\ %"***6-
 CFC37B	"}\ %"***5-
@@ -895,7 +895,7 @@ CFC37D	"}\ %"***3-
 CFC37E	"}\ %"***2-
 CFC37F	"}\ %"***1-
 CFC380	"}\ %"***
-CFC381	"}\ %"***1+
+CFC381	"Y|zd"**+9*
 CFC382	"}\ %"***2+
 CFC383	"}\ %"***3+
 CFC384	"}\ %"***4+
@@ -1020,7 +1020,7 @@ CFC3FA	"y>7!"***8-
 CFC3FB	"y>7!"***7-
 CFC3FC	"-)"*:*6+4*
 CFC3FD	"y>7!"***5-
-CFC3FE	"~}\ %"***+
+CFC3FE	"y>7!"***4-
 CFC3FF	"{{d"**3+9*
 CFC400	"-)"*:*7+4*
 CFC401	"y>7!"***1-
@@ -1168,7 +1168,7 @@ CFC48E	"^C/."***6-
 CFC48F	"^C/."***5-
 CFC490	"^C/."***4-
 CFC491	"^C/."***3-
-CFC492	"rqw "+**7*
+CFC492	"^C/."***2-
 CFC493	"^C/."***1-
 CFC494	"^C/."***
 CFC495	"^C/."***1+
@@ -1327,7 +1327,7 @@ CFC52D	"sWIC "***\-
 CFC52E	"rWIC "***\-
 CFC52F	"qWIC "***\-
 CFC530	"pWIC "***\-
-CFC531	"oWIC "***\-
+CFC531	"kzuj"**\-9*
 CFC532	"nWIC "***\-
 CFC533	"mWIC "***\-
 CFC534	"lWIC "***\-
@@ -1336,7 +1336,7 @@ CFC536	"jWIC "***\-
 CFC537	"iWIC "***\-
 CFC538	"hWIC "***\-
 CFC539	"gWIC "***\-
-CFC53A	"fWIC "***\-
+CFC53A	"jzuj"**\-9*
 CFC53B	"eWIC "***\-
 CFC53C	"dWIC "***\-
 CFC53D	"cWIC "***\-
@@ -1372,7 +1372,7 @@ CFC55A	"FWIC "***\-
 CFC55B	"EWIC "***\-
 CFC55C	"DWIC "***\-
 CFC55D	"CWIC "***\-
-CFC55E	"BWIC "***\-
+CFC55E	"fzuj"**\-9*
 CFC55F	"AWIC "***\-
 CFC560	"@WIC "***\-
 CFC561	"?WIC "***\-
@@ -1381,7 +1381,7 @@ CFC563	"=WIC "***\-
 CFC564	"<WIC "***\-
 CFC565	";WIC "***\-
 CFC566	":WIC "***\-
-CFC567	"9WIC "***\-
+CFC567	"ezuj"**\-9*
 CFC568	"8WIC "***\-
 CFC569	"7WIC "***\-
 CFC56A	"6WIC "***\-
@@ -1390,7 +1390,7 @@ CFC56C	"4WIC "***\-
 CFC56D	"3WIC "***\-
 CFC56E	"2WIC "***\-
 CFC56F	"1WIC "***\-
-CFC570	"0WIC "***\-
+CFC570	"dzuj"**\-9*
 CFC571	"/WIC "***\-
 CFC572	".WIC "***\-
 CFC573	"-WIC "***\-
@@ -1399,7 +1399,7 @@ CFC575	"+WIC "***\-
 CFC576	"*WIC "***\-
 CFC577	")WIC "***\-
 CFC578	"(WIC "***\-
-CFC579	"'WIC "***\-
+CFC579	"czuj"**\-9*
 CFC57A	".~U;;"**+*
 CFC57B	"%WIC "***\-
 CFC57C	"$WIC "***\-
@@ -1504,7 +1504,7 @@ CFC5DE	">WIC "***+
 CFC5DF	"?WIC "***+
 CFC5E0	"@WIC "***+
 CFC5E1	"AWIC "***+
-CFC5E2	"vi} "+**7*
+CFC5E2	"vi|!"+**7*
 CFC5E3	"CWIC "***+
 CFC5E4	"DWIC "***+
 CFC5E5	"EWIC "***+
@@ -1534,7 +1534,7 @@ CFC5FC	",RJD!"***+
 CFC5FD	"-RJD!"***+
 CFC5FE	".RJD!"***+
 CFC5FF	"/RJD!"***+
-CFC600	"x`~ !"*+**
+CFC600	"x`~G"+**6*
 CFC601	"1RJD!"***+
 CFC602	"2RJD!"***+
 CFC603	"3RJD!"***+
@@ -1939,7 +1939,7 @@ CFC791	"ozm  "***\-
 CFC792	"nzm  "***\-
 CFC793	"mzm  "***\-
 CFC794	"lzm  "***\-
-CFC795	"kzm  "***\-
+CFC795	"'zuj"**\-9*
 CFC796	"~sR&&"***+
 CFC797	"izm  "***\-
 CFC798	"hzm  "***\-
@@ -1948,7 +1948,7 @@ CFC79A	"fzm  "***\-
 CFC79B	"ezm  "***\-
 CFC79C	"dzm  "***\-
 CFC79D	"czm  "***\-
-CFC79E	"bzm  "***\-
+CFC79E	"&zuj"**\-9*
 CFC79F	"azm  "***\-
 CFC7A0	"`zm  "***\-
 CFC7A1	"_zm  "***\-
@@ -1993,7 +1993,7 @@ CFC7C7	"9zm  "***\-
 CFC7C8	"8zm  "***\-
 CFC7C9	"7zm  "***\-
 CFC7CA	"6zm  "***\-
-CFC7CB	"5zm  "***\-
+CFC7CB	"!zuj"**\-9*
 CFC7CC	"4zm  "***\-
 CFC7CD	"3zm  "***\-
 CFC7CE	"2zm  "***\-
@@ -2038,7 +2038,7 @@ CFC7F4	",|85%"***\-
 CFC7F5	"+|85%"***\-
 CFC7F6	"M~^/("**+*
 CFC7F7	"zm  "***9-
-CFC7F8	"zm  "***8-
+CFC7F8	"t{{d"**+9*
 CFC7F9	"zm  "***7-
 CFC7FA	"S~m /"**+*
 CFC7FB	"zm  "***5-

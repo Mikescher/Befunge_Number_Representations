@@ -6,7 +6,7 @@ FC5804	"dL D"***4+
 FC5805	"dL D"***5+
 FC5806	"dL D"***6+
 FC5807	"dL D"***7+
-FC5808	"dL D"***8+
+FC5808	"l^~7"+**9*
 FC5809	"dL D"***9+
 FC580A	"AyG7#"***\-
 FC580B	"@yG7#"***\-
@@ -124,7 +124,7 @@ FC587A	"/yG7#"***+
 FC587B	"0yG7#"***+
 FC587C	"1yG7#"***+
 FC587D	"2yG7#"***+
-FC587E	"~dL D"***+
+FC587E	"3yG7#"***+
 FC587F	"4yG7#"***+
 FC5880	"5yG7#"***+
 FC5881	"6yG7#"***+
@@ -704,15 +704,15 @@ FC5ABE	" {O.%"***\-
 FC5ABF	" nDC!"***+9-
 FC5AC0	"tmm"**4-6*2*
 FC5AC1	"mU3"**8+7*5*
-FC5AC2	" nDC!"***+6-
-FC5AC3	" nDC!"***+5-
-FC5AC4	" nDC!"***+4-
+FC5AC2	"CG;/*"***+2*
+FC5AC3	"O.)%"***9-3*
+FC5AC4	"DG;/*"***+2*
 FC5AC5	" nDC!"***+3-
 FC5AC6	"yDC"**1+6*5*
 FC5AC7	" nDC!"***+1-
 FC5AC8	" nDC!"***+
 FC5AC9	"!nDC!"***+
-FC5ACA	" nDC!"***+2+
+FC5ACA	"GG;/*"***+2*
 FC5ACB	"#nDC!"***+
 FC5ACC	"$nDC!"***+
 FC5ACD	"%nDC!"***+
@@ -1398,7 +1398,7 @@ FC5D74	"kA:)"***6+
 FC5D75	"kA:)"***7+
 FC5D76	"kA:)"***8+
 FC5D77	"kA:)"***9+
-FC5D78	"}ou "+**8*
+FC5D78	"ym&!"***6-
 FC5D79	"ym&!"***5-
 FC5D7A	"ym&!"***4-
 FC5D7B	"ym&!"***3-
@@ -1520,7 +1520,7 @@ FC5DEE	"|_'$"***2-
 FC5DEF	"|_'$"***1-
 FC5DF0	"|_'$"***
 FC5DF1	"|_'$"***1+
-FC5DF2	"g~m ."**+*
+FC5DF2	"|_'$"***2+
 FC5DF3	"|_'$"***3+
 FC5DF4	"O~z1#"**+*
 FC5DF5	"|_'$"***5+
@@ -1869,7 +1869,7 @@ FC5F4B	"mrS.&"***\-
 FC5F4C	"lrS.&"***\-
 FC5F4D	"krS.&"***\-
 FC5F4E	"jrS.&"***\-
-FC5F4F	"uqk "+**9*
+FC5F4F	"uqj!"+**9*
 FC5F50	"hrS.&"***\-
 FC5F51	"grS.&"***\-
 FC5F52	"frS.&"***\-

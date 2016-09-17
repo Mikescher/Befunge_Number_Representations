@@ -23,14 +23,14 @@ BC1815	"'w:/&"***\-
 BC1816	"&w:/&"***\-
 BC1817	"%w:/&"***\-
 BC1818	"$w:/&"***\-
-BC1819	"{gk "+**7*
+BC1819	"{gj!"+**7*
 BC181A	"fgU, "***\-
 BC181B	"!w:/&"***\-
-BC181C	" w:/&"***\-
+BC181C	"D{t`"**\-9*
 BC181D	"cgU, "***\-
 BC181E	"bgU, "***\-
 BC181F	"agU, "***\-
-BC1820	"`gU, "***\-
+BC1820	"L{tl"**\-8*
 BC1821	"_gU, "***\-
 BC1822	"^gU, "***\-
 BC1823	"]gU, "***\-
@@ -38,7 +38,7 @@ BC1824	"\gU, "***\-
 BC1825	"eG~A"+**9*
 BC1826	"ZgU, "***\-
 BC1827	"YgU, "***\-
-BC1828	"XgU, "***\-
+BC1828	"K{tl"**\-8*
 BC1829	"WgU, "***\-
 BC182A	"VgU, "***\-
 BC182B	"UgU, "***\-
@@ -46,7 +46,7 @@ BC182C	"TgU, "***\-
 BC182D	"SgU, "***\-
 BC182E	"RgU, "***\-
 BC182F	"QgU, "***\-
-BC1830	"PgU, "***\-
+BC1830	"J{tl"**\-8*
 BC1831	"OgU, "***\-
 BC1832	"NgU, "***\-
 BC1833	"w:/&"***9-
@@ -70,15 +70,15 @@ BC1844	"w:/&"***8+
 BC1845	"w:/&"***9+
 BC1846	":gU, "***\-
 BC1847	"9gU, "***\-
-BC1848	"8gU, "***\-
-BC1849	"7gU, "***\-
+BC1848	"G{tl"**\-8*
+BC1849	"?{t`"**\-9*
 BC184A	"6gU, "***\-
 BC184B	"5gU, "***\-
 BC184C	"4gU, "***\-
 BC184D	"3gU, "***\-
 BC184E	"2gU, "***\-
 BC184F	"1gU, "***\-
-BC1850	"0gU, "***\-
+BC1850	"F{tl"**\-8*
 BC1851	"/gU, "***\-
 BC1852	"oS~a"+**6*
 BC1853	"-gU, "***\-
@@ -86,10 +86,10 @@ BC1854	",gU, "***\-
 BC1855	"+gU, "***\-
 BC1856	"*gU, "***\-
 BC1857	")gU, "***\-
-BC1858	"(gU, "***\-
+BC1858	"E{tl"**\-8*
 BC1859	"'gU, "***\-
 BC185A	"&gU, "***\-
-BC185B	"%gU, "***\-
+BC185B	"={t`"**\-9*
 BC185C	"$gU, "***\-
 BC185D	"#gU, "***\-
 BC185E	"n\V)&"***+
@@ -632,20 +632,20 @@ BC1A76	"a44/"***6+
 BC1A77	"{t`"**1-9*
 BC1A78	"{tl"**1-8*
 BC1A79	"a44/"***9+
-BC1A7A	"{W$ "***6-
-BC1A7B	"{W$ "***5-
-BC1A7C	"{W$ "***4-
-BC1A7D	"{W$ "***3-
-BC1A7E	"{W$ "***2-
-BC1A7F	"{W$ "***1-
+BC1A7A	"{tl"**8*6-
+BC1A7B	"{tl"**8*5-
+BC1A7C	"{tl"**8*4-
+BC1A7D	"{tl"**8*3-
+BC1A7E	"{tl"**8*2-
+BC1A7F	"{tl"**8*1-
 BC1A80	"{tl"**8*
-BC1A81	"{W$ "***1+
-BC1A82	"{W$ "***2+
+BC1A81	"{tl"**8*1+
+BC1A82	"{tl"**8*2+
 BC1A83	"geO"**5*3*
-BC1A84	"{W$ "***4+
-BC1A85	"{W$ "***5+
-BC1A86	"{W$ "***6+
-BC1A87	"{W$ "***7+
+BC1A84	"{tl"**8*4+
+BC1A85	"{tl"**8*5+
+BC1A86	"{tl"**8*6+
+BC1A87	"{tl"**8*7+
 BC1A88	"{tl"**1+8*
 BC1A89	"{t`"**1+9*
 BC1A8A	"^eI,&"***\-
@@ -816,7 +816,7 @@ BC1B2E	"FeI,&"***+
 BC1B2F	"GeI,&"***+
 BC1B30	"HeI,&"***+
 BC1B31	"IeI,&"***+
-BC1B32	"aG~ 4"*+**
+BC1B32	"JeI,&"***+
 BC1B33	"KeI,&"***+
 BC1B34	"LeI,&"***+
 BC1B35	"MeI,&"***+
@@ -877,7 +877,7 @@ BC1B6B	"qm:2'"***\-
 BC1B6C	"pm:2'"***\-
 BC1B6D	"om:2'"***\-
 BC1B6E	"nm:2'"***\-
-BC1B6F	"mkw "+**7*
+BC1B6F	"mkv!"+**7*
 BC1B70	"lm:2'"***\-
 BC1B71	"km:2'"***\-
 BC1B72	"jm:2'"***\-
@@ -1078,8 +1078,8 @@ BC1C34	"VqW&!"***\-
 BC1C35	"UqW&!"***\-
 BC1C36	"TqW&!"***\-
 BC1C37	"}C. "***9-
-BC1C38	"}C. "***8-
-BC1C39	"}C. "***7-
+BC1C38	"7{tl"**+8*
+BC1C39	"1{t`"**+9*
 BC1C3A	"}C. "***6-
 BC1C3B	"}C. "***5-
 BC1C3C	"}C. "***4-
@@ -1088,13 +1088,13 @@ BC1C3E	"}C. "***2-
 BC1C3F	"}C. "***1-
 BC1C40	"}C. "***
 BC1C41	"}C. "***1+
-BC1C42	"}C. "***2+
+BC1C42	"2{t`"**+9*
 BC1C43	"}C. "***3+
 BC1C44	"}C. "***4+
 BC1C45	"}C. "***5+
 BC1C46	"}C. "***6+
 BC1C47	"}C. "***7+
-BC1C48	"}C. "***8+
+BC1C48	"9{tl"**+8*
 BC1C49	"}C. "***9+
 BC1C4A	"@qW&!"***\-
 BC1C4B	"3{t`"**+9*
@@ -1502,7 +1502,7 @@ BC1DDC	"|RDC!"***\-
 BC1DDD	"{RDC!"***\-
 BC1DDE	".~MG1"**+*
 BC1DDF	"yRDC!"***\-
-BC1DE0	"rH~ +"*+**
+BC1DE0	"r~|l"*+*8*
 BC1DE1	"wRDC!"***\-
 BC1DE2	"vRDC!"***\-
 BC1DE3	"uRDC!"***\-
@@ -1853,7 +1853,7 @@ BC1F3B	"u;/&"***5+
 BC1F3C	"u;/&"***6+
 BC1F3D	"u;/&"***7+
 BC1F3E	"u;/&"***8+
-BC1F3F	"eci "+**9*
+BC1F3F	"u;/&"***9+
 BC1F40	"@~y+%"**+*
 BC1F41	"DM955"***+
 BC1F42	"EM955"***+
@@ -1925,7 +1925,7 @@ BC1F83	"}pV( "***\-
 BC1F84	"|pV( "***\-
 BC1F85	"{pV( "***\-
 BC1F86	"zpV( "***\-
-BC1F87	"ypV( "***\-
+BC1F87	"[yof"**\-9*
 BC1F88	"xpV( "***\-
 BC1F89	"wpV( "***\-
 BC1F8A	"vpV( "***\-
@@ -1934,7 +1934,7 @@ BC1F8C	"tpV( "***\-
 BC1F8D	"spV( "***\-
 BC1F8E	"rpV( "***\-
 BC1F8F	"qpV( "***\-
-BC1F90	"~lw "+**6*
+BC1F90	"~lv!"+**6*
 BC1F91	"opV( "***\-
 BC1F92	"npV( "***\-
 BC1F93	"mpV( "***\-
@@ -1943,7 +1943,7 @@ BC1F95	"kpV( "***\-
 BC1F96	"jpV( "***\-
 BC1F97	"ipV( "***\-
 BC1F98	"hpV( "***\-
-BC1F99	"gpV( "***\-
+BC1F99	"Yyof"**\-9*
 BC1F9A	"fpV( "***\-
 BC1F9B	"epV( "***\-
 BC1F9C	"dpV( "***\-
@@ -1961,7 +1961,7 @@ BC1FA7	"YpV( "***\-
 BC1FA8	"XpV( "***\-
 BC1FA9	"WpV( "***\-
 BC1FAA	"VpV( "***\-
-BC1FAB	"UpV( "***\-
+BC1FAB	"Wyof"**\-9*
 BC1FAC	"TpV( "***\-
 BC1FAD	"SpV( "***\-
 BC1FAE	"RpV( "***\-
@@ -1970,7 +1970,7 @@ BC1FB0	"PpV( "***\-
 BC1FB1	"OpV( "***\-
 BC1FB2	"NpV( "***\-
 BC1FB3	"MpV( "***\-
-BC1FB4	"LpV( "***\-
+BC1FB4	"Vyof"**\-9*
 BC1FB5	"KpV( "***\-
 BC1FB6	"JpV( "***\-
 BC1FB7	"IpV( "***\-
@@ -1979,7 +1979,7 @@ BC1FB9	"GpV( "***\-
 BC1FBA	"FpV( "***\-
 BC1FBB	"EpV( "***\-
 BC1FBC	"DpV( "***\-
-BC1FBD	"CpV( "***\-
+BC1FBD	"Uyof"**\-9*
 BC1FBE	"BpV( "***\-
 BC1FBF	"ApV( "***\-
 BC1FC0	"@pV( "***\-
@@ -1988,7 +1988,7 @@ BC1FC2	">pV( "***\-
 BC1FC3	"=pV( "***\-
 BC1FC4	"<pV( "***\-
 BC1FC5	";pV( "***\-
-BC1FC6	":pV( "***\-
+BC1FC6	"Tyof"**\-9*
 BC1FC7	"9pV( "***\-
 BC1FC8	"8pV( "***\-
 BC1FC9	"7pV( "***\-
@@ -1997,7 +1997,7 @@ BC1FCB	"5pV( "***\-
 BC1FCC	"4pV( "***\-
 BC1FCD	"3pV( "***\-
 BC1FCE	"2pV( "***\-
-BC1FCF	"1pV( "***\-
+BC1FCF	"Syof"**\-9*
 BC1FD0	"0pV( "***\-
 BC1FD1	"/pV( "***\-
 BC1FD2	".pV( "***\-
@@ -2006,7 +2006,7 @@ BC1FD4	",pV( "***\-
 BC1FD5	"+pV( "***\-
 BC1FD6	"*pV( "***\-
 BC1FD7	")pV( "***\-
-BC1FD8	"(pV( "***\-
+BC1FD8	"Ryof"**\-9*
 BC1FD9	"'pV( "***\-
 BC1FDA	"&pV( "***\-
 BC1FDB	"%pV( "***\-
@@ -2015,7 +2015,7 @@ BC1FDD	"#pV( "***\-
 BC1FDE	"BuY% "***\-
 BC1FDF	"!pV( "***\-
 BC1FE0	" pV( "***\-
-BC1FE1	"?uY% "***\-
+BC1FE1	"Qyof"**\-9*
 BC1FE2	">uY% "***\-
 BC1FE3	"=uY% "***\-
 BC1FE4	"<uY% "***\-
@@ -2024,7 +2024,7 @@ BC1FE6	":uY% "***\-
 BC1FE7	"9uY% "***\-
 BC1FE8	"8uY% "***\-
 BC1FE9	"7uY% "***\-
-BC1FEA	"6uY% "***\-
+BC1FEA	"Pyof"**\-9*
 BC1FEB	"1~IA5"**+*
 BC1FEC	"4uY% "***\-
 BC1FED	"3uY% "***\-
@@ -2033,7 +2033,7 @@ BC1FEF	"1uY% "***\-
 BC1FF0	"0uY% "***\-
 BC1FF1	"/uY% "***\-
 BC1FF2	".uY% "***\-
-BC1FF3	"-uY% "***\-
+BC1FF3	"Oyof"**\-9*
 BC1FF4	",uY% "***\-
 BC1FF5	"+uY% "***\-
 BC1FF6	"*uY% "***\-
