@@ -2,7 +2,7 @@ var REGEX_NUMBER = /^(\-?[0-9]+|0[xX][0-9A-Fa-f]+)$/;
 var REGEX_NUMBER_RANGE = /^([0-9]+|0[xX][0-9A-Fa-f]+)[ ]*\-[ ]*([0-9]+|0[xX][0-9A-Fa-f]+)$/;
 
 const MIN = 0;
-const MAX = 16777216;
+const MAX = 16777215;
 const PARTITION_SIZE = 128;
 const FILE_SIZE = 2048;
 const FOLDER_DEPTH = 1;
